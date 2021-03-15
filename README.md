@@ -11,7 +11,7 @@ The main research question was:
 
 The main data structure is as follows:
 
-* 46,483 corporate 10-K filings (median report length: 49,117 words / 4,415 word types; time horizon covered: 1999 – 2017)
+* 46,483 corporate 10-K filings (median report length: 49,117 words / 4,415 word types; time horizon covered: 1999 – 2017). These can be downloaded by navigating the Google Drive links provided by Bill McDonald on his [Software Repository for Accounting and Finance (SRAF)](https://sraf.nd.edu/data/stage-one-10-x-parse-data/). 
 * Five so-called «LM» dictionaries [(Loughran & McDonald, 2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1331573): Negative, Positive, Uncertainty, Litigious, Strong Modal 
 * Price and trading volume data around the filing’s submission date (one year pre- and one week post-filing) used to compute the main variable of interest: post-filing realized volatility (`𝑃𝐹𝑅𝑉`)
 * Control variables: pre-filing realized volatility, firm size, book-to-market ratio, trading volume, VIX, financial leverage, filing year/month/weekday/monthday dummies, filing type dummies, sector dummies
