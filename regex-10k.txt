@@ -1,0 +1,6 @@
+Regex for the 13 surviving 10-K* variants:
+
+
+# gsub("(10\\-K(\\-A)*) | (10\\-K405(\\-A)*) | (10(\\-)*KSB(\\-A)*) | (10\\-KT(\\-A)*) | (10\\-KSB40(\\-A)*) | (10\\-KT405*)", 
+#      " XFSCBTAX ",
+#      "10-K filing. Or 10Ks. Or 10-K405 as well as 10-K405-A. Or 10K-A's. Or KSB405. Or 10KSB40-10.")

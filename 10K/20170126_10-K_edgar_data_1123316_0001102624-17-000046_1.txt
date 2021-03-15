@@ -1,0 +1,1643 @@
+<Header>
+<FileStats>
+    <FileName>20170126_10-K_edgar_data_1123316_0001102624-17-000046_1.txt</FileName>
+    <GrossFileSize>4149964</GrossFileSize>
+    <NetFileSize>139350</NetFileSize>
+    <ASCII_Embedded_Chars>241177</ASCII_Embedded_Chars>
+    <HTML_Chars>1374815</HTML_Chars>
+    <XBRL_Chars>1351047</XBRL_Chars>
+    <XML_Chars>924908</XML_Chars>
+    <N_Tables>56</N_Tables>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001102624-17-000046.hdr.sgml : 20170126
+<ACCEPTANCE-DATETIME>20170126094156
+ACCESSION NUMBER:		0001102624-17-000046
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		92
+CONFORMED PERIOD OF REPORT:	20161031
+FILED AS OF DATE:		20170126
+DATE AS OF CHANGE:		20170126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Crystal Rock Holdings, Inc.
+		CENTRAL INDEX KEY:			0001123316
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & RELATED PRODUCTS [5140]
+		IRS NUMBER:				030366218
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31797
+		FILM NUMBER:		17548254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		44 KRUPP DRIVE
+		STREET 2:		PO BOX 536
+		CITY:			WILLISTON
+		STATE:			VT
+		ZIP:			05495
+		BUSINESS PHONE:		8028601126
+
+	MAIL ADDRESS:	
+		STREET 1:		44 KRUPP DRIVE
+		STREET 2:		PO BOX 536
+		CITY:			WILLISTON
+		STATE:			VT
+		ZIP:			05495
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VERMONT PURE HOLDINGS LTD/DE
+		DATE OF NAME CHANGE:	20001016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VP MERGER PARENT INC
+		DATE OF NAME CHANGE:	20000905
+
+</SEC-Header>
+</Header>
+
+ 0001102624-17-000046.txt : 20170126
+
+10-K
+ 1
+ crystalrockholdings10k.htm
+ CRYSTAL ROCK HOLDINGS, INC. 10-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C.  20549
+
+FORM 10-K
+
+(Mark One)
+
+For the fiscal year ended October 31, 2016.
+
+For the transition period from ___________ to ___________.
+
+Commission File Number 000-31797
+
+CRYSTAL ROCK HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+03-0366218
+
+State or other jurisdiction of incorporation or organization
+
+I.R.S. Employer Identification Number
+
+1050 Buckingham St., Watertown, CT  06795 
+
+(Address of principal executive offices and zip code)
+
+Registrant's telephone number, including area code:    (860) 945-0661  
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Common Stock, par value $.001 per share
+
+Name of exchange on which registered
+
+NYSE MKT
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes  [_]   No  [X]
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes  [_]   No  [X]
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such report    s), and (2) has been subject to such filing requirements for the past 90 days. Yes [X]   No [  ]
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).   Yes [X]   No [  ] 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   [X]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See the definitions of "large accelerated filer," "accelerated filer," and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer [ ]     Accelerated filer [ ] 
+
+Non-accelerated filer [ ]     Smaller Reporting Company [X] 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+
+Yes [  ] No [X]
+
+The aggregate market value of the voting and non-voting common equity held by non affiliates of the registrant, computed by reference to the last sale price per share of common stock on April 29, 2016, the last business day of the registrant's most recently completed second fiscal quarter, as reported on the NYSE MKT, was $7,529,199.
+
+The number of shares outstanding of the registrant's Common Stock, $.001 par value per share, was  21,358,411  on January 9, 2017.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant's definitive proxy statement, to be filed no later than 120 days after the registrant's fiscal year ended October 31, 2016, and delivered in connection with the registrant's annual meeting of stockholders, are incorporated by reference into Part III of this Form 10-K.
+
+2 
+
+Table of Contents
+
+Page
+
+Part I
+
+Item 1.
+
+Business
+
+4
+
+Item 1A.
+
+Risk Factors
+
+12
+
+Item 1B.
+
+Unresolved Staff Comments
+
+17
+
+Item 2.
+
+Properties
+
+18
+
+Item 3.
+
+Legal Proceedings
+
+18
+
+Item 4.
+
+Mine Safety Disclosures
+
+18
+
+Part II
+
+Item 5.
+
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+19
+
+Item 7.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+20
+
+Item 8.
+
+Financial Statements and Supplementary Data
+
+27
+
+Item 9.
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+27
+
+Item 9A.
+
+Controls and Procedures
+
+27
+
+Item 9B.
+
+Other Information
+
+29
+
+Part III
+
+Item 10.
+
+Directors, Executive Officers and Corporate Governance
+
+30
+
+Item 11.
+
+Executive Compensation
+
+30
+
+Item 12.
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+30
+
+Item 13.
+
+Certain Relationships and Related Transactions, and Director Independence
+
+31
+
+Item 14.
+
+Principal Accountant Fees and Services
+
+31
+
+Part IV
+
+Item 15.
+
+Exhibits and Financial Statement Schedules
+
+32
+
+Signatures
+
+Note: Items 6 and 7A are not required for smaller reporting companies and therefore are not furnished.
+
+***************
+
+In this Annual Report on Form 10-K, "Crystal Rock," the "Company," "we," "us" and "our" refer to Crystal Rock Holdings, Inc. and its subsidiary, taken as a whole, unless the context otherwise requires.
+
+***************
+
+This Annual Report on Form 10-K contains references to trade names, label design, trademarks and registered marks of Crystal Rock Holdings, Inc. and its subsidiary and other companies, as indicated.  Unless otherwise provided in this Annual Report on Form 10-K, trademarks identified by (R) are registered trademarks or trademarks, respectively, of Crystal Rock Holdings, Ltd. or its subsidiary.  All other trademarks are the properties of their respective owners.
+
+***************
+
+Except for historical facts, the statements in this Annual Report on Form 10-K are forward-looking statements.  Forward-looking statements are merely our current predictions of future events.  These statements are inherently uncertain, and actual events could differ materially from our predictions.  Important factors that could cause actual events to vary from our predictions include those discussed in this Annual Report on Form 10-K under the heading "Risk Factors."  We assume no obligation to update our forward-looking statements to reflect new information or developments.  We urge readers to review carefully the risk factors described in this Annual Report on Form 10-K and in the other documents that we file with the Securities and Exchange Commission.  You can read these documents at www.sec.gov.
+
+3 
+
+PART I
+
+ITEM 1. 
+ 
+ BUSINESS.
+
+Introduction and Company Background
+
+Crystal Rock Holdings, Inc., incorporated in Delaware in 1990, is engaged in the production, marketing and distribution of bottled water (the Crystal Rock  and Vermont Pure  brands) and the distribution of coffee including our Cool Beans  brand, ancillary products and other office refreshment products, and office products under the Crystal Rock Office  brand.  We operate primarily as a distribution business to homes and offices, using our own trucks for distribution throughout New England, New York, and New Jersey.
+
+Our distribution sales and services evolved from our initial business, sales of bottled water and cooler rentals.  We bottle our water and also have it bottled for us.  Our water products are primarily still, non-sparkling waters.  We also have branded sparkling waters.  In addition to water and related services, our other significant food and drink offerings have grown to include distribution of coffee and ancillary products, and other refreshment products including soft drinks and snacks.  To a lesser extent, we distribute these products through third party distributors.
+
+Water
+
+Bottled water is a mainstream beverage and the centerpiece of many consumers' healthy living lifestyles.  Sales of bottled water accounted for 43% of our total sales in fiscal year 2016 and 37% in 2015.  We believe that the development of the bottled water industry has for many years reflected public awareness of the potential contamination and unreliability of some municipal water supplies.  Conversely, bottled water has periodically been the focus of publicity regarding concerns about the possibly adverse environmental effects of using plastic bottles, as well as the effect on the environment of water extraction and the production.  See Item 1A, "Risk Factors," for more information.
+
+Coffee
+
+Coffee, a product that is counter seasonal to water, is the second leading product in the distribution channel, accounting for 17% of our total sales in fiscal year 2016 and 18% of our total sales in fiscal year 2015.  We sell different brands and sizes of coffee products.  We continue to promote our Cool Beans  brand coffee in an effort to increase profitability and create brand equity in the coffee category.  Because coffee is a commodity, coffee sales are affected by volatility in the world commodity markets.  An interruption in supply or a dramatic increase in pricing could have an adverse effect on our business.
+
+A large proportion of our coffee sales are single-serve coffee products.  These products have become more prevalent in the marketplace over the last decade, and changes in distribution play a significant role in the availability and profitability of these products.
+
+Refreshment and Equipment Rental
+
+Ancillary products, such as soft drinks and snacks, accounted for 15% of our total revenues in fiscal years 2016 and 2015.  Equipment rentals, primarily water coolers, made up 11% of our total revenues in fiscal 2016 and 10% of our total revenues in fiscal 2015.
+
+4 
+
+Office Products
+
+In fiscal 2011, we added office products to our product offerings.  We grew the office product line in an effort to diversify our product sales to existing office customers.  Late in fiscal 2015 the company emphasized growth efforts on our water products.  As a result the contribution to total revenues from office products in fiscal 2016 decreased to 11% of total revenues in fiscal 2016 from 18% in fiscal 2015.
+
+Other Revenue
+
+Fees that are charged to offset energy costs for delivery and freight, raw materials, and bottling operations primarily make up the balance of our revenue.  This comprised 3% of our total sales in fiscal year 2016 and 2% in fiscal 2015.
+
+Water Sources, Treatment, and Bottling Operations
+
+Water from local municipalities is the primary source for the Crystal Rock Waters  brand in three- and five-gallon bottles.  This accounts for 62% of our water bottled in these types of containers.  Municipal water is purified through a number of processes beginning with filtration.  Utilizing carbon and ion exchange filtration systems, we remove chlorine and other volatile compounds and dissolved solids.  After the filtration process, impurities are removed by reverse osmosis and/or distillation.  Prior to bottling, we add pharmaceutical grade minerals to the water, including calcium, potassium, and magnesium for taste.  The water is ozonated (by injecting ozone into the water as an agent to prohibit the formation of bacteria) and bottled in a fully enclosed clean room with a high efficiency particulate air, or HEPA, filtering system designed to prevent any airborne contaminants from entering the bottling area, in order to create a sanitary filling environment.
+
+If for any reason the municipal sources for Crystal Rock  water were curtailed or eliminated, we could, though probably at greater expense, purchase water from other sources and have it shipped to our manufacturing facilities.
+
+The main source of our natural spring water (primarily sold under the Vermont Pure  brand) is a spring owned by a third party in Stockbridge, Vermont that is subject to a 50-year water supply contract, approximately 40 years of which remain.  We also obtain water, under a similar agreement with a third party, from a spring in Bennington, Vermont.  These springs are approved by the State of Vermont as sources for natural spring water.  The contractual terms for these springs provide spring water in excess of our current needs and within the apparent capacity of the springs, and accordingly we believe that we can readily meet our bulk water supply needs for the foreseeable future. Water from these springs account for 32% of our total water bottled.
+
+Percolation through the earth's surface is nature's best filter of water.  We believe that the age and extended percolation period of our natural spring water provides the natural spring water with certain distinct attributes: a purer water, noteworthy mineral characteristics (including the fact that the water is sodium free and has a naturally balanced pH), and a light, refreshing taste.
+
+An interruption in or contamination of any of our spring sites would materially affect our business.  We believe that we could find adequate supplies of bulk spring water from other sources, but that we might suffer inventory shortages or inefficiencies, such as increased purchase or transportation costs, in obtaining such supplies.
+
+5 
+
+We are highly dependent on the integrity of the sources and processes by which we derive our products.  Natural occurrences beyond our control, such as drought, flood, earthquake or other geological changes, a change in the chemical or mineral content or purity of the water, or environmental pollution may affect the amount and quality of the water available from the springs or municipal sources that we use.  There is a possibility that characteristics of the product could be changed either inadvertently or by tampering before consumption.  Even if such an event were not attributable to us, the product's reputation could be irreparably harmed.  Consequently, we would experience economic hardship.  Occurrence of any of these events could have an adverse impact on our business.   We are also dependent on the continued functioning of our bottling processes.  An interruption could result in an inability to meet market demand and/or negatively impact the cost to bottle the products.
+
+We also bottle and distribute other brands of water for third parties.  These sales account for 4% of our bottled water sales.
+
+We have no material contractual commitments to the owners of our outside sources and bottling facilities other than for the products and services we receive.
+
+We use outside trucking companies to transport bulk spring water from the source site to our bottling facilities.
+
+Products
+
+Water, Coffee, and Refreshment and Ancillary Equipment
+
+We sell our Crystal Rock  and Vermont Pure  water brands in three- and five-gallon bottles to homes and offices throughout New England, New York, and New Jersey.  In general, Crystal Rock  is distributed in southern New England and New York, while Vermont Pure  is primarily distributed throughout northern New England and secondarily in southern New England and New York.  We rent and sell water coolers to customers to dispense bottled water.  Our coolers are available in various consumer preferences such as cold, or hot and cold, dispensing units.  In addition, we sell and rent units to commercial accounts that filter water from the existing source on site.  We also rent and sell coffee brewing equipment and distribute a variety of coffee, tea and other hot beverage products and related supplies, as well as other consumable products used around the office.  We own the Cool Beans  brand of coffee which we distribute throughout our market area.  In addition to Cool Beans , we sell other brands of coffee, most notably, Baronet and Keurig Green Mountain.
+
+Our extensive distribution system and large customer lists afford us the opportunity to introduce new products that may benefit our current customers or appeal to new customers.  From time to time we may capitalize on these opportunities by expanding our product lines or replacing existing products with new ones.  In response to the increasingly competitive sales environment, we will consider distributing new products that we believe may enhance our sales and profitability.
+
+Office Products Line
+
+We have been distributing office products under the Crystal Rock Office    brand since 2011.  Recognizing the value inherent in our distribution system, we do not maintain large inventories of office products. Rather, we primarily purchase office products from large national vendors such as S. P. Richards that provide just-in-time delivery, with the result that the introduction of our office product line has not resulted, and is not expected to result, in a material outlay of resources to accommodate increased inventory.  The broader range of office products compliments our product offerings to existing office customers who purchase our water and coffee products.  Competition in the traditional office products markets has resulted in lower margins in this product line.
+
+6 
+
+We believe that we have a well-established distribution system and that the Crystal Rock  family of brands is well known in the regions in which we operate, and we hope to successfully leverage those advantages.  Nevertheless, price competition in the office product market can be robust, and there can be no assurance that our office products strategy will be successful.  See Item 1A, "Risk Factors," for more information.
+
+Marketing and Sales of Branded Products
+
+Crystal Rock products are marketed and distributed under four house brands:  Crystal Rock Waters   , Vermont Pure Natural Spring Water   , Cool Beans    Coffee and Crystal Rock Office   . Through this combination of brands   and resale of other manufactured brands   we provide a choice of high quality products and value-added services to homes and offices.
+
+Both our water brands feature three- and five-gallon premium bottled water in addition to a small pack case offerings. Our coffee line includes over 70 varieties in many different types of packaging. Additionally, we also re-sell other coffee and tea selections.  Our office products line features over 40,000 products, including supplies, equipment, and furniture, targeted for small and medium-sized business.
+
+Over the last several years we have diversified product offerings and focused our efforts on sales and marketing in order to increase sales across all of our product lines and enhance the value of our distribution system and customer base.  Initially, we hired and trained an expanded sales force and incurred significant expenditures to build an IT infrastructure designed to enhance sales administration and run our business more efficiently.  Late in 2013 we decided to shift the infrastructure platform that we had been constructing to one we had acquired during the year.  For more information, see Item 1A, "Risk Factors."  In 2014, we worked to stabilize our IT and e-commerce platforms while growing our office product sales revenues.   Subsequently, during fiscal 2015, we experienced significant losses through the first three quarters, due in large part to lower than desired margins on office products, which led to a reduction in the number of full-time employees.  In the latter part of fiscal 2015, we focused more heavily on strategic pricing taking into account the value provided with our quality products and integrated services.  Our goal is to avoid commodity pricing and focus on customers who want more regularly scheduled route deliveries.  These changes in 2016 produced better operating results than 2015 results.
+
+We support our marketing and sales efforts through a number of channels, including e-commerce, direct mail, internet advertising, traditional advertising, social media, sales collateral, email marketing, digital/internet technologies, referrals and public relations.  We also sponsor local area sporting events, participate in trade shows, maintain high community visibility, and donate to many charitable organizations and events.
+
+We market our home and office delivery service throughout most of New England, New York and parts of New Jersey.  A combination of telemarketers and sales personnel sell our products and services.  We also maintain an internal marketing department that works closely with a professional marketing agency who together develop and manage our brands and market position. Our goal is to optimize our marketing and sales returns through efficient technology investments, personal customer interactions and maintaining consistent visibility. 
+
+7 
+
+Advertising and Promotion
+
+We advertise our products through a digital, online strategy focused on promoting expanded product and services, and we look to collect customer data in order to engage and market customer relationships both on and offline. Through a combination of websites, social platforms and internet advertising, we are centralizing and transitioning our marketing efforts to offer and incentivize current and new customers through a larger online presence while providing customers a direct purchasing capability.  We also promote our products through sales collateral, direct mail, various public relations and sponsorship opportunities.  We endeavor to be highly visible in the communities that we serve.  We have been a significant sponsor of a United Way giving campaign to support Live United through the Greater Waterbury Connecticut United Way, and we feature local giving options to support the United Way throughout our entire market area.  We also support charities devoted to the treatment and cure of multiple sclerosis, and Peter and John Baker sit on a number of charitable boards.
+
+Sales and Distribution
+
+We sell and deliver products directly to our customers using our own employees and route delivery trucks.  Deliveries to customers are made on a regularly scheduled basis for water, coffee, and ancillary products. We accommodate our customers with next day delivery when they run out of those products and for office products.  We bottle our water at our facilities in Watertown, Connecticut, White River Junction, Vermont, and Halfmoon, New York and have water bottled for us in Buffalo and Endicott, New York.  We maintain numerous distribution locations throughout our market area.  From these locations we also distribute dispensing equipment, a variety of coffee, tea and other refreshment products, and related supplies.  We receive office supplies, equipment, and furniture on a "just-in-time" basis from our vendors at our distribution locations. We ship between our production and distribution sites using both our own and contracted carriers.
+
+Supplies
+
+We currently source all of our raw materials from outside vendors. As one of the largest Home and Office distributors in the country, we are able to capitalize on volume to continue to reduce costs.
+
+We rely on trucking to receive raw materials and transport and deliver our finished products.  Consequently, the fluctuating fuel prices significantly impacts the cost of our products.  We purchase our own fuel for our Home and Office delivery and use third parties for transportation of raw materials and finished goods between our warehouses.  While volume purchases can help control erratic fuel pricing, market conditions ultimately determine the price.  In the past, we have experienced substantial market fluctuation of fuel prices.  However, fuel prices have become more stable recently, and our regular customers pay a minimum monthly fuel charge.  The risk remains that we may not be able to use fuel price adjustments to cover the cost of fuel increases in a volatile market for petroleum products, which could adversely affect our profitability.
+
+Our principal coffee suppliers are Keurig Green Mountain and Baronet Coffee. Our principal bottle supplier is Parker Plastics.
+
+No assurance can be given that we will be able to obtain the supplies we require on a timely basis or that we will be able to obtain them at prices that allow us to maintain the profit margins we have had in the past.  We believe that we will be able to either renegotiate contracts with these suppliers when they expire or, alternatively, if we are unable to renegotiate contracts with our key suppliers, we believe that we could replace them.  Any raw material disruption or price increase may result in an adverse impact on our financial condition and prospects.   For instance, we could incur higher costs in renegotiating contracts with existing suppliers or replacing those suppliers, or we could experience temporary dislocations in our ability to deliver products to our customers, either of which could have a material adverse effect on our results of operations. 
+
+8 
+
+Seasonality
+
+Our business is seasonal.  The period from June to September, when we have our highest water sales, represents the peak period for sales and revenues due to increased consumption of cold beverages during the summer months in our core Northeastern United States market.  Conversely, coffee has a peak sales period from November to March.  Sales of office products and supplies will fluctuate during the year.
+
+Competition
+
+We believe that bottled water historically has been a regional business in the United States.  The market includes several large regional brands owned by multi-national companies that operate throughout contiguous states. We also compete with smaller, locally-owned bottlers that operate in specific cities or market areas within single states.
+
+With our Crystal Rock , Vermont Pure  and Cool Beans  brands, we compete on the basis of pricing, customer service, quality of our products, attractive packaging, and brand recognition.  We consider our trademarks, trade names and brand identities to be very important to our competitive position and defend our brands vigorously.
+
+We feel that installation of filtration units in the home or commercial setting poses competition to our business.  To address this, we have continued to develop our plumbed-in filtration business expanding it internally and through acquisitions and actively offering it as an alternative product to our bottled water.
+
+Traditionally, the rental of water coolers for offices and homes has been a profitable business for us.  As coolers have become cheaper and more readily available at retail outlets and competitors have used pricing as a promotional opportunity, our cooler rental revenue has declined.  Although this rental revenue is profitable for us, it may continue to decline or become less profitable in the future as a result of retail competition.
+
+Coffee product sales have dramatically shifted to sales of single serve packages.  We face increased competition for sales of these products from retail stores and home delivery options from other food and beverage distributors, office products distributors and retail outlets. In addition, internet availability has increased leading to sales declines for coffee products.
+
+Machines to brew these single serve packages are different from traditional machines, and packages ideally need to be brewed in machines that accommodate the specific package.  As a result, the popularity of a certain machine often dictates what products are successful in the marketplace.  We have developed our own Cool Beans  pod in order to create brand equity in this category. Our success, both from a sales and profitability perspective, may be affected by our access to distribution rights for certain products and machines, our decisions concerning which equipment to invest in and our ability to develop brand awareness.
+
+We believe that it has become increasingly important to our competitive advantage to decrease the impact of our business on the environment.   We traditionally use five-gallon containers that are placed on coolers and are reused many times.  To further "green" our business we generate solar electricity in our Watertown, Connecticut facility, use high efficiency lighting and vehicles and have instituted no-idling and other driving policies in all of our locations.
+
+9 
+
+The office products business is highly competitive.  Companies like Staples, Office Depot and W.B. Mason are larger and have greater capital resources than Crystal Rock and compete with us on price as well as level of service.  Moreover, the evolution of modern business practices towards the "paperless office" could have the effect of reducing the available market for some office products.  If the overall market for office products contracts, price competition can be expected to exert pressure on our margins for office products, with potential adverse effects on our earnings or cash flow, even if we are able to continue increasing revenues from this product line.   See Item 1A, "Risk Factors," for more information.
+
+Trademarks
+
+We own the trade names of the principal water brands that we sell, Vermont Pure Natural Spring Water  and Crystal Rock .  We also own the Cool Beans  coffee brand, Crystal Rock Office  products brand and own or have rights to other trade names that currently are not a significant part of our business.   Our trademarks as well as label designs are, in general, registered with the United States Patent and Trademark Office.
+
+Government Regulation
+
+The Federal Food and Drug Administration (FDA) regulates bottled water as a "food."  Accordingly, our bottled water must meet FDA requirements of safety for human consumption, of processing and distribution under sanitary conditions and of production in accordance with the FDA "good manufacturing practices."  To assure the safety of bottled water, the FDA has established quality standards that address the substances that may be present in water which may be harmful to human health as well as substances that affect the smell, color and taste of water.  These quality standards also require public notification whenever the microbiological, physical, chemical or radiological quality of bottled water falls below standard.  The labels affixed to bottles and other packaging of the water is subject to FDA restrictions on health and nutritional claims for foods under the Fair Packaging and Labeling Act.  In addition, all drinking water must meet Environmental Protection Agency standards established under the Safe Drinking Water Act for mineral and chemical concentration and drinking water quality and treatment that are enforced by the FDA.
+
+We are subject to the food labeling regulations required by the Nutritional Labeling and Education Act of 1990.  We believe we are in compliance with these regulations.
+
+We are subject to periodic, unannounced inspections by the FDA.  Upon inspection, we must be in compliance with all aspects of the quality standards and good manufacturing practices for bottled water, the Fair Packaging and Labeling Act, and all other applicable regulations that are incorporated in the FDA quality standards.  We believe that we meet the current regulations of the FDA, including the classification as spring water.  All of our plants and distribution locations are registered with the FDA under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.   Most recently, the FDA put into effect the Bottled Water Microbial Rule to monitor water sources for E. coli bacteria.  We have been in compliance with the testing requirements for this rule prior to and since its inception in December 2009.
+
+We also must meet state regulations in a variety of areas to comply with purity, safety, and labeling standards.  From time to time, our facilities and sources are inspected by various state departments and authorities.
+
+10 
+
+Our product labels are subject to state regulation (in addition to federal requirements) in each state where the water products are sold.  These regulations set standards for the information that must be provided and the basis on which any therapeutic claims for water may be made.
+
+We use a comprehensive program of self-regulation and use third party auditors for testing and inspections to evaluate our compliance with federal and various state regulations.
+
+In recent years, there has been legislative and executive action in state and local governments that has or would ban the use of bottled water in municipal buildings, enact local taxes on bottled water, and limit the sale by municipalities of water supplies to private companies for resale.  Such regulation could adversely affect our business and financial results.  For additional information, see Item 1A, "Risk Factors," below.
+
+The laws that regulate our activities and properties are subject to change.  As a result, there can be no assurance that additional or more stringent requirements will not be imposed on our operations in the future. Although we believe that our water supply, products and bottling facilities are in substantial compliance with all applicable governmental regulations, failure to comply with such laws and regulations could have a material adverse effect on our business.
+
+Employees
+
+As of January 16, 2017, we had 301 full-time employees and 10 part-time employees.   None of the employees belong to a labor union.  We believe that we have good standing relationships with all of our employees.
+
+A dditional Available Information
+
+Our principal website is www.crystalrock.com.  We make our annual, quarterly and current reports, and amendments to those reports, available free of charge on www.crystalrock.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC).  Reports of beneficial ownership of our common stock, and changes in that ownership, by directors, officers and greater-than-10% shareholders on Forms 3, 4 and 5, are likewise available free of charge on the SEC's website and our website.
+
+The information on our website is not incorporated by reference in this Annual Report on Form 10-K or in any other report, schedule, notice or registration statement filed with or submitted to the SEC.
+
+The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically at www.sec.gov.  You may also read and copy the materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, N.E., Room 1580, Washington, D.C. 20549.  You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+
+11 
+
+ITEM 1A. 
+ 
+ RISK FACTORS.
+
+We operate in a competitive business environment that is influenced by conditions some of which are controllable and others are beyond our control.  These conditions include, but are not limited to, the regional economy, monetary policy, and the political and regulatory environment.  The following summarizes important risks and uncertainties that may materially affect our business in the future.
+
+The Baker family currently owns a majority of our voting stock and controls the company.  Such control affects our corporate governance, and could also have the effect of delaying or preventing a change of control of the company.
+
+The Baker family group, consisting of former director Henry Baker and three current directors Peter Baker (CEO), John Baker (Executive Vice President) and Ross Rapaport (Chairman), as trustee, together own a majority of our common stock.  Accordingly, these stockholders, acting together, can exert a controlling influence over the outcome of matters requiring stockholder approval, such as the election of directors, amendments to our certificate of incorporation, mergers and various other matters.  The concentration of ownership could also have the effect of delaying or preventing a change of control of the company.
+
+As permitted under the corporate governance rules of the   NYSE MKT  , we have, at the direction of the Baker family group, elected "controlled company" status under those rules.  A controlled company is exempted from these   NYSE MKT   corporate governance rules:  (1) the requirement that a listed company have a majority of independent directors, (2) the requirement that nominations to the company's board of directors be either selected or recommended by a nominating committee consisting solely of independent directors, and (3) the requirement that officers' compensation be either determined or recommended by a compensation committee consisting solely of independent directors.  We do not currently utilize exemption (3) as we have a compensation committee consisting solely of three independent directors.
+
+The personal interests of our directors and officers create conflicts.
+
+As mentioned above, the Baker family group owns a majority of our common stock.  In addition, in connection with the acquisition of the Crystal Rock Spring Water Company in 2000, we issued members of the Baker family group 12% subordinated promissory notes secured by all of our assets. As of October 31, 2016, the balance on these notes is $9,000,000.  We also lease important facilities in Watertown and Stamford, Connecticut from Baker family interests.  These interests of the Baker family create various conflicts of interest.  Transactions between the Company and related parties are subject to review and approval by the Audit Committee, which consists entirely of independent directors.
+
+We face significant competition in the home and office distribution business from companies with greater resources than we have.  Methods of competition in the distribution of home and office refreshment products continue to change and evolve.  If we are unable to meet these changes, our business could be harmed.
+
+We operate in highly competitive markets.  The principal methods of competition in the markets in which we compete are distribution capabilities, brand recognition, quality, reputation, and price.   We have a significant number of competitors in our traditional water market, some of which have far greater resources than us.  Among our principal competitors are Nestl  Waters North America, DS Services of America, Inc., a segment of Cott Corporation, W.B. Mason,  large regional brands owned by private groups, and local competitors in the markets that we serve.  As we expanded our product lines, most notably to office products, we learned that price reductions and the introduction of new products by our competitors can adversely affect our revenues, gross margins, and profits.
+
+12 
+
+Our industry has also been affected by the increasing availability of water coolers in discount retail outlets.  This has negatively affected our rental revenue stream in recent years as more customers choose to purchase coolers rather than rent them.  We do not expect retail sales to replace rentals completely because we believe that the purchase option does not provide the quality and service that many customers want.  However, third party retail cooler sales may continue to negatively impact our rental revenues in the future.
+
+Internet technology and virtual stores have lowered the barriers of entry into non-water marketplace we service.
+
+E-commerce businesses have added an additional layer of competition from product resellers who do not require investment in brick and mortar facilities and trucks.  The lack of investment in physical assets has allowed these competitors to reduce overhead costs and subsequently sell products at a lower cost.  These competitors generally will have products delivered to customers using third party distribution systems.  While we have not seen an increase in competition in the bottled water products from virtual stores, we have seen increased competition in coffee and office product items.
+
+We rely upon a single software vendor that supplies the software for our route accounting  and online storefront ordering systems, which exposes us to risk from interruption of service.
+
+Our route accounting and online ordering systems are essential to our overall administrative function and success.  An extended interruption in servicing the system could result in the inability to access information.  Limited or no access to this information would likely inhibit the sale and distribution of our products and the availability of management information, and could even affect our compliance with public reporting requirements.  Our software vendor has a limited number of staff possessing the proprietary information pertaining to the operation of the software.  Changes in personnel or ownership in the firm might result in disruption of service.  Such changes would be addressed by retaining a new vendor to service the existing software or purchasing a new system.  However, any of these events could have a material adverse impact on our operations and financial condition.
+
+We depend upon maintaining the integrity of our water sources and manufacturing process.   If our water sources or bottling processes were contaminated for any reason, our business would be seriously harmed.
+
+Our ability to retain customers and the goodwill associated with our brands is dependent upon our ability to maintain the integrity of our water resources and to guard against defects in, or tampering with, our manufacturing process.  The loss of integrity in our water sources or manufacturing process could lead to product recalls and/or customer illnesses that could materially adversely affect our goodwill, market share and revenues.  Because we rely upon natural spring sites for sourcing some of our water supply, acts of God, such as earthquakes, could alter the geologic formation of the spring sites, constricting or even contaminating water flow.
+
+13 
+
+In addition, we do not own any of our water sources.  Although we believe the long term rights to our spring and municipal sources are well secured, any dispute over these rights that resulted in prolonged disruption in supply could cause an increase in cost of our product or shortages that would not allow us to meet the market demand for our product.
+
+The bottled water industry is regulated at both the state and federal level.  If we are unable to continue to comply with applicable regulations and standards in any jurisdiction, we might not be able to sell our products in that jurisdiction, and our business could be seriously harmed.
+
+The FDA regulates bottled water as a food.  Our bottled water must meet FDA requirements of safety for human consumption, labeling, processing and distribution under sanitary conditions and production in accordance with FDA "good manufacturing practices."  In addition, all drinking water must meet Environmental Protection Agency standards established under the Safe Drinking Water Act for mineral and chemical concentration and drinking water quality and treatment, which are enforced by the FDA.  We also must meet state regulations in a variety of areas.  These regulations set standards for approved water sources and the information that must be provided and the basis on which any therapeutic claims for water may be made.  We have received approval for our drinking water in Connecticut, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island and Vermont.  However, we can give no assurance that we will receive such approvals in the future.
+
+Legislative and executive action in state and local governments banning the use of municipal funds for purchasing bottled water, enacting local taxes on bottled water or water extraction, and restricting water withdrawal and usage rights from public and private sources could adversely affect our business and financial results.
+
+Recent initiatives have taken place in several major cities regarding bottled water, principally the smaller sizes sold in stores to retail consumers.  Regulations have been proposed in some localities that would ban the use of public funds to purchase bottled water, enact local taxes on bottled water or water extraction, and restrict the withdrawal of water from public and private sources.  These actions are purportedly designed to discourage the use of bottled water due in large part to concerns about the environmental effects of producing and discarding large numbers of plastic bottles.  In developing these stories, local and national media have reported on the growth of the bottled water industry and on the pros and cons of consuming bottled water as it relates to solid waste disposal and energy consumption in manufacturing, as well as conserving the supply of water available to the public.
+
+We believe that the adverse publicity associated with these reports is generally aimed at the retail, small bottle segment of the industry that is now a minimal part of our business, and that our customers can readily distinguish our products from the retail bottles that are currently the basis for concern in some areas.  Our customers typically buy their water in reusable five-gallon containers that are placed on coolers and reused many times.  Only approximately 4% of our total sales are from water sold in single serve packages.  In addition, we continue to take steps to "green" our business by means of solar electricity generation, high efficiency lighting, no-idling and other driving policies, and the use of biodiesel.
+
+While we believe that to date we have not directly experienced any adverse effects from these concerns, and that our products are sufficiently different from those under scrutiny, there is no assurance that adverse publicity about any element of the bottled water industry will not affect consumer behavior by discouraging buyers from buying bottled water products generally.  In that case, our sales and other financial results could be adversely affected.
+
+14 
+
+Climate changes and severe weather may impact future ability to bottle water products and deliver all of our products.
+
+There has been increasing concerns in recent years regarding climate change and the impact on water supplies.  Most recently there have been drought conditions throughout much of our delivery areas.  Should severe drought conditions exist, there may be restrictions on municipal water supplies used for the bottling of our Crystal Rock  branded water.
+
+In addition, severe weather conditions during winter months in the northeast such as snow and ice storms significantly impact delivery schedules and revenue streams.
+
+Our Company is significantly leveraged.  Over the years, we have borrowed substantial amounts of money to finance acquisitions.  If we are unable to meet our debt service obligations to our senior and subordinated lenders, we would be in default under those obligations, and that could hurt our business or even result in foreclosure, reorganization or bankruptcy.
+
+At October 31, 2016 and 2015, our outstanding senior debt was $9,733,000 and $11,333,000, respectively, and our outstanding subordinated debt was $9,000,000 and $9,270,000 respectively.  The underlying loans are secured by substantially all of our assets.  If we do not repay our indebtedness in a timely fashion, our secured creditors could declare a default and foreclose upon our assets, which would result in harmful disruption to our business, the sale of assets for less than their fully realizable value, and possible bankruptcy.  We must generate enough cash flow to service this indebtedness until maturity.
+
+Fluctuations in interest rates could significantly increase our expenses.  We will have significant interest expense for the foreseeable future, which in turn may increase or decrease due to interest rate fluctuations.  To partially mitigate this risk, we have used swaps to establish fixed interest rates on a portion of our outstanding senior term debt.
+
+As a result of our large amount of debt, we may be perceived by banks and other lenders to be highly leveraged and close to our borrowing ceiling.  Until we repay some of our debt, our ability to access additional capital may be limited.  In turn, that may limit our ability to finance transactions and to grow our business.  In addition, our senior credit agreement limits our ability to incur incremental debt without our lender's permission.
+
+Fluctuations in the cost of essential raw materials and commodities, including fuel costs, for the manufacture and delivery of our products could significantly impact our business.
+
+Bottle manufacturers use plastic and other petroleum-based products for the manufacturing of our bottles.  Increases in the cost of petroleum will likely have an impact on our bottle costs.
+
+We rely on trucking to receive raw materials and transport and deliver our finished products.  Consequently, the price of fuel significantly impacts the cost of our products.  We purchase our own fuel for our Home and Office delivery and use third parties for transportation of raw materials and finished goods between our warehouses.  While volume purchases can help control erratic fuel pricing, market conditions ultimately determine the price. In the past, we have experienced substantial market fluctuation of fuel prices.  However, when fuel prices have increased, we have been able to establish a fuel adjustment charge for our customers that covered the incremental rising cost of fuel.  When fuel prices have decreased, they have not decreased enough to offset the incremental fuel cost over what we considered our "base" level for fuel cost.  The risk remains that we may not be able to use fuel price adjustments to cover the cost of fuel increases in a volatile market for petroleum products, which could adversely affect our profitability.  Further, limitations on the supply or availability of fuel could inhibit our ability to get raw materials and distribute our products, which in turn could have an adverse effect on our business.
+
+15 
+
+A significant portion of our sales is derived from coffee.  The supply and price of coffee may be limited by climate, by international political and economic conditions, and by access to transportation, combined with consumer demand.  An increase in the wholesale price of coffee could result in a reduction in our profitability.  If our ability to purchase coffee were impaired by a market shortage, our sales might decrease, which would also result in a reduction of profitability and customer satisfaction.
+
+Our success depends on the continued services of key personnel.
+
+Our continued success will depend in large part upon the expertise of our senior management and their ability to execute our strategic planning.  Peter Baker, our Chief Executive Officer and President, John Baker, our Executive Vice President, and David Jurasek, our Chief Financial Officer, Treasurer and Assistant Secretary, have entered into employment agreements with Crystal Rock Holdings, Inc.  These "at will" employment agreements do not prevent these employees from resigning.  The departure or loss of any of these executives individually could have an adverse effect on our business and operations and could contribute to disruption of our business while we searched for replacement personnel with appropriate skills.
+
+We have a limited amount of bottling capacity.  Significant interruptions of our bottling facilities could adversely affect our business.
+
+We own three bottling facilities, and also contract with third parties, to bottle our water.  If any of these facilities were incapacitated for an extended period of time, we would likely have to relocate production to an alternative facility.  The relocation and additional transportation could increase the cost of our products or result in product shortages that would reduce sales.  Higher costs and lower sales would reduce profitability.
+
+Our customer base is located in New England, New York and New Jersey.  If there were to be a material decline in the economy in these regions, our business would likely be adversely affected.
+
+Essentially all of our sales are derived from New England, New York and New Jersey.  We believe that the economic recession experienced in these areas, particularly in 2008 and 2009, adversely affected our financial results, and these regions are still experiencing a variety of adverse effects from the recession.  Continued adverse effects in the regional economies, or a significant negative change in the economy of any of these regions, changes in consumer spending in these regions, or the entry of new competitors into these regional markets, among other factors, could result in a decrease in our sales and, as a result, reduced profitability.
+
+Our business is seasonal, which may cause fluctuations in our stock price.
+
+Historically, the period from June to September represents the peak period for sales and revenues due to increased consumption of cold beverages during the summer months in our core Northeastern United States markets.  Warmer weather in our geographic markets tends to increase water sales, and cooler weather tends to decrease water sales.  To the extent that our quarterly results are affected by these patterns, our stock price may fluctuate to reflect them.
+
+16 
+
+ITEM 1B. 
+ 
+ UNRESOLVED STAFF COMMENTS.
+
+None.
+
+17 
+
+ITEM 2. 
+ 
+ PROPERTIES.
+
+As part of our Home and Office delivery operations, we have entered into or assumed various lease agreements for properties used as distribution points and office space.  The following table summarizes these arrangements and includes our bottling facilities:
+
+All locations are used primarily for warehousing and distribution and have limited office space for location managers and support staff.  Halfmoon, NY, White River Junction, VT and Watertown, CT house water production facilities.  Our headquarters in Watertown, Connecticut has a substantial amount of office space for sales, accounting, information systems, customer service, and general administrative staff. We expect to renew leases that are expiring over the next twelve months with similar terms.
+
+The landlord for the buildings in Stamford and the headquarters in Watertown, Connecticut is a trust with which Henry, John, and Peter Baker, and Ross Rapaport are affiliated.  We believe that the rent charged under these leases is not more than fair market rental value.
+
+We expect that these facilities will meet our needs for the next several years.
+
+ITEM 3. 
+ 
+ LEGAL PROCEEDINGS.
+
+None.
+
+ITEM 4. 
+ 
+ MINE SAFETY DISCLOSURES.
+
+N/A.
+
+18 
+
+PART II
+
+ITEM 5. 
+ 
+ MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+
+Our Common Stock is traded on the NYSE MKT under the symbol CRVP.  The table below indicates the range of the high and low daily closing prices per share of Common Stock as reported by the exchange.
+
+Fiscal Year Ended October 31, 2016 
+
+Fiscal Year Ended October 31, 2015 
+
+The last reported sale price of our Common Stock on the NYSE MKT on January 9, 2017 was $.83 per share.
+
+As of that date, we had approximately 265 record owners and believe that there were approximately 1,500 beneficial holders of our Common Stock.
+
+No dividends have been declared or paid to date on our Common Stock.  Our senior credit agreement prohibits us from paying dividends without the prior consent of the lender.  It is unlikely that we will pay dividends in the foreseeable future.
+
+Issuer Purchases of Equity Securities
+
+On May 14, 2012 we announced a program to repurchase up to $500,000 of our common stock. There is no expiration date for the program.  The dollar amount may not be reached.  During fiscal 2016 and 2015 no shares were repurchased.  The maximum expenditure that may yet to be used for purchase under the program is $470,030 as of October 31, 2016.
+
+19 
+
+ITEM 7. 
+ 
+ MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The following Management's Discussion and Analysis (MD A) is intended to help the reader understand our Company.  The MD A should be read in conjunction with our consolidated financial statements and the accompanying notes.  This overview provides our perspective on the individual sections of the MD A, as well as a few suggestions for reading these pages.  The MD A includes the following sections:
+
+Business Overview      a brief description of fiscal year 2016.
+
+Results of Operations    an analysis of our consolidated results of operations for the two years presented in our consolidated financial statements.
+
+Liquidity and Capital Resources    an analysis of cash flows, sources and uses of cash, and contractual obligations and a discussion of factors affecting our future cash flow.
+
+Critical Accounting Policies    a discussion of accounting policies that require critical judgments and estimates.  Our significant accounting policies, including the critical accounting policies discussed in this section, are summarized in the notes to the accompanying consolidated financial statements.
+
+Business Overview
+
+Net income increased $1,803,000 on a sales decline of 12% in fiscal 2016 compared to fiscal 2015.   Although sales declined 12%, gross profit declined 1%.  The decrease in lower margin product sales lines resulted in an overall gross profit of 51% for fiscal 2016 compared to 45% in fiscal 2015.  Significant reductions in operating expenses of $3,017,000 in fiscal 2016 from fiscal 2015 resulted in net income for 2016.
+
+Decreased sales of lower margin product lines, most notably office products, and our shift away from commodity pricing of all our products and services combined with a more focused selling effort of bottled water were key factors in a more profitable product sales mix.  Additionally, the reduced volume in office product line sales resulted in less stress on our distribution and delivery systems that had occurred in 2015 caused by the volume of overnight office product deliveries.   Changes in our sales strategy resulted in lower selling and advertising costs because of lower staffing needs to accomplish our goals.
+
+We continue to focus on strategic pricing for our products.  Our focus on customers who want regularly scheduled route deliveries and associated value added services has resulted in efficiencies, while providing higher gross margins.  Furthermore, we are investing in technology which will provide more efficiency in operations while also increasing customer convenience and satisfaction, including improvements to their ecommerce experience.
+
+20 
+
+Results of Operations
+
+Fiscal Year Ended October 31, 2016 Compared to Fiscal Year Ended October 31, 2015
+
+Sales 
+
+Sales for fiscal year 2016 were $65,342,000 compared to $73,901,000 for 2015, a decrease of $8,559,000 or 12%.  Other than water and other revenues, all sales categories declined.  The most notable decline was that of office products.
+
+The comparative breakdown of sales is as follows:
+
+Water    Water sales volume increased 1%.  The warmer than usual summer in 2016 is believed to be a contributing factor to the volume increase.  The average selling price increased 2% as a result of losing incumbent competitive bid accounts thus increasing the average sales price.
+
+Coffee     Sales of single-serve coffee declined to $7,599,000 from $9,118,000, despite an increase of 5% in our Cool Beans  pod sales.  Cool Beans  made up 19% of the category in 2016 compared to 15% in 2015.  There was a 15% decrease in sales of our traditional coffee products for office and food service brewers.  The overall decrease in coffee sales was attributable to lower volume due to commoditization pricing by competitors in the marketplace as well as the availability of these products in grocery and box stores.  Increasingly, single serve coffee products are becoming more available through the internet and virtual stores.   The increase in Cool Bean  pod sales is the result of continued marketing efforts on the brand and lower pricing than traditional hard pod products.  We believe that a portion of the decline is due to software changes made to our website that customers may have found somewhat cumbersome to navigate and use.
+
+Refreshment     There were broad declines for products in the refreshment category.  The overall category declined 9% in 2016 from 2015.  We believe that a portion of the decline is due to software changes made to our website that customers may have found somewhat cumbersome to navigate and use.
+
+Equipment Rental     The decrease in equipment rental revenue in fiscal year 2016 compared to the prior year was a result of a 3% decrease in average units in the field and a decrease in average rental of 2%.  The unit decrease is attributable to lost units mostly from not winning incumbent competitive bids.  The average lower pricing is predicated on competitive pricing pressures.
+
+Office Products     The decrease in sales was the result of implemented price increases on items previously sold near or at cost.  Additionally, many of these sales were initiated from our website.  We believe that a portion of the decline is due to software changes made to our website that customers may have found somewhat cumbersome to navigate and use.
+
+21 
+
+Other     The primary increase was attributable to an increase in customer late charges.  Previously these fees were not charged to a large portion of customers, particularly those who ordered through our previous website.
+
+Gross Profit/Cost of Goods Sold 
+
+Gross profit decreased $261,000 to $33,108,000 in fiscal year 2016 compared to $33,369,000 in fiscal 2015.  Gross profit as a percentage of sales increased to 51% from 45%, respectively.  The sales decline resulted in lower dollar gross margins.
+
+Cost of goods sold includes all costs to bottle water, costs of purchasing and receiving products for resale (including freight), as well as costs associated with product quality, warehousing and handling costs, internal transfers, and the repair and service of rental equipment, but does not include the costs of distributing our product to our customers.  We include distribution costs in selling, general, and administrative expense, and the amount is reported below.  Other companies may include distribution costs in their cost of goods sold, in which case, on a comparative basis, such other companies may have a lower gross margin as a result.
+
+Income from Operations/Operating Expenses 
+
+Income from operations was $3,523,000 in 2016 compared to $767,000 in 2015, an increase of $2,756,000. The improvement is attributable to significantly reduced operating expenses partially offset by lower gross profit.  Total operating expenses decreased by $3,017,000 or 9% in 2016 to $29,585,000 compared to $32,602,000 in 2015.
+
+Selling, general and administrative (SG A) expenses were $28,366,000 in fiscal year 2016 compared to $31,283,000 in fiscal year 2015, a decrease of $2,917,000, or 9%.  Of total SG A expenses:
+
+Advertising expenses decreased to $546,000 in fiscal year 2016 from $640,000 in 2015, a decrease of $94,000, or 15%. The decrease in advertising costs is primarily related to an increase in online advertising and a decrease in print advertising and sample product giveaways.
+
+Amortization decreased to $672,000 in 2016 compared to $740,000 in 2015.  Amortization is attributable to intangible assets that were acquired as part of acquisitions in recent years.  The decrease is the result of acquired customer lists and non-competition agreements issued in conjunction with acquisitions becoming fully amortized.
+
+22 
+
+There was a net loss from the sale of miscellaneous assets in fiscal year 2016 of $1,000 compared to a net gain of $62,000 in 2015.   These were sales of miscellaneous assets and vending equipment no longer used in the course of business.
+
+Other Expense, Income Taxes, and Income (Loss) before Income Taxes 
+
+Interest expense was $1,617,000 for fiscal year 2016 compared to $1,627,000 for fiscal year 2015, a decrease of $10,000.
+
+Income before income taxes of $1,906,000 in fiscal year 2016 compared to a loss before income taxes of $860,000 in fiscal year 2015, was an increase of $2,766,000.
+
+Income tax expense for fiscal year 2016 of $704,000 compared to income tax benefit of $259,000 for fiscal year 2015 resulted in an effective tax rate of 37% in 2016 and 30% in 2015. The increase in taxes was a result of increased taxable income.
+
+Net Income (Loss) 
+
+Net income for 2016 was $1,202,000 compared to a net loss of $601,000 in fiscal year 2015, an increase of $1,803,000.  Earnings were higher despite lower sales and gross profit due to significantly reduced operating costs. The net income and loss in the respective years was completely attributable to continuing operations.
+
+Based on the weighted average number of shares of Common Stock outstanding of 21,358,000 (basic and diluted), net income per share in 2016 was $.06 per share.  In 2015, weighted average number of shares of Common Stock outstanding was 21,358,000 (basic and diluted) resulting in net loss of $.03 per share. This was an increase in earnings of $.09 per share.
+
+In 2016, there was $14,000 of unrealized losses related to our swap activity that we have designated as cash flow hedges, net of reclassification adjustments and taxes compared to unrealized gains of $12,000 in 2015.
+
+Liquidity and Capital Resources
+
+As of October 31, 2016, we had working capital of $7,911,000 compared to $8,351,000 as of October 31, 2015, a decrease of $440,000.  The decrease in working capital is primarily attributable to higher accounts payable and accrued expenses.
+
+Net cash provided by operating activities was $8,077,000 in 2016 compared to $2,551,000 in 2015, an increase of $4,369,000.  The increase is reflective of higher net income and reductions in inventory and accounts receivable partially offset by higher accounts payable and accrued expenses.  We use cash provided by operations to repay debt and fund capital expenditures.  In fiscal year 2016 we repaid $3,027,000 of outstanding debt. In 2015 we received net cash proceeds of $1,199,000 related to the amended Credit Agreement and refinancing.   We used $2,629,000 for capital expenditures in 2016 compared to $2,515,000 in 2015.
+
+On May 20, 2015 the Company amended its Credit Agreement (the "Agreement") with Bank of America to provide a senior financing facility consisting of term debt and a revolving line of credit.  Under the Agreement, the Company became obligated on $12,000,000 of debt in the form of a term note to refinance the previous senior term debt and to fund repayment of a portion of its outstanding subordinated debt. Additionally, the Agreement includes a $5,000,000 revolving line of credit that can be used for the purchase of fixed assets, to fund acquisitions, to collateralize letters of credit, and for operating capital. 
+
+23 
+
+The Agreement amortizes the term debt over a five year period with 59 equal monthly installments of $133,333 and a final payment of $4,133,333 due in May 2020. The revolving line of credit matures in May 2018.  There are various restrictive covenants under the Agreement, and the Company is prohibited from entering into other debt agreements without the bank's consent.  The Agreement also prohibits the Company from paying dividends without the prior consent of the bank.
+
+At October 31, 2016, there was no balance outstanding on the line of credit and a letter of credit issued for $1,415,000 to collateralize the Company's liability insurance program as of that date.  Consequently, as of October 31, 2016, there was $3,585,000 available to borrow from the revolving line of credit. There was $9,733,000 outstanding on the term note as of October 31, 2016.
+
+Effective September 12, 2016, the Company amended its Credit Agreement with the Bank of America (as so amended, the "Second Amendment").  Under the Amendment, interest is paid at a rate of one-month LIBOR plus a margin based on the achievement of a specified leverage ratio.  As of October 31, 2016, the margin was 2.50% for the term note and 2.25% for the revolving line of credit.  The Company fixed the interest rate on a portion of its term debt by purchasing an interest rate swap.  As of October 31, 2016, the Company had $4,866,000 of the term debt subject to variable interest rates.  The one-month LIBOR was .53% on October 31, 2016 resulting in total variable interest rates of 3.03% and 2.78%, for the term note and the revolving line of credit, respectively, as of October 31, 2016.
+
+The Second Amendment requires the Company to be in compliance with certain financial covenants as follows: (i) a maximum annual limit for capital expenditures of $4,000,000 each fiscal year, (ii) consolidated adjusted operating cash flow to consolidated total debt service ratio, as defined, to be no less than 1.5 to 1 for any reference period ending on or after October 31, 2016 and (iii) senior funded debt to consolidated adjusted EBITDA, as defined, to be no greater than 2.5 to 1 as of the end of any fiscal quarter ending on or after October 31, 2016.
+
+The Amendment also allows payments of interest on Subordinated Notes.
+
+In addition to the senior debt, as of October 31, 2016, the Company has subordinated debt owed to Henry, Peter and John Baker in the aggregate principal amount of $9,000,000 that is due November 20, 2020.  The interest rate on each of these notes is 12% per annum.
+
+In addition to our senior and subordinated debt commitments, we have significant future cash commitments, primarily in the form of operating leases that are not reported on the balance sheet.  These operating leases are described in Note 15 to our Audited Consolidated Financial Statements.
+
+24 
+
+The following table sets forth our contractual commitments as of October 31, 2016:
+
+(1)
+
+Interest based on 50% of outstanding senior debt at the hedged interest rate discussed above, 50% of outstanding senior debt at a variable rate of 3.03%.  Subordinated debt at a rate of 12%.
+
+(2)
+
+Customer deposits have been excluded from the table.  Deposit balances vary from period to period with water sales but future increases and decreases in the balances are not accurately predictable.  Deposits are excluded because, net of periodic additions and reductions, it is probable that a customer deposit balance will always be outstanding as long as the business operates.
+
+As of the date of this Annual Report on Form 10-K, we have no other material contractual obligations or commitments.
+
+Factors Affecting Future Cash Flow 
+
+Generating cash from operating activities and access to credit is integral to the success of our business.  We continue to generate cash from operating activities to service scheduled debt repayment and fund capital expenditures.  In addition, we have capacity to borrow from our acquisition line of credit for capital expenditures and acquisitions.  We also lease a significant amount of our vehicles and all of our buildings.
+
+Adverse economic conditions and an increase in banking regulations in recent years have negatively impacted many businesses' financial performance and restricted credit availability.  The competitive landscape has eroded our sales volume over the past year.  We anticipate that our business and pricing strategy will be successful. However, no assurance can be given that we will be profitable in the future and that the economic and competitive environment will not adversely affect our cash flow and results of operations or that we will have adequate access to credit.
+
+Factors Affecting Quarterly Performance 
+
+Our business and financial trends vary from quarter to quarter based on, but not limited to, seasonal demands for our products, climate, and economic and geographic trends.  Consequently, results for any particular fiscal quarter are not necessarily indicative, through extrapolation, or otherwise, of results for a longer period. In the past year as in other years, we have experienced weather related events that have influenced quarterly performance.  Weather is always variable and can impact our performance both positively and negatively.  In 2016 we feel we increased water sales due to the warmer than usual summer.  In 2015 we lost sales due to the unusually harsh winter in the northeast leaving us unable to make deliveries.
+
+25 
+
+Critical Accounting Policies
+
+Our consolidated financial statements are prepared in accordance with generally accepted accounting principles.  Preparation of the statements in accordance with these principles requires that we make estimates, using available data and our judgment for such things as valuing assets, accruing liabilities, and estimating expenses.  We believe that the estimates, assumptions and judgments involved in the accounting policies described below have the greatest potential impact on our consolidated financial statements, so we consider these to be our critical accounting policies and estimates. Because of the uncertainty inherent in these matters, actual results could differ from the estimates we use in applying the critical accounting policies. We base our ongoing estimates on historical experience and other various assumptions that we believe to be reasonable under the circumstances.
+
+Accounts Receivable   Allowance for Doubtful Accounts 
+
+We routinely review our accounts receivable, by customer account aging, to determine if the amounts due are collectible based on information we receive from the customer, past history, and economic conditions.  In doing so, we adjust our allowance accordingly to reflect the cumulative amount that we feel is uncollectible.  This estimate may vary from the proceeds that we actually collect.  If the estimate is too low, we may incur higher bad debt expenses in the future resulting in lower net income.  If the estimate is too high, we may experience lower bad debt expense in the future resulting in higher net income.
+
+Fixed Assets   Depreciation 
+
+We maintain buildings, machinery and equipment, and furniture and fixtures to operate our business. We estimate the life of individual assets to allocate the cost over the expected life.  The basis for such estimates is use, technology, required maintenance, and obsolescence.   We periodically review these estimates and adjust them if necessary.  Nonetheless, if we overestimate the life of an asset or assets, at a point in the future, we would have to incur higher depreciation costs and consequently, lower net income.  If we underestimate the life of an asset or assets, we would absorb too much depreciation in the early years resulting in higher net income in the later years when the asset is still in service.
+
+Goodwill   Intangible Asset Impairment 
+
+We have acquired a significant number of companies.  The excess of the purchase price over the fair value of the assets and liabilities acquired has been recorded as goodwill.  If goodwill is not impaired, it would remain as an asset on our balance sheet at the value assigned in the acquisitions.  If it is impaired, we would be required to write down the asset to an amount that accurately reflects its estimated implied value.  If we elect not to perform a Step 0 assessment, the assessment of the carrying value of goodwill is a two step process. In step one, the fair value of the Company is estimated, using a weighted average of three different approaches   quoted stock price (a market approach), value comparisons to publicly traded companies believed to have comparable reporting units (a market approach), and discounted net cash flow (an income approach).  This approach provides a reasonable estimation of the value of the Company and takes into consideration the Company's thinly traded stock and concentrated holdings, market comparable valuations, and expected results of operations.  The resulting estimated fair value is then compared to our equity value.
+
+26 
+
+As of October 31, 2016, considering qualitative factors, we concluded it is more likely than not that the fair value of the Company was greater than its carrying amount (Step 0); therefore performing the two-step goodwill impairment test was not necessary.  See the significant accounting policies in the footnotes to the financial statements.
+
+Income Taxes 
+
+We recognize deferred tax assets and liabilities based on temporary differences between the financial statement carrying amount of assets and liabilities and their corresponding tax basis.  The valuation of these deferred tax assets and liabilities is based on estimates that are dependent on rate and time assumptions.  If these estimates do not prove to be correct in the future, we may have over or understated income tax expense and, as a result, earnings.
+
+Financial Accounting Standards Board ("FASB") guidance clarifies the criteria that an individual tax position must satisfy for some or all of the benefits of that position to be recognized in a company's financial statements. The guidance prescribes a recognition threshold of more-likely-than-not, and a measurement attribute for all tax positions taken or expected to be taken on a tax return in order for those tax positions to be recognized in the financial statements.
+
+Off-Balance Sheet Arrangements 
+
+We lease various facilities and equipment under cancelable and non-cancelable short and long term operating leases, which are described in Item 2 of this Annual Report on Form 10-K.
+
+ITEM 8 
+  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.  
+
+Our Consolidated Financial Statements and their footnotes are set forth on pages F-1 through F-26.
+
+ITEM 9. 
+ 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+None.
+
+ITEM 9A. 
+ 
+ CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Our Chief Executive Officer and our Principal Financial Officer, and other members of our senior management team, have evaluated the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)).  Based on such evaluation, our Chief Executive Officer and Principal Financial Officer have concluded that our disclosure controls and procedures, as of the end of the period covered by this report, were adequate and effective to provide reasonable assurance that information required to be disclosed by us, including our consolidated subsidiary, in reports that we file or submit under the Exchange Act, is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms, and that information we are required to disclose in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive and Chief Financial officers, as appropriate to allow timely decisions regarding required disclosure.
+
+The effectiveness of a system of disclosure controls and procedures is subject to various inherent limitations, including cost limitations, judgments used in decision making, assumptions about the likelihood of future events, the soundness of internal controls, and fraud. Due to such inherent limitations, there can be no assurance that any system of disclosure controls and procedures will be successful in preventing all errors or fraud, or in making all material information known in a timely manner to the appropriate levels of management.
+
+27 
+
+Internal Control Over Financial Reporting
+
+a) Management's Annual Report on Internal Control Over Financial Reporting
+
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. Internal control over financial reporting is defined in Rule 13a-15(f) or 15d-15(f) promulgated under the Securities Exchange Act of 1934 as a process designed by, or under the supervision of, the Company's principal executive and principal financial officers and effected by the Company's board of directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures that:
+
+pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the Company;
+
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and
+
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company's assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+The Company's management assessed the effectiveness of the Company's internal control over financial reporting as of October 31, 2016. In making this assessment, the Company's management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO 2013) in Internal Control-Integrated Framework.
+
+Based on our assessment, management concluded that, as of October 31, 2016, the Company's internal control over financial reporting is effective based on those criteria.
+
+This Annual Report on Form 10-K does not include an attestation report of the Company's registered public accounting firm regarding internal control over financial reporting.  Management's report was not subject to attestation by the Company's registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit the Company to provide only management's report in this Annual Report on Form 10-K.
+
+28 
+
+b) Changes in Internal Control Over Financial Reporting
+
+No change in our internal control over financial reporting occurred during the fiscal quarter ended October 31, 2016 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+ITEM 9B. 
+ 
+ OTHER INFORMATION.
+
+None.
+
+29 
+
+PART III
+
+ITEM 10. 
+ 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+The information required by this Item is incorporated by reference to the sections captioned "Directors," "Our Executive Officers," "Section 16(a) Beneficial Ownership Reporting Compliance," "Corporate Governance"  and "Committees of the Board of Directors"  in our 2017 proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended October 31, 2016.
+
+ITEM 11. 
+ 
+ EXECUTIVE COMPENSATION.
+
+The information required by this Item is incorporated by reference to the sections captioned "Compensation of Executive Officers" and "Compensation of Non-Employee Directors" in our 2017 proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended October 31, 2016.
+
+ITEM 12. 
+ 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+
+Securities Authorized for Issuance Under Equity Compensation Plans.
+
+The following table sets forth certain information as of October 31, 2016 about shares of our Common Stock that may be issued upon the exercise of options and other rights under our existing equity compensation plans and arrangements, divided between plans approved by our stockholders and plans or arrangements that were not required to be and were not submitted to our stockholders for approval.
+
+Equity Compensation Plan Information
+
+(a)
+
+(b)
+
+(c)
+
+Plan Category
+
+Number of Securities to be issued upon exercise of outstanding options, warrants and rights
+
+Weighted-average exercise price of outstanding options, warrants and rights
+
+Number of Securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)).
+
+Equity compensation plans approved by security holders
+
+-0-
+
+-
+
+500,000
+
+Equity compensation plans not approved by security holders
+
+-0-
+
+-
+
+-0-
+
+Total
+
+-0-
+
+-
+
+500,000
+
+Additional information required by this Item is incorporated by reference to the section captioned "Security Ownership of Certain Beneficial Owners and Management" in our 2017 proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended October 31, 2016.
+
+30 
+
+ITEM 13. 
+ 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+
+The information required by this Item is incorporated by reference to the section captioned "Corporate Governance" in our 2017 proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended October 31, 2016.
+
+ITEM 14. 
+ 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+The information required by this Item is incorporated by reference to the sections captioned "Independent Registered Public Accounting Firm Fees" and "Pre-Approval Policies and Procedures" in our 2017 proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended October 31, 2016.
+
+31 
+
+PART IV
+
+ITEM 15. 
+ 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+a)
+
+The following documents are filed as part of this report:
+
+(1) Financial Statements
+
+(2) Schedules
+
+None
+
+(3) Exhibits : 
+
+32 
+
+33 
+
+34 
+
+* Management contract or compensatory plan.
+
+35 
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, Crystal Rock Holdings, Inc. has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+CRYSTAL ROCK HOLDINGS, INC.
+
+By:   /s/ Peter K. Baker   
+
+Dated: January 26, 2017     
+  
+ Peter K. Baker, Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+Name
+
+Title
+
+Date
+
+/s/ Ross S. Rapaport 
+
+Ross S. Rapaport
+
+Chairman of the Board of Directors
+
+January 26, 2017
+
+/s/ John B. Baker 
+
+John B. Baker
+
+Executive Vice President and Director
+
+January 26, 2017
+
+/s/ Peter K. Baker 
+
+Peter K. Baker
+
+Chief Executive Officer and Director (principal executive officer)
+
+January 26, 2017
+
+/s/ Martin A. Dytrych 
+
+Martin A. Dytrych
+
+Director
+
+January 26, 2017
+
+/s/ John M. Lapides 
+
+John M. Lapides
+
+Director
+
+January 26, 2017
+
+/s/ Lori J. Schafer 
+
+Lori J. Schafer
+
+Director
+
+January 26, 2017
+
+/s/ Bruce S. MacDonald 
+
+Bruce S. MacDonald
+
+Secretary and Director
+
+January 26, 2017
+
+/s/ David Jurasek 
+
+David Jurasek
+
+Chief Financial Officer, Chief Accounting Officer and Treasurer
+
+January 26, 2017
+
+36 
+
+EXHIBITS TO CRYSTAL ROCK HOLDINGS, INC.
+
+ANNUAL REPORT ON FORM 10 K
+
+FOR THE FISCAL YEAR ENDED OCTOBER 31, 2016
+
+Exhibits Filed Herewith
+
+Exhibit 
+ Number 
+
+Description 
+
+IDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors of
+
+Crystal Rock Holdings, Inc.
+
+Watertown, Connecticut
+
+We have audited the accompanying consolidated balance sheets of Crystal Rock Holdings, Inc. and subsidiary as of October 31, 2016 and 2015, and the related consolidated statements of operations, comprehensive income (loss), changes in stockholders  equity, and cash flows for the years then ended. These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement.  The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion.  An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall consolidated financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Crystal Rock Holdings, Inc. and subsidiary as of October 31, 2016 and 2015, and the results of their operations and their cash flows for the years then ended in conformity with U.S. generally accepted accounting principles.
+
+/s/ Wolf   Company, P.C.
+
+Boston, Massachusetts
+
+January 26, 2017
+
+F-1 
+
+F-2 
+
+F-3 
+
+F-4 
+
+F-5 
+
+F-6 
+
+CRYSTAL ROCK HOLDINGS, INC. AND SUBSIDIARY
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1.
+
+BUSINESS OF THE COMPANY AND BASIS OF PRESENTATION 
+
+Crystal Rock Holdings, Inc. and Subsidiary (collectively, the "Company") is engaged in the production, marketing and distribution of bottled water and the distribution of coffee, ancillary products, various other refreshment products and office products. The Company operates exclusively as a home and office delivery business, using its own trucks to distribute throughout New England, New York, and New Jersey. In addition, it offers its products for sale over the internet and shipping through third parties.
+
+The consolidated financial statements of the Company include the accounts of Crystal Rock Holdings, Inc. and its wholly-owned subsidiary, Crystal Rock LLC.  All inter-company transactions and balances have been eliminated in consolidation.
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+2.
+
+SIGNIFICANT ACCOUNTING POLICIES 
+
+Cash Equivalents     The Company considers all highly liquid temporary cash investments with a maturity of three months or less at date of purchase to be cash equivalents.
+
+Accounts Receivable   - Accounts receivable are carried at original invoice amount less an estimate made for doubtful accounts. Management establishes the allowance for doubtful accounts by regularly evaluating past due balances, collection history as well as general economic and credit conditions. Individual accounts receivable are written off when deemed uncollectible, with any future recoveries recorded as income when received.
+
+Inventories     Inventories primarily consist of products that are purchased for resale and are stated at the lower of cost or market on a first in, first out basis.
+
+Property and Equipment     Property and equipment are stated at cost net of accumulated depreciation. Depreciation is calculated on the straight-line method over the estimated useful lives of the assets, which range from three to ten years for machinery and equipment, and from seven to thirty years for buildings and improvements, and three to seven years for other fixed assets. Leasehold improvements are depreciated over the shorter of the estimated useful life of the leasehold improvement or the term of the lease.
+
+F-7 
+
+Goodwill     Goodwill and other intangible assets not subject to amortization are tested for impairment annually or more frequently if events or changes in circumstances indicate that the asset might be impaired.  The amount of impairment is measured as the excess of the carrying value over the implied fair value.   To test goodwill, we first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of the applicable reporting unit is less than its carrying value. If, after assessing these events or circumstances, we determine that it is more likely than not that the fair value of such reporting unit is less than its carrying amount, we will proceed to perform a two-step impairment analysis.   In step one, the fair value of the Company is determined, using a weighted average of three different approaches   quoted stock price (a market approach), value comparisons to publicly traded companies believed to have comparable reporting units (a market approach), and discounted net cash flow (an income approach).  These approaches provide a reasonable estimation of the value of the Company and take into consideration the Company's thinly traded stock and concentrated holdings, market comparable valuations, and expected results of operations.  The resulting estimated fair value is then compared to the Company's equity value.  If the estimated fair value exceeds the Company's equity value, there is no impairment.  If the Company's equity value exceeds the estimated fair value, potential impairment is indicated and step two is necessary.  If impairment had been indicated, we would have then allocated the estimated fair value to all of the assets and liabilities of the Company (including unrecognized intangible assets) as if the Company had been acquired in a business combination and the estimated fair value was the price paid. We then would recognize impairment in the amount by which the carrying value of goodwill exceeded the implied value of goodwill as determined in this allocation.    Management reviewed qualitative factors relative to the carrying value of goodwill as of October 31, 2016 and determined, without a two-step impairment assessment, that it was more likely than not that the fair value of the Company is greater than its carrying amount.  The Company conducted a step-one assessment of the carrying value of its goodwill as of October 31, 2015 and determined that goodwill was not impaired.
+
+Intangible Assets and Impairment for Long-Lived and Intangible Assets     Intangible assets with lives restricted by contractual, legal, or other means are amortized over their useful lives. The Company defines an asset's useful life as the period over which the asset is expected to contribute to the future cash flows of the entity.  Intangible assets consist primarily of customer lists and covenants not to compete, with estimated lives ranging from 3 to 5 years.  Trademarks have estimated lives of 30 years.  The Company reviews long-lived assets and certain identifiable intangible assets for impairment whenever circumstances and situations change such that there is an indication that the carrying amounts may not be recovered.  Recoverability is assessed based on estimated undiscounted future cash flows.  As of October 31, 2016 and 2015, the Company believes that there has been no impairment of its long-lived and intangible assets.
+
+Stock-Based Compensation     The Company has three stock-based compensation plans under which incentive and non-qualified stock options and restricted shares may be granted. There were no stock options granted under these plans during the years ended October 31, 2016 and 2015.  Prior to 2015, the Company has only issued options to purchase 51,250 shares of the Company's stock since 2005. The Company measures the cost of employee services received in exchange for an award of equity instruments based on the grant date fair value of the award. That cost is recognized over the period during which an employee is required to provide services in exchange for the award, the requisite service period (usually the vesting period).  The Company provides an estimate of forfeitures at initial grant date. 
+
+F-8 
+
+Net Income Per Share     Net income per share is based on the weighted average number of common shares outstanding during each period.  Potential common shares are included in the computation of diluted per share amounts outstanding during each period that income is reported.  In periods in which the Company reports a loss, potential common shares are not included in the diluted earnings per share calculation since the inclusion of those shares in the calculation would be anti-dilutive. The Company considers outstanding "in-the-money" stock options, if any, as potential common stock in its calculation of diluted earnings per share and uses the treasury stock method to calculate the applicable number of shares.
+
+Advertising Expenses     The Company expenses advertising costs at the commencement of an advertising campaign.
+
+Customer Deposits     Customers receiving home or office delivery of water pay the Company a deposit for the water bottle that is refunded when the bottle is returned.  Based on historical experience, the Company uses an estimate of the deposits it expects to refund over the next twelve months to determine the current portion of the liability, and classifies the remainder of the deposit obligation as a long term liability.
+
+Income Taxes     When calculating its tax expense and the value of tax related assets and liabilities the Company considers the tax impact of future events when determining the value of assets and liabilities in its financial statements and tax returns.  Accordingly, a deferred tax asset or liability is calculated and reported based upon the tax effect of the differences between the financial statement and tax basis of assets and liabilities as measured by the enacted rates that will be in effect when these differences reverse.  A valuation allowance is recorded if realization of the deferred tax assets is not likely.
+
+In accordance with the  guidance pertaining to the accounting for uncertainty in income taxes, the Company uses a more-likely-than-not measurement attribute for all tax positions taken or expected to be taken on a tax return in order for those tax positions to be recognized in the financial statements.
+
+Derivative Financial Instruments   - The Company records all derivatives on the balance sheet at fair value.  The Company utilizes interest rate swap agreements designed as cash flow hedges to hedge variable rate interest payments on its long-term debt.  Accordingly, the resulting changes in fair value of the Company's interest rate swaps are recorded as a component of other comprehensive income (loss).  The Company assesses, both at a hedge's inception and on an ongoing basis, whether the derivatives that are used in hedging transactions are highly effective in offsetting changes in cash flows of the related hedged items. Gains and losses that are related to the ineffective portion of a hedge or de-designated hedge are recorded in earnings.
+
+F-9 
+
+Fair Value of Financial Instruments     The carrying amounts reported in the consolidated balance sheet for cash equivalents, trade receivables, and accounts payable approximate fair value based on the short-term maturity of these instruments.  The carrying value of senior debt approximates its fair value since it provides for variable market interest rates. The Company uses a swap agreement to hedge the interest rates on its senior debt.  The swap agreement is carried at fair value.  Subordinated debt is carried at its approximate market value based on periodic comparisons to similar instruments in the market place.
+
+Fair Value Hierarchy   - The Company groups its assets and liabilities, generally measured at fair value, in three levels based on the markets in which the assets and liabilities are traded and the reliability of the assumptions used to determine the fair value.
+
+Level 1   Valuation is based on quoted prices in active markets for identical assets or liabilities. Valuations are obtained from readily available pricing sources for market transactions involving identical assets or liabilities.
+
+Level 2   Valuation is based on observable inputs other than level 1 prices, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+
+Level 3   Valuation is based on unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.  Level 3 assets and liabilities include financial instruments whose value is determined using unobservable inputs to pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires significant management judgment or estimation.
+
+The level of fair value hierarchy in which the fair value measurement falls is determined by the lowest level input that is significant to the fair value measurement.
+
+Transfers between levels are recognized at the end of a reporting period, if applicable.
+
+Revenue Recognition     Revenue is recognized when products are delivered to customers. A certain amount of the Company's revenue is derived from renting water coolers and coffee brewers.  These rentals are generally for 12 months of service and are accounted for as operating leases.  To open an account that includes the rental of equipment, a customer is required to sign a contract that recognizes the receipt of the equipment, outlines the Company's ownership rights, the customer's responsibilities concerning the equipment, and the rental charge for the agreed to number of months.  In general, the customer does not renew the agreement after the initial term, and the rental continues on a month to month basis until the customer returns the equipment in good condition.  The Company recognizes the income ratably over the life of the rental agreement. After the initial rental agreement term expires, rental revenue is recognized monthly as billed.
+
+Shipping and Handling Costs     The Company distributes its home and office products directly to its customers on its own trucks.  The delivery costs related to the Company's route system, which are reported under selling, general, and administrative expenses, were approximately $12,550,000 and $13,390,000 for fiscal years 2016 and 2015, respectively.
+
+F-10 
+
+Reclassification     Certain amounts have been reclassified in 2015 financial statements to conform with the 2016 presentation.
+
+Adopted Accounting Standards Updates 
+
+Effective August 1, 2016, we elected to early adopt Financial Accounting Standards Board ("FASB") Accounting Standards Update ASU 2015-17,  Income Taxes (Topic 740): Balance Sheet Classification of Deferred Taxes  on a prospective basis. This guidance requires that all deferred tax assets and liabilities, along with any related valuation allowance, be classified as non-current on the balance sheet.  Prior reporting periods were not retrospectively adjusted.  The adoption of ASU 2015-17 had no impact on our results of operations or cash flows for the year ended October 31, 2016.
+
+Effective August 1, 2016, we elected to early adopt FASB ASU 2015-05,  Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . This guidance clarifies that if a cloud computing arrangement includes a software license, the customer should account for the license consistent with its accounting for other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. We elected to adopt the amendments prospectively for all arrangements entered into or materially modified after August 1, 2016. The adoption of ASU 2015-05 does not have a significant impact on our consolidated financial statements. We record the qualified cloud-based software license fees as software intangible assets instead of prepaid expenses, and amortize them over the contract length as software amortization expense instead of service expense. Both amortization expense and service expense are included in the selling, general and administrative expense line of our consolidated statements of operations, resulting in no significant impact on our income from operations, net income or cash flows.
+
+3.
+
+MERGERS AND ACQUISITIONS 
+
+The Company had no acquisitions in fiscal year 2016.
+
+In fiscal year 2015 the Company purchased certain assets of Old Mill Pond Springs in Massachusetts.  The purchase price paid for the acquisition is as follows:
+
+F-11 
+
+There were no acquisition-related costs in fiscal years 2016 and 2015.
+
+The allocation of purchase price to the corresponding line item on the financial statements related to the acquisition for fiscal 2015 year is as follows:
+
+The following table summarizes the pro forma consolidated condensed results of operations (unaudited) of the Company for the fiscal year ended October 31, 2015 as though the acquisition had been consummated at the beginning of fiscal year 2015.
+
+The operating results of the acquired entity has been included in the accompanying statements of operations since the respective date of acquisition.
+
+4.
+
+ACCOUNTS RECEIVABLE 
+
+The activity in the allowance for doubtful accounts for the years ended October 31, 2016 and 2015 is as follows:
+
+5.
+
+INVENTORIES 
+
+Inventories consisted of the following at:
+
+F-12 
+
+Finished goods inventory consists of products that the Company sells such as, but not limited to, coffee, cups, soft drinks, and snack foods.  Raw material inventory consists primarily of bottle caps.  The amount of raw and bottled water on hand does not represent a material amount and is not included in inventory.  The Company estimates that value as of October 31, 2016 and October 31, 2015 to be $47,000 and $65,000, respectively.  This value includes the cost of allocated overhead.  Bottles are accounted for as fixed assets (see note 7).  The inventory reserve relates to unsaleable items held in inventory.
+
+6.
+
+OTHER CURRENT ASSETS 
+
+At October 31, the balance of other current assets is itemized as follows:
+
+7.
+
+PROPERTY AND EQUIPMENT, NET 
+
+Property and equipment at October 31 consisted of:
+
+Depreciation expense for the fiscal years ended October 31, 2016 and 2015 was $2,688,413 and $2,724,855, respectively.
+
+F-13 
+
+The construction in progress relates to capitalized costs related to software not yet placed in service.
+
+8.
+
+EQUIPMENT RENTAL 
+
+The carrying cost of the equipment rented to customers under contract, which is included in property and equipment in the consolidated balance sheets, is calculated as follows:
+
+We expect to have revenue of $330,000 from the rental of equipment under contract at the end of the year over the next twelve months. After the twelve month period customer contracts convert to a month-to month basis.
+
+9.
+
+GOODWILL AND OTHER INTANGIBLE ASSETS 
+
+Major components of other intangible assets consisted of:
+
+Amortization expense for the fiscal years ending October 31, 2016 and 2015 was $671,540 and $740,456, respectively.  There were no changes in the carrying amount of goodwill for the fiscal years ending October 31, 2016 and 2015.
+
+Estimated amortization expense for the next five years is as follows:
+
+F-14 
+
+An assessment of the carrying value of goodwill was conducted as of October 31, 2016 and 2015.    In both years it was determined that goodwill was not impaired.  There were no changes in the carrying amount of goodwill for the fiscal years ended October 31, 2016 and 2015. 
+
+The Company elected to perform a qualitative (Step 0) assessment of goodwill as of October 31, 2016.  Qualitative factors that we considered in the Step 0 assessment included, but were not limited to, macroeconomic conditions, industry and market conditions, cost factors, overall financial performance, other relevant entity-specific events and our share price.  At the conclusion of the Step 0 assessment, the Company determined that is not more likely than not that the fair value of our reporting unit was less than the carrying value.
+
+The Company elected to forgo the qualitative assessment of its goodwill as of October 31, 2015 and transitioned directly to Step 1.   The assessment of the carrying value of goodwill is a two step process. In step one, the fair value of the Company is determined, using a weighted average of three different approaches   quoted stock price (a market approach), value comparisons to publicly traded companies believed to have comparable reporting units (a market approach), and discounted net cash flow (an income approach).  This approach provided a reasonable estimation of the value of the Company and took into consideration the Company's thinly traded stock and concentrated holdings, market comparable valuations, and expected results of operations. The Company compared the resulting estimated fair value to its equity value as of October 31, 2015 and determined there was no impairment of goodwill. Step 2, which involves allocation of the fair value of the Company's assets and liabilities, was not necessary because impairment was not indicated in Step 1. 
+
+The Company is a single reporting unit as it does not have separate management of product lines and shares its sales, purchasing and distribution resources among the lines.
+
+Other assets as of October 31 are as follows:
+
+The Company has issued trade notes receivable.  As of October 31, 2016 and 2015, these have been paid timely and no reserves have been established for non payment.
+
+F-15 
+
+Accrued expenses as of October 31 are as follows:
+
+Senior Debt 
+
+On May 20, 2015 the Company amended its Credit Agreement (the "Agreement") with Bank of America to provide a senior financing facility consisting of term debt and a revolving line of credit.  Under the Agreement, the Company became obligated on $12,000,000 of debt in the form of a term note to refinance the previous senior term debt and to fund repayment of a portion of its outstanding subordinated debt. Additionally, the Agreement includes a $5,000,000 revolving line of credit that can be used for the purchase of fixed assets, to fund acquisitions, to collateralize letters of credit, and for operating capital.
+
+The Agreement amortizes the term debt over a five year period with 59 equal monthly installments of $133,333 and a final payment of $4,133,333 due in May 2020. The revolving line of credit matures in May 2018.  There are various restrictive covenants under the Agreement, and the Company is prohibited from entering into other debt agreements without the bank's consent.  The Agreement also prohibits the Company from paying dividends without the prior consent of the bank.
+
+At October 31, 2016, there was no balance outstanding on the line of credit and a letter of credit has been issued for $1,415,000 to collateralize the Company's liability insurance program as of that date.  Consequently, as of October 31, 2016, there was $3,585,000 available to borrow from the revolving line of credit. There was $9,733,000 outstanding on the term note as of October 31, 2016.
+
+Effective September 12, 2016, the Company amended its Credit Agreement with the Bank of America (as so amended, the "Second Amendment").  Under the Second Amendment, interest is paid at a rate of one-month LIBOR plus a margin based on the achievement of a specified leverage ratio.  As of October 31, 2016, the margin was 2.50% for the term note and 2.25% for the revolving line of credit.  The Company fixed the interest rate on a portion of its term debt by entering into an interest rate swap.  As of October 31, 2016, the Company had $4,866,000 of the term debt subject to variable interest rates.  The one-month LIBOR was 0.53% on October 31, 2016 resulting in total variable interest rates of 3.03% and 2.78%, for the term note and the revolving line of credit, respectively, as of October 31, 2016.
+
+F-16 
+
+The Second Amendment requires the Company to be in compliance with certain financial covenants as follows: (i) a maximum annual limit for capital expenditures of $4,000,000 each fiscal year, (ii) consolidated adjusted operating cash flows to consolidated total debt service ratio, as defined, to be no less than 1.5 to 1 for any reference period ending on or after October 31, 2016 and (iii) senior funded debt to consolidated adjusted EBITDA, as defined, to be no greater than 2.5 to 1 as of the end of any fiscal quarter ending on or after October 31, 2016.  As of October 31, 2016, the Company was in compliance with these financial covenants.
+
+Subordinated Debt 
+
+In addition to the senior debt, as of October 31, 2016, the Company has subordinated debt owed to Henry, Peter and John Baker in the aggregate principal amount of $9,000,000 that is due November 20, 2020.  The interest rate on each of these notes is 12% per annum.
+
+The notes are secured by all of the assets of the Company but specifically subordinated, with a separate agreement between the debt holders, to the senior credit facility described above.
+
+Notes Payable 
+
+In March 2015, the Company completed the Old Mill Pond Springs acquisition that resulted in the Company issuing a promissory note to the seller in the principal amount of $7,500. Payment in full was made on the note in August 2015.
+
+Annual Maturities 
+
+Annual maturities of debt as of October 31, 2016 are summarized as follows:
+
+F-17 
+
+13.
+
+ON-BALANCE SHEET DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES 
+
+Derivative Financial Instruments
+
+The Company has stand-alone derivative financial instruments in the form of interest rate swap agreements, which derive their value from underlying interest rates. These transactions involve both credit and market risk.  The notional amount is an amount on which calculations, payments, and the value of the derivative are based.  The notional amount does not represent direct credit exposure.  Direct credit exposure is limited to the net difference between the calculated amount to be received and paid, if any. Such difference, which represents the fair value of the derivative instrument, is reflected on the Company's consolidated balance sheet as an unrealized gain or loss on derivatives.
+
+The Company is also exposed to credit-related losses in the event of nonperformance by the counterparties to these agreements.  The Company controls the credit risk of its financial contracts through credit approvals, limits and monitoring procedures, and currently has no reason to believe that any counterparties will fail to fulfill their obligations.
+
+This interest rate swap agreement is considered a cash flow hedge to hedge against the variability of interest rates on outstanding debt.  The net unrealized loss relating to interest rate swaps was recorded in current and long term liabilities with an offset to other comprehensive income for the effective portion of the hedge. At October 31, 2016, these cash flow hedges were deemed 100% effective.  The portion of the net unrealized loss in current liabilities is the amount expected to be reclassified to income within the next twelve months.
+
+The followin information pertains to the Company's outstanding interest rate swap at October 31, 2016.  The pay rate is fixed and the receive rate is one month LIBOR.
+
+F-18 
+
+The table below details the adjustments to other comprehensive income (loss), on a before-tax and net-of tax basis, for the fiscal years ended October 31, 2016 and 2015.
+
+The reclassification adjustments of $32,662 and $29,160 represent interest the Company paid in excess of the amount that would have been paid without the interest rate swap agreement during the fiscal years ended October 31, 2016 and 2015, respectively. These amounts were reclassified from accumulated other comprehensive loss and recorded in the consolidated statements of operations as interest expense.  No other material amounts were reclassified during the fiscal years ended October 31, 2016 and 2015.
+
+14.
+
+FAIR VALUES OF ASSETS AND LIABILITIES 
+
+Fair Value Hierarchy
+
+The Company's assets and liabilities measured at fair value on a recurring basis are as follows:
+
+In determining the fair value, the Company uses a model that calculates a present value of the payments as they amortize through the life of the loan (float) based on the variable rate and compares them to the calculated value of the payment based on the fixed rate (fixed) defined in the swap.  In calculating the present value, in addition to the term, the model relies on other data   the "rate" and the "discount factor".
+
+In the "float" model, the rate reflects where the market expects LIBOR to be for the respective period and is based on the Eurodollar futures market.
+
+The discount factor is a function of the volatility of LIBOR.
+
+Payments are calculated by applying the rate to the notional amount and adjusting for the term. Then the present value is calculated by using the discount factor.
+
+F-19 
+
+There were no assets or liabilities measured at fair value on a nonrecurring basis in fiscal years 2016 and 2015.
+
+15.
+
+COMMITMENTS AND CONTINGENCIES 
+
+Operating Leases 
+
+The Company's operating leases consist of trucks, office equipment and rental property.
+
+Future minimum rental payments, including related party leases described below, over the terms of various lease contracts are approximately as follows:
+
+Rent expense was $3,418,000 and $3,784,000 for the fiscal years ended October 31, 2016 and 2015, respectively.
+
+16.
+
+STOCK BASED COMPENSATION 
+
+Stock Option and Incentive Plans 
+
+The Company measures the cost of employee services received in exchange for an award of equity instruments based on the grant date fair value of the award. That cost is recognized over the period during which an employee is required to provide services in exchange for the award, the requisite service period (usually the vesting period).  The Company provides an estimate of forfeitures at the initial date of grant.
+
+In April 2004, the Company's shareholders approved the 2004 Stock Incentive Plan.  This plan provides for issuances of awards of up to 250,000 of the Company's common stock in the form of restricted or unrestricted shares, or incentive or non-statutory stock options for the purchase of the Company's common stock. Of the total amount of shares authorized under this plan, no options are outstanding and 26,000 restricted shares have been granted at October 31, 2016.  As of February 18, 2014, no further options may be granted under the 2004 plan.
+
+In April 2014, the Company's stockholders approved the 2014 Stock Incentive Plan.  The plan provided for issuances of awards of up to 500,000 restricted or unrestricted shares of the Company's common stock, or incentive or non-statutory stock options to purchase such common stock.  Of the total amount of shares authorized under this plan, no options have been granted and 500,000 shares are available for grant at October 31, 2016.
+
+F-20 
+
+All incentive and non-qualified stock option grants had an exercise price equal to the market value of the underlying common stock on the date of grant. The following table summarizes the activity related to stock options and outstanding stock option balances during the last two fiscal years:
+
+There were no exercisable stock options as of October 31, 2016.
+
+Outstanding options were granted with lives of 10 years and provide for vesting over a term of 5 years.  There is no unrecognized future compensation cost to be recorded.  Compensation is determined using the Black-Scholes model and the simplified method to derive the expected term of the options and historical volatility over the past five years.
+
+17.
+
+REPURCHASE OF COMMON STOCK 
+
+In May 2012, the Company's Board of Directors approved the purchase of up to $500,000 of the Company's common stock.  No shares were purchased during fiscal years ending October 31, 2016 and 2015.
+
+The following is the composition of income tax (benefit) expense:
+
+F-21 
+
+Deferred tax assets (liabilities) at October 31, 2016 and 2015, are as follows:
+
+Income tax expense differs from the amount computed by applying the statutory tax rate to net income (loss) before income tax expense as follows:
+
+The Company recognizes interest and penalties related to the unrecognized tax benefits in tax expense.  The Company had approximately $41,000 of interest and penalties accrued at October 31, 2016 and 2015.
+
+Generally, the Company is subject to federal and state tax examinations by tax authorities for years after October 31, 2013.
+
+F-22 
+
+19.
+
+NET INCOME PER SHARE AND WEIGHTED AVERAGE SHARES 
+
+The following calculation provides the reconciliation of the denominators used in the calculation of basic and fully diluted earnings per share:
+
+As of October 31, 2016, there were no outstanding options.  As of October 31, 2015, there were 10,000 options outstanding that were not included in the dilution calculation because the options' exercise price exceeded the market price of the underlying common shares.
+
+The Company has a defined contribution plan which meets the requirements of Section 401(k) of the Internal Revenue Code. All employees of the Company who are at least twenty-one years of age are eligible to participate in the plan. The plan allows employees to defer a portion of their salary on a pre-tax basis and the Company contributes 25% of amounts contributed by employees up to 6% of their salary. Company contributions to the plan amounted to $100,000, and $143,000, for the fiscal years ended October 31, 2016 and 2015, respectively.
+
+21.
+
+RELATED PARTY TRANSACTIONS 
+
+Directors and Officers 
+
+The Baker family group, consisting of three current directors, Peter Baker (CEO), John Baker (Executive Vice President) and Ross Rapaport (Chairman), as trustee, as well as Henry Baker, a former director, together own a majority of Company common stock.  In addition, in connection with the acquisition of Crystal Rock Spring Water Company in 2000, the Company issued members of the Baker family group 12% subordinated promissory notes secured by all of our assets.  The balance on these notes as of October 31, 2016 is $9,000,000.
+
+John Baker and Peter Baker have employment agreements with the Company.   The agreements provide for annual salaries of $320,000 for each and other bonuses and perquisites.  Effective November 1, 2016, new employment agreements were finalized.  See Note 24, "Subsequent Event."  
+
+F-23 
+
+The Company leases a 67,000 square foot facility in Watertown, Connecticut and a 22,000 square foot facility in Stamford, Connecticut from a Baker family trust.  The lease in Watertown expires in October 2021 and the lease in Stamford expires in September 2020.
+
+Future minimum rental payments under these leases are as follows:
+
+The Company's Chairman of the Board, Ross S. Rapaport, who also acts as Trustee in various Baker family trusts, is employed by McElroy, Deutsch, Mulvaney   Carpenter LLP (formerly Pepe   Hazard, LLP) a business law firm that the Company uses from time to time.  During fiscal 2016 and 2015 the Company paid approximately $27,000 and $65,000, respectively, for services provided by McElroy, Deutsch, Mulvaney   Carpenter LLP.
+
+The Company's Chief Financial Officer, David Jurasek, is husband of Cheryl Jurasek, the Company's Vice President of Human Resources.  During fiscal 2016 and 2015 her compensation, including the value of a Company-provided automobile, was approximately $132,000 each year.
+
+22.
+
+CONCENTRATION OF CREDIT RISK 
+
+The Company maintains its cash accounts at various financial institutions in non-interest bearing accounts.  The accounts are covered to $250,000 by the basic limit on federal deposit insurance.
+
+23.
+
+RECENT ACCOUNTING PRONOUNCEMENTS 
+
+In May 2014, the FASB issued Accounting Standards Update ("ASU") No. 2014-09, "Revenue from Contracts with Customers (Topic 606)", which stipulates that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve this core principle, an entity should apply the following steps: (1) identify the contract(s) with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract and (5) recognize revenue when (or as) the entity satisfies a performance obligation.  In August 2015, the FASB issued ASU 2015-14, which deferred the effective date of the ASU to fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted for fiscal years beginning after December 15, 2016. Companies may use either a full retrospective or a modified retrospective approach to adopt this ASU. The Company is currently evaluating the transition methods and the impact of the standard on its consolidated financial statements.
+
+F-24 
+
+In April 2015, the FASB issued ASU No. 2015-03, "Interest-Imputation of Interest" (Topic 835-30), that requires debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability, consistent with debt discounts. The guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2015.  ASU 2015-05 will be effective in the first quarter of fiscal 2017. The adoption of this guidance by the Company is not expected to have a material impact on its consolidated balance sheets.
+
+In July 2015, the FASB issued ASU 2015-11, "Simplifying the Measurement of Inventory". The ASU requires entities using the first-in, first-out (FIFO) inventory costing method to subsequently value inventory at the lower of cost and net realizable value. This ASU defines net realizable value as the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. This ASU requires prospective application and is effective for fiscal years beginning after December 15, 2016 and interim periods within those fiscal years, with early adoption permitted. The adoption of this guidance by the Company is not expected to have a material impact on its consolidated financial statements.
+
+In February 2016, the FASB issued ASU 2016-02, "Leases", which is intended to improve financial reporting about leasing transactions.  This ASU requires that leased assets be recognized as assets on the balance sheet and the liabilities for the obligations under the lease also be recognized on the balance sheet.  This ASU requires disclosures to help investors and other financial statement users better understand the amount, timing, and uncertainty of cash flows arising from leases.  The required disclosures include qualitative and quantitative requirements.  This ASU is effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years.  Early adoption is permitted. The new standard must be adopted using a modified retrospective transition, and provides for certain practical expedients. Transition will require application of the new guidance at the beginning of the earliest comparative period presented. We are currently in the process of evaluating our adoption timing and the impact of this new pronouncement on our consolidated financial position and results of operations.
+
+In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230), which addresses eight specific cash flow issues and is intended to reduce diversity in practice in how certain cash receipts and cash payments are presented and classified in the statement of cash flows. The guidance is effective for interim and annual periods beginning after December 15, 2017, and early adoption is permitted. The adoption of this guidance is not expected to have a material impact on its consolidated financial statements.
+
+F-25 
+
+In November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows (Topic 230), which addresses presentations of  total cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents.  Amounts generally described as restricted cash and restricted cash equivalents should be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows. The amendments apply to all entities that have restricted cash or restricted cash equivalents and are required to present a statement of cash flows.   The guidance is effective for interim and annual periods beginning after December 15, 2017, and early adoption is permitted. The adoption of this guidance is not expected to have a material impact on its consolidated financial statements.
+
+On November 1, 2016 the Company finalized new employment agreements with its three executive officers, Peter Baker, John Baker, and David Jurasek.  Each agreement expires on December 31, 2019 unless terminated earlier.    The compensation and terms are defined in the agreements. 
+
+F-26  
+
+<EX-21.1>
+ 2
+ exh21_1.htm
+ EXHIBIT 21.1
+
+Exhibit 21.1
+
+Subsidiary of the Registrant
+
+Crystal Rock LLC, organized in the State of Delaware.
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ exh23_1.htm
+ EXHIBIT 23.1
+
+Exhibit 23.1
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We consent to the incorporation by reference in Registration Statement Nos. 333-64044, 333-109882, and 333-118228 on Form S-8 of Crystal Rock Holdings, Inc. and subsidiary of our report dated January 26, 2017 relating to our audit of the consolidated financial statements which appear in this Annual Report on Form 10-K for the year ended October 31, 2016.
+
+/s/ Wolf   Company, P.C.
+
+Boston, Massachusetts
+
+January 26, 2017
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ exh31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1
+
+CERTIFICATION
+
+I, Peter Baker, certify that:
+
+1 . I have reviewed this Annual Report on Form 10-K of Crystal Rock Holdings, Inc.;
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4.  The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+b) Designed such internal control over financial reporting, or cause such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5.  The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ exh31_2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2
+
+CERTIFICATION
+
+I, David Jurasek, certify that:
+
+1 . I have reviewed this Annual Report on Form 10-K of Crystal Rock Holdings, Inc.;
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4.  The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+b) Designed such internal control over financial reporting, or cause such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5.  The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.
+
+Date: January 26, 2017
+
+/s/ David Jurasek
+
+Chief Financial Officer
+
+(principal accounting officer)
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ exh32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+
+18 U.S.C.  1350,
+
+AS ADOPTED PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report on Form 10-K of Crystal Rock Holdings, Inc. (the "Company") for the year ended October 31, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), the undersigned Chief Executive Officer of the Company, certifies, to the best knowledge and belief of the signatory, pursuant to 18 U.S.C.  1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) The Report fully complies with the requirements of Section 13(a) or
+
+15(d) of the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+
+respects, the financial condition and results of operations of the Company.
+
+/s/ Peter K. Baker     
+
+Peter K. Baker
+
+Chief Executive Officer
+
+Date: January 26, 2017
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exh32_2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO
+
+18 U.S.C.  1350,
+
+AS ADOPTED PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report on Form 10-K of Crystal Rock Holdings, Inc. (the "Company") for the year ended October 31, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), the undersigned Chief Financial Officer of the Company, certifies, to the best knowledge and belief of the signatory, pursuant to 18 U.S.C.  1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) The Report fully complies with the requirements of Section 13(a) or
+
+15(d) of the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+
+respects, the financial condition and results of operations of the Company.
+
+/s/ David Jurasek     
+
+David Jurasek
+
+Chief Financial Officer
+
+Date: January 26, 2017
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ crvp-20161031.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ crvp-20161031.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ crvp-20161031_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ crvp-20161031_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ crvp-20161031_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ crvp-20161031_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
