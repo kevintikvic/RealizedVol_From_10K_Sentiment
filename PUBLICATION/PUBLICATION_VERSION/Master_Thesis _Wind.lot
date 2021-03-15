@@ -1,0 +1,57 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.1}{\ignorespaces Sample Cleaning and Matching Procedure\relax }}{62}{table.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.2}{\ignorespaces Sample Distribution: Filing Types\relax }}{63}{table.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.3}{\ignorespaces Corpus Composition and Size by Years\relax }}{64}{table.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.4}{\ignorespaces Top-5-Words in the Corpus by Sentiment Category\relax }}{65}{table.caption.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.5}{\ignorespaces Sample Summary: Variable Descriptive Statistics\relax }}{66}{table.caption.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.6}{\ignorespaces Correlation Matrix: Volatility-Related Measures\relax }}{67}{table.caption.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.7}{\ignorespaces Correlation Matrix: All Variables\relax }}{68}{table.caption.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.8}{\ignorespaces Annual Augmented MZ-Regression (Static Training Set)\relax }}{69}{table.caption.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.9}{\ignorespaces Annual Augmented MZ-Regression (Rolling Training Set)\relax }}{70}{table.caption.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.10}{\ignorespaces Annual Augmented MZ-Regression (Extending Training Set)\relax }}{71}{table.caption.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.11}{\ignorespaces Augmented MZ-Regression: Stepwise Addition / Deletion of Textual Variables\relax }}{72}{table.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.12}{\ignorespaces Correlation Matrix: Scores Calculated by Different Term-Weighting Schemes\relax }}{73}{table.caption.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.13}{\ignorespaces Augmented MZ-Regression: Pooled OLS\relax }}{74}{table.caption.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.14}{\ignorespaces Robustness Check: Pooled OLS with Alternative Volatility Proxies\relax }}{75}{table.caption.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.15}{\ignorespaces Robustness Check: Substituting Pre-Filing Realized Volatilty with GARCH Forecasts\relax }}{76}{table.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.16}{\ignorespaces Robustness Check: Substituting Pre-Filing Realized Volatilty with GJR-GARCH Forecasts\relax }}{77}{table.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {8.17}{\ignorespaces Significance of Textual Variables Across Baseline and Robustness Check Models\relax }}{78}{table.caption.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.1}{\ignorespaces Summary Statistics: LM Lexica\relax }}{92}{table.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.2}{\ignorespaces Annual Augmented MZ-Regressions: Results for GARCH + Static Training Set\relax }}{93}{table.caption.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.3}{\ignorespaces Annual Augmented MZ-Regressions: Results for GJR-GARCH + Static Training Set\relax }}{94}{table.caption.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.4}{\ignorespaces Annual Augmented MZ-Regressions: Results for GARCH + Rolling Training Set\relax }}{95}{table.caption.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.5}{\ignorespaces Annual Augmented MZ-Regressions: Results for GJR-GARCH + Rolling Training Set\relax }}{96}{table.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.6}{\ignorespaces Annual Augmented MZ-Regressions: Results for GARCH + Extending Training Set\relax }}{97}{table.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.7}{\ignorespaces Annual Augmented MZ-Regressions: Results for GJR-GARCH + Extending Training Set\relax }}{98}{table.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.8}{\ignorespaces PUBLICATION: (Annual OLS + Static)\relax }}{99}{table.caption.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.9}{\ignorespaces PUBLICATION: (Annual OLS + Extending)\relax }}{100}{table.caption.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.10}{\ignorespaces PUBLICATION: (Annual OLS + Rolling)\relax }}{101}{table.caption.49}

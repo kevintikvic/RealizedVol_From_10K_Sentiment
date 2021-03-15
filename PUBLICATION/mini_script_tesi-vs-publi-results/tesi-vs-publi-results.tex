@@ -1,0 +1,79 @@
+% --------------------------------------------------------------------
+
+
+% Mini script to produce comparison tables of thesis version vs. publication version
+% Date created: 13.10.2019
+
+% --------------------------------------------------------------------
+
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[a4paper, total={6in,9in}]{geometry}
+\usepackage[english]{babel}
+
+\usepackage{longtable}
+
+% Define capitalized versions for table alignment -- this allows line breaks yet still positions centered/left/right
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}} % linksbündig mit Breitenangabe
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}} % zentriert mit Breitenangabe
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}} % rechtsbündig mit Breitenangabe
+
+% packages for rotating tables
+\usepackage{adjustbox}
+\usepackage{ctable}
+\usepackage{rotating}
+\usepackage{pbox}
+
+% Package to optimize the positioning / float of figures and tables
+\usepackage{float}
+
+% Package to "shadow" cols/rows of tables and create colored boxes
+\usepackage{xcolor}
+
+\newcommand{\cbox}[2][gray]{%
+  \colorbox{#1}{\parbox{\dimexpr\linewidth-2\fboxsep}{\strut #2\strut}}%
+}
+\definecolor{light_gray}{gray}{0.85}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{3mm plus1mm minus1mm}
+
+% Caption Package: define the caption of tables to be a bit further down and not "stick" to the table's last row
+\usepackage{caption} 
+\captionsetup[table]{skip = 6pt}
+
+% format for captions: boldfaced, left-aligned
+\captionsetup{labelfont = {bf}, justification = raggedright, singlelinecheck = false, format = hang}
+\newcommand{\source}[1]{\caption*{\textbf{Source:} {#1}} }
+
+% Define the paths were graphs and images will be loaded
+\graphicspath{{./Images/}{./Results_Images/}{./Results_Tables/}}
+
+% Define chapter-wise numbering of figures & tables
+%\usepackage{chngcntr}
+%\counterwithin{figure}{section}
+%\counterwithin{table}{section}
+%\counterwithin{equation}{section}
+
+
+% --------------------------------------------------------------------
+\begin{document}
+
+%\section{New Results}
+\input{./Results_Tables/publication_annual_regressions_static}
+\input{./Results_Tables/publication_annual_regressions_extending}
+\input{./Results_Tables/publication_annual_regressions_rolling}
+\input{./Results_Tables/publication_pooled}
+
+% --------------------------------------------------------------------
+
+%\section{Old Results}
+\input{./Results_Tables/CB_MZ_static}
+\input{./Results_Tables/CB_MZ_extending}
+\input{./Results_Tables/CB_MZ_rolling}
+\input{./Results_Tables/C_MZ_regression_pooled}
+
+\end{document}

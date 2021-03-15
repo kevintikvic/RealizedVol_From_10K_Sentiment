@@ -1,0 +1,79 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Top-words in the corpus} 
+  \label{tab: top5_each_LM} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+\multicolumn{2}{c}{\textbf{1994-2017}} & \multicolumn{2}{c}{\textbf{1994-2001}} & \multicolumn{2}{c}{\textbf{2002-2009}} & \multicolumn{2}{c}{\textbf{2010-2017}} \\
+\textbf{count} & \textbf{word} & \textbf{count} & \textbf{word} & \textbf{count} & \textbf{word} & \textbf{count} & \textbf{word} \\ 
+\\[-1.8ex]\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Negative}} \\
+\\[-1.8ex]\hline 
+6.64 & cost & 0.92 & will & 2.40 & cost & 3.45 & cost \\ 
+6.58 & will & 0.78 & cost & 2.38 & will & 3.28 & will \\ 
+4.49 & loss & 0.47 & termin & 1.54 & loss & 2.53 & loss \\ 
+3.34 & subject & 0.47 & limit & 1.15 & limit & 1.78 & subject \\ 
+3.31 & limit & 0.44 & subject & 1.12 & subject & 1.70 & limit \\
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Positive}} \\
+\\[-1.8ex]\hline 
+5.80 & effect & 0.75 & effect & 2.21 & effect & 2.84 & effect \\ 
+4.07 & inform & 0.53 & benefit & 1.45 & inform & 2.15 & inform \\ 
+3.57 & benefit & 0.47 & inform & 1.35 & benefit & 1.69 & benefit \\ 
+1.60 & posit & 0.31 & except & 0.58 & except & 0.85 & posit \\ 
+1.55 & except & 0.17 & posit & 0.57 & posit & 0.66 & except \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Uncertainty}} \\
+\\[-1.8ex]\hline 
+9.93 & may & 1.26 & may & 3.33 & may & 5.34 & may \\ 
+3.47 & could & 0.46 & approxim & 1.29 & approxim & 2.26 & could \\ 
+3.41 & condit & 0.39 & condit & 1.15 & condit & 1.90 & risk \\ 
+3.25 & approxim & 0.23 & risk & 1.03 & could & 1.87 & condit \\ 
+3.11 & risk & 0.22 & believ & 0.98 & risk & 1.50 & approxim \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Litigious}} \\
+\\[-1.8ex]\hline 
+9.04 & shall & 2.53 & shall & 3.59 & shall & 3.28 & will \\ 
+6.58 & will & 0.92 & will & 2.38 & will & 2.92 & shall \\ 
+3.21 & amend & 0.55 & amend & 1.21 & amend & 1.48 & record \\ 
+2.86 & record & 0.47 & termin & 1.09 & record & 1.45 & amend \\ 
+2.64 & law & 0.42 & law & 1.01 & termin & 1.37 & regul \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Constraining}} \\
+\\[-1.8ex]\hline 
+7.23 & requir & 0.89 & requir & 2.55 & requir & 3.79 & requir \\ 
+3.31 & limit & 0.47 & limit & 1.15 & limit & 1.70 & limit \\ 
+2.92 & oblig & 0.45 & oblig & 1.09 & oblig & 1.38 & oblig \\ 
+1.96 & restrict & 0.24 & direct & 0.65 & restrict & 1.16 & impair \\ 
+1.85 & impair & 0.21 & restrict & 0.61 & impair & 1.10 & restrict \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Strong Modal}} \\
+\\[-1.8ex]\hline 
+6.58 & will & 0.92 & will & 2.38 & will & 3.28 & will \\ 
+0.79 & must & 0.09 & must & 0.29 & must & 0.41 & must \\ 
+0.59 & definit & 0.09 & definit & 0.20 & definit & 0.29 & definit \\ 
+0.39 & best & 0.06 & best & 0.14 & best & 0.19 & best \\ 
+0.20 & strong & 0.03 & strong & 0.07 & strong & 0.10 & strong \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Modest Modal}} \\
+\\[-1.8ex]\hline 
+9.93 & may & 1.26 & may & 3.33 & may & 5.34 & may \\ 
+3.47 & could & 0.19 & could & 1.03 & could & 2.26 & could \\ 
+0.95 & depend & 0.09 & depend & 0.32 & depend & 0.55 & depend \\ 
+0.53 & possibl & 0.06 & possibl & 0.18 & possibl & 0.30 & possibl \\ 
+0.26 & appear & 0.05 & appear & 0.10 & appear & 0.14 & uncertain \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{c}{\emph{Strong Modal}} \\
+\\[-1.8ex]\hline 
+3.84 & general & 0.51 & general & 1.37 & general & 1.96 & general \\ 
+2.29 & would & 0.28 & would & 0.81 & would & 1.20 & would \\ 
+1.50 & can & 0.16 & can & 0.51 & can & 0.83 & can \\ 
+0.78 & like & 0.07 & should & 0.26 & like & 0.47 & like \\ 
+0.69 & should & 0.05 & like & 0.25 & should & 0.36 & should \\ 
+\hline \\[-1.8ex]
+\multicolumn{8}{l}{\begin{scriptsize} \textbf{Note: All numbers are in millions. Counts are based on raw term frequencies.} \end{scriptsize}} \\
+\\[-1.8ex]\hline 
+\end{tabular} 
+\end{table} 

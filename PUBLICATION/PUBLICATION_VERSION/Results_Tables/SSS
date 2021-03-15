@@ -1,0 +1,28 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Significance of Textual Variables Across Baseline and Robustness Check Models} 
+  \label{tab: SSS} 
+\small 
+\begin{tabular}{@{\extracolsep{0pt}} L{2cm} C{2.5cm} C{2.5cm} C{2.5cm} C{2.5cm}} 
+%\\[-1.8ex]
+\hline \hline 
+%\\[-1.8ex]
+ & \multicolumn{3}{c}{Annual MZ Regressions with Traning Set Being ...} & \\ 
+%\\[-1.8ex] 
+\cline{2-4} 
+%\\[-1.8ex] 
+& Static & Rolling & Extending & Pooled OLS \\
+ %\\[-1.8ex] 
+ \cline{2-5} 
+ %\\[-1.8ex]
+\texttt{PreFRV} & 14 & 7 & 15 & 3 \\ 
+\texttt{GARCH} & 7 & 9 & 8 & 2 \\ 
+\texttt{GJR\_GARCH} & 12 & 9 & 12 & 3 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+\multicolumn{5}{p{14cm}}{\begin{scriptsize}\textit{Notes:} The table displays the number of significant textual variables (\texttt{NEG\_SENT}, \texttt{POS\_SENT}, \texttt{ASSERT}, \texttt{UNCERT}, \texttt{LITI}, \texttt{GFS}, and \texttt{FIN}) for each of the respective row-column model specifications. The maximum number for the three columns related to annual MZ regressions is 35 (seven textual variables times five out-of-sample test regressions); for the last column (pooled OLS) the maximum count is seven. In the pooled OLS model, textual variable significance is based on the model specification using the \texttt{VIBTW} scheme, with term weights estimated from 1999 to 2012. \end{scriptsize} } \\ 
+%\\[-1.8ex]
+\hline
+\end{tabular} 
+\end{table} 

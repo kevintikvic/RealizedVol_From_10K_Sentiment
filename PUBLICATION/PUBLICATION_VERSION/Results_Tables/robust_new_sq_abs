@@ -1,0 +1,63 @@
+
+
+\begin{table}[!htbp] \centering 
+  \caption{Robustness Check: Pooled OLS with Alternative Volatility Proxies} 
+  \label{tab: robust_new_sq_abs} 
+\small 
+\begin{tabular}{@{\extracolsep{1pt}}L{2.25cm} C{4cm} C{4cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{Dependent variable:} \\ 
+\\[-1.8ex] \cline{2-3} 
+\\[-1.8ex] & Squared Returns (\texttt{PFSqR}) & Absolute Returns (\texttt{PFAbsR})\\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+ \texttt{PreFRV} & .299$^{***}$ & .294$^{***}$ \\ 
+  & (.008) & (.008) \\ 
+  & & \\ 
+ \texttt{NEG\_SENT} & 4.357$^{***}$ & 4.232$^{***}$ \\ 
+  & (.979) & (.968) \\ 
+  & & \\ 
+ \texttt{POS\_SENT} & 3.687$^{***}$ & 3.534$^{***}$ \\ 
+  & (.548) & (.541) \\ 
+  & & \\ 
+ \texttt{ASSERT} & .118 & .187 \\ 
+  & (.184) & (.182) \\ 
+  & & \\ 
+ \texttt{UNCERT} & .912$^{*}$ & .811$^{*}$ \\ 
+  & (.490) & (.484) \\ 
+  & & \\ 
+ \texttt{LITI} & 17.135$^{***}$ & 14.163$^{**}$ \\ 
+  & (5.750) & (5.682) \\ 
+  & & \\ 
+ \texttt{GFS} & .010 & .010 \\ 
+  & (.009) & (.009) \\ 
+  & & \\ 
+ \texttt{FIN} & .014 & .018$^{*}$ \\ 
+  & (.010) & (.010) \\ 
+  & & \\ 
+ \texttt{SIZE} & $-$.126$^{***}$ & $-$.128$^{***}$ \\ 
+  & (.005) & (.005) \\ 
+  & & \\ 
+ \texttt{BTM} & .088$^{***}$ & .090$^{***}$ \\ 
+  & (.007) & (.007) \\ 
+  & & \\ 
+ \texttt{TRVOL} & .034$^{***}$ & .047$^{***}$ \\ 
+  & (.004) & (.004) \\ 
+  & & \\ 
+ \texttt{VIX} & .015$^{***}$ & .016$^{***}$ \\ 
+  & (.003) & (.003) \\ 
+  & & \\ 
+ \texttt{LEVER} & .352$^{***}$ & .344$^{***}$ \\ 
+  & (.032) & (.031) \\ 
+  & & \\ 
+ Constant & $-$2.353$^{***}$ & $-$1.794$^{***}$ \\ 
+  & (.360) & (.356) \\ 
+\hline \\[-1.8ex] 
+Observations & 13,679 & 13,679 \\ 
+R$^{2}$ & .399 & .394 \\ 
+Adjusted R$^{2}$ & .394 & .388 \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\begin{scriptsize} \textit{Notes:} \end{scriptsize}  & \multicolumn{2}{p{8cm}}{\begin{scriptsize} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. Textual variable scores were calculated using \texttt{VIBTW}, for which the weights were estimated using all available 10-K* filings from 1999 to 2012. Each column is a pooled OLS regression, estimated for the whole out-of-sample period from 2013 to 2017. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. \end{scriptsize} } \\ 
+ \\[-1.8ex]\hline 
+\end{tabular}
+\end{table} 

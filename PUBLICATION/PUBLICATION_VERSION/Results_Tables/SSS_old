@@ -1,0 +1,17 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Significance of Textual Variables Across Baseline and Robustness Check Models} 
+  \label{tab: SSS} 
+\small 
+\begin{tabular}{@{\extracolsep{2pt}} lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Static & Rolling & Extending \\
+ \\[-1.8ex] \cline{2-4} 
+ \\[-1.8ex]
+\texttt{PreFRV} & 14 & 7 & 15 \\ 
+\texttt{GARCH} & 7 & 9 & 8 \\ 
+\texttt{GJR\_GARCH} & 12 & 9 & 12 \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\end{tabular} 
+\end{table} 

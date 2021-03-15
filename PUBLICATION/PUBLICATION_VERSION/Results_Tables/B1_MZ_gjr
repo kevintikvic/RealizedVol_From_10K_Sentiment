@@ -1,0 +1,73 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Annual Augmented MZ-Regressions: Results for GJR-GARCH + Static Training Set} 
+  \label{tab: B1_MZ_gjr} 
+\small 
+\begin{tabular}{@{\extracolsep{1pt}}L{2.75cm} C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ & \multicolumn{5}{c}{Dependent variable: \texttt{PFRV}} \\ 
+%\\[-1.8ex] 
+\cline{2-6} 
+%\\[-1.8ex] 
+Y & 2013 & 2014 & 2015 & 2016 & 2017 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+ \texttt{GJR\_GARCH} & .500$^{***}$ & .434$^{***}$ & .416$^{***}$ & .439$^{***}$ & .413$^{***}$ \\ 
+  & (.026) & (.027) & (.025) & (.027) & (.028) \\ 
+  % & & & & & \\ 
+ \texttt{NEG\_SENT} & 5.658$^{**}$ & 4.168$^{*}$ & 5.524$^{**}$ & 2.499 & 1.804 \\ 
+  & (2.565) & (2.350) & (2.154) & (2.179) & (2.104) \\ 
+  % & & & & & \\ 
+ \texttt{POS\_SENT} & 3.102$^{***}$ & 1.720 & .985 & 3.621$^{***}$ & 2.074$^{*}$ \\ 
+  & (1.092) & (1.132) & (1.019) & (1.027) & (1.063) \\ 
+  % & & & & & \\ 
+ \texttt{ASSERT} & $-$.054 & .310 & .588 & $-$.527 & $-$.067 \\ 
+  & (.414) & (.408) & (.384) & (.418) & (.452) \\ 
+  % & & & & & \\ 
+ \texttt{UNCERT} & .444 & .800 & $-$1.200 & .673 & $-$.784 \\ 
+  & (1.203) & (1.090) & (1.158) & (1.216) & (1.396) \\ 
+  % & & & & & \\ 
+ \texttt{LITI} & $-$5.687 & 11.901 & 9.150 & 24.295$^{*}$ & 33.864$^{**}$ \\ 
+  & (14.006) & (13.448) & (13.440) & (13.089) & (14.016) \\ 
+  % & & & & & \\ 
+ \texttt{GFS} & $-$.022 & .009 & .040$^{**}$ & .041$^{*}$ & .001 \\ 
+  & (.019) & (.022) & (.019) & (.023) & (.025) \\ 
+  % & & & & & \\ 
+ \texttt{FIN} & .037$^{*}$ & .026 & $-$.039$^{*}$ & $-$.027 & .008 \\ 
+  & (.021) & (.024) & (.020) & (.024) & (.027) \\ 
+  % & & & & & \\ 
+ \texttt{SIZE} & $-$.072$^{***}$ & $-$.098$^{***}$ & $-$.132$^{***}$ & $-$.135$^{***}$ & $-$.157$^{***}$ \\ 
+  & (.013) & (.013) & (.012) & (.013) & (.014) \\ 
+  % & & & & & \\ 
+ \texttt{BTM} & .043$^{***}$ & .043$^{***}$ & .055$^{***}$ & .113$^{***}$ & .135$^{***}$ \\ 
+  & (.016) & (.016) & (.016) & (.016) & (.017) \\ 
+  % & & & & & \\ 
+ \texttt{TRVOL} & $-$.010 & .002 & .028$^{***}$ & .069$^{***}$ & .043$^{***}$ \\ 
+  & (.009) & (.009) & (.009) & (.010) & (.011) \\ 
+  % & & & & & \\ 
+ \texttt{VIX} & $-$.046$^{***}$ & .027$^{**}$ & .007 & .022$^{**}$ & .061$^{**}$ \\ 
+  & (.016) & (.013) & (.007) & (.011) & (.028) \\ 
+  % & & & & & \\ 
+ \texttt{LEVER} & .208$^{***}$ & .081 & .378$^{***}$ & .381$^{***}$ & .475$^{***}$ \\ 
+  & (.075) & (.074) & (.071) & (.072) & (.078) \\ 
+  % & & & & & \\ 
+ \texttt{Constant} & $-$1.510$^{*}$ & $-$1.939$^{*}$ & $-$.017 & $-$4.526$^{***}$ & $-$4.526$^{***}$ \\ 
+  & (.869) & (1.032) & (.944) & (.951) & (.938) \\ 
+  % & & & & & \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+Observations & 2,787 & 2,771 & 2,773 & 2,687 & 2,661 \\ 
+R$^{2}$ & .396 & .409 & .467 & .422 & .410 \\ 
+Adjusted R$^{2}$ & .367 & .381 & .442 & .394 & .381 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+\multicolumn{6}{p{14cm}}{\begin{scriptsize}\textit{Notes:} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses.  \texttt{GJR\_GARCH} is the 1-week ahead GJR-GARCH(1,1) forecast. All \texttt{VIBTW} weights were estimated using 10-K* filings from 1999 to 2012. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. \end{scriptsize} } \\ 
+ %\\[-1.8ex] 
+ \hline
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,75 @@
+\clearpage
+%\setlength\LTpre{0pt}
+%\begin{longtable}{@{\extracolsep{1pt}}L{2.75cm} C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}} 
+\begin{table}[!htbp] \centering 
+  \caption{Annual Augmented MZ-Regression (Static Training Set)} 
+  \label{tab: CB_MZ_static} 
+\small 
+\begin{tabular}{@{\extracolsep{1pt}}L{2.75cm} C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}C{1.8cm}} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ & \multicolumn{5}{c}{Dependent variable: \texttt{PFRV}} \\ 
+%\\[-1.8ex] 
+\cline{2-6} 
+%\\[-1.8ex] 
+Y & 2013 & 2014 & 2015 & 2016 & 2017 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+ \texttt{PreFRV} & .064$^{***}$ & .052$^{***}$ & $-$.003 & .023$^{***}$ & .049$^{***}$ \\ 
+  & (.008) & (.009) & (.008) & (.008) & (.011) \\ 
+  % & & & & & \\  
+ \texttt{NEG\_SENT} & 7.771$^{***}$ & 6.194$^{**}$ & 8.713$^{***}$ & 5.260$^{**}$ & 3.761$^{*}$ \\ 
+  & (2.702) & (2.439) & (2.258) & (2.277) & (2.187) \\ 
+  % & & & & & \\  
+ \texttt{POS\_SENT} & 4.516$^{***}$ & 2.956$^{**}$ & 2.291$^{**}$ & 5.012$^{***}$ & 2.808$^{**}$ \\ 
+  & (1.150) & (1.174) & (1.069) & (1.072) & (1.104) \\ 
+  % & & & & & \\  
+ \texttt{ASSERT} & .047 & .582 & .653 & $-$.512 & .111 \\ 
+  & (.438) & (.424) & (.404) & (.438) & (.469) \\ 
+  % & & & & & \\  
+ \texttt{UNCERT} & 2.232$^{*}$ & 1.282 & $-$.506 & 1.260 & $-$.882 \\ 
+  & (1.265) & (1.133) & (1.218) & (1.274) & (1.451) \\ 
+  % & & & & & \\  
+ \texttt{LITI} & 14.385 & 22.906 & 22.794 & 41.234$^{***}$ & 33.581$^{**}$ \\ 
+  & (14.725) & (13.993) & (14.129) & (13.677) & (14.562) \\ 
+  % & & & & & \\  
+ \texttt{GFS} & $-$.008 & .029 & .042$^{**}$ & .036 & $-$.011 \\ 
+  & (.020) & (.023) & (.020) & (.024) & (.026) \\ 
+  % & & & & & \\  
+ \texttt{FIN} & .043$^{*}$ & .016 & $-$.033 & $-$.018 & .012 \\ 
+  & (.022) & (.025) & (.021) & (.025) & (.028) \\ 
+  % & & & & & \\  
+ \texttt{SIZE} & $-$.141$^{***}$ & $-$.166$^{***}$ & $-$.200$^{***}$ & $-$.208$^{***}$ & $-$.227$^{***}$ \\ 
+  & (.013) & (.013) & (.012) & (.013) & (.013) \\ 
+  % & & & & & \\  
+ \texttt{BTM} & .083$^{***}$ & .072$^{***}$ & .090$^{***}$ & .183$^{***}$ & .185$^{***}$ \\ 
+  & (.017) & (.017) & (.016) & (.016) & (.017) \\ 
+  % & & & & & \\  
+ \texttt{TRVOL} & .016$^{*}$ & .032$^{***}$ & .067$^{***}$ & .120$^{***}$ & .087$^{***}$ \\ 
+  & (.010) & (.009) & (.009) & (.010) & (.011) \\ 
+  % & & & & & \\  
+ \texttt{VIX} & $-$.057$^{***}$ & .027$^{**}$ & .007 & .018 & .063$^{**}$ \\ 
+  & (.017) & (.014) & (.008) & (.011) & (.029) \\ 
+  % & & & & & \\  
+ \texttt{LEVER} & .397$^{***}$ & .246$^{***}$ & .538$^{***}$ & .654$^{***}$ & .660$^{***}$ \\ 
+  & (.079) & (.076) & (.074) & (.074) & (.080) \\ 
+  % & & & & & \\  
+ \texttt{Constant} & $-$3.102$^{***}$ & $-$3.695$^{***}$ & $-$.117 & $-$6.408$^{***}$ & $-$5.545$^{***}$ \\ 
+  & (.911) & (1.067) & (.994) & (.989) & (.972) \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]  
+Observations & 2,787 & 2,771 & 2,773 & 2,687 & 2,661 \\ 
+R$^{2}$ & .328 & .361 & .410 & .365 & .363 \\ 
+Adjusted R$^{2}$ & .296 & .331 & .382 & .334 & .332 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]  
+\multicolumn{6}{p{14cm}}{\begin{scriptsize}\textit{Notes:} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. All \texttt{VIBTW} weights were estimated using 10-K* filings from 1999 to 2012. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. \end{scriptsize} } \\ 
+%\\[-1.8ex] 
+\hline
+\end{tabular} 
+\end{table}
+%\end{longtable}

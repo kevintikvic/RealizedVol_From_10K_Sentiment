@@ -1,0 +1,73 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Augmented MZ-Regression: Stepwise Addition / Deletion of Textual Variables} 
+  \label{tab: PreFRV_stepwise_regression} 
+\small 
+\resizebox{\textwidth}{!}{\begin{tabular}{@{\extracolsep{1pt}}lccccccc} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ & \multicolumn{7}{c}{Dependent variable: \texttt{PFRV}} \\ 
+%\\[-1.8ex] 
+\cline{2-8} 
+%\\[-1.8ex] 
+& (1) & (2) & (3) & (4) & (5) & (6) & (7)\\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+ \texttt{PreFRV} & .041$^{***}$ & .040$^{***}$ & .040$^{***}$ & .039$^{***}$ & .040$^{***}$ & .039$^{***}$ & .039$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) \\ 
+ % & & & & & & & \\ 
+ \texttt{NEG\_SENT} & 9.545$^{***}$ & 7.223$^{***}$ & 7.012$^{***}$ & 6.699$^{***}$ & 5.995$^{***}$ & 6.022$^{***}$ & 6.011$^{***}$ \\ 
+  & (.990) & (1.017) & (1.027) & (1.041) & (1.053) & (1.053) & (1.053) \\ 
+ % & & & & & & & \\ 
+ \texttt{POS\_SENT} &  & 4.421$^{***}$ & 4.252$^{***}$ & 4.083$^{***}$ & 3.691$^{***}$ & 3.704$^{***}$ & 3.692$^{***}$ \\ 
+  &  & (.467) & (.481) & (.490) & (.498) & (.498) & (.498) \\ 
+ % & & & & & & & \\ 
+ \texttt{ASSERT} &  &  & .283 & .267 & .191 & .147 & .133 \\ 
+  &  &  & (.192) & (.192) & (.193) & (.193) & (.194) \\ 
+ % & & & & & & & \\ 
+ \texttt{UNCERT} &  &  &  & 1.001$^{*}$ & .796 & .916 & .930$^{*}$ \\ 
+  &  &  &  & (.555) & (.557) & (.559) & (.559) \\ 
+ % & & & & & & & \\ 
+ \texttt{LITI} &  &  &  &  & 27.090$^{***}$ & 27.443$^{***}$ & 27.215$^{***}$ \\ 
+  &  &  &  &  & (6.341) & (6.342) & (6.349) \\ 
+ % & & & & & & & \\ 
+ \texttt{GFS} &  &  &  &  &  & .019$^{**}$ & .015 \\ 
+  &  &  &  &  &  & (.008) & (.010) \\ 
+ % & & & & & & & \\ 
+ \texttt{FIN} &  &  &  &  &  &  & .008 \\ 
+  &  &  &  &  &  &  & (.011) \\ 
+ % & & & & & & & \\ 
+ \texttt{SIZE} & $-$.202$^{***}$ & $-$.186$^{***}$ & $-$.186$^{***}$ & $-$.184$^{***}$ & $-$.182$^{***}$ & $-$.185$^{***}$ & $-$.185$^{***}$ \\ 
+  & (.005) & (.005) & (.005) & (.006) & (.006) & (.006) & (.006) \\ 
+ % & & & & & & & \\ 
+ \texttt{BTM} & .119$^{***}$ & .119$^{***}$ & .120$^{***}$ & .120$^{***}$ & .120$^{***}$ & .119$^{***}$ & .119$^{***}$ \\ 
+  & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) \\ 
+ % & & & & & & & \\ 
+ \texttt{TRVOL} & .067$^{***}$ & .061$^{***}$ & .061$^{***}$ & .061$^{***}$ & .060$^{***}$ & .060$^{***}$ & .060$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) \\ 
+ % & & & & & & & \\ 
+ \texttt{VIX} & .022$^{***}$ & .023$^{***}$ & .023$^{***}$ & .023$^{***}$ & .023$^{***}$ & .023$^{***}$ & .023$^{***}$ \\ 
+  & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) \\ 
+ % & & & & & & & \\ 
+ \texttt{LEVER} & .458$^{***}$ & .477$^{***}$ & .477$^{***}$ & .484$^{***}$ & .487$^{***}$ & .479$^{***}$ & .477$^{***}$ \\ 
+  & (.034) & (.034) & (.034) & (.034) & (.034) & (.034) & (.034) \\ 
+ % & & & & & & & \\ 
+ \texttt{Constant} & $-$3.414$^{***}$ & $-$2.966$^{***}$ & $-$2.937$^{***}$ & $-$2.905$^{***}$ & $-$3.958$^{***}$ & $-$4.223$^{***}$ & $-$4.190$^{***}$ \\ 
+  & (.304) & (.306) & (.307) & (.308) & (.394) & (.410) & (.412) \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+Observations & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 \\ 
+R$^{2}$ & .322 & .327 & .327 & .327 & .328 & .328 & .328 \\ 
+Adjusted R$^{2}$ & .316 & .320 & .321 & .321 & .322 & .322 & .322 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+\multicolumn{8}{p{15cm}}{\begin{scriptsize}\textit{Notes:} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. Each column is a pooled OLS regression, estimated for the whole out-of-sample period from 2013 to 2017. Textual variables, where applicable, were constructed using the \texttt{VIBTW} scheme, with the correpsonding weights being estimated from a fixed training set (1999-2012). \end{scriptsize}} \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+\end{tabular}}
+\end{table} 

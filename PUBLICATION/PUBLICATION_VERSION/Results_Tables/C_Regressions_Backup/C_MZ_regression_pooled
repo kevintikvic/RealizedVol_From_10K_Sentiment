@@ -1,0 +1,64 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Robustness Check: Pre-Filing Realized Volatility Instead of Time-Series Inputs (Pooled OLS)} 
+  \label{tab: C_MZ_regression_pooled} 
+%\small 
+\footnotesize
+\resizebox{\textwidth}{!}{\begin{tabular}{@{\extracolsep{1pt}}lcccccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{8}{c}{Dependent variable: \texttt{PFRV}} \\ 
+\\[-1.8ex] \cline{2-9} 
+\\[-1.8ex] & (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8)\\
+%\\[-1.8ex] & VIBTW & TFIDF & RFIDF & WFIDF\_1PLOG & WFIDF\_LOG1P & WF\_1PLOG & WF\_LOG1P & TFMAX\\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+ \texttt{TS\_FC} & .039$^{***}$ & .041$^{***}$ & .041$^{***}$ & .042$^{***}$ & .041$^{***}$ & .040$^{***}$ & .040$^{***}$ & .041$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) \\ 
+  & & & & & & & & \\ 
+ \texttt{NEG\_SENT} & 6.047$^{***}$ & .392$^{***}$ & 2.892 & .379$^{**}$ & .560$^{***}$ & .026 & .043 & $-$.003 \\ 
+  & (1.053) & (.092) & (1.985) & (.148) & (.217) & (.176) & (.264) & (.003) \\ 
+  & & & & & & & & \\ 
+ \texttt{POS\_SENT} & 3.699$^{***}$ & .414$^{***}$ & 4.155 & $-$.013 & .021 & .459$^{***}$ & .713$^{***}$ & .013$^{*}$ \\ 
+  & (.498) & (.088) & (3.486) & (.221) & (.324) & (.153) & (.227) & (.008) \\ 
+  & & & & & & & & \\ 
+ \texttt{ASSERT} & .131 & .251 & $-$3.392 & $-$.010 & $-$.020 & .365$^{***}$ & .500$^{***}$ & .053 \\ 
+  & (.194) & (.179) & (7.819) & (.304) & (.449) & (.124) & (.184) & (.048) \\ 
+  & & & & & & & & \\ 
+ \texttt{UNCERT} & .910 & $-$.164 & $-$.383 & $-$.351 & $-$.533 & $-$.195 & $-$.332$^{*}$ & .0002 \\ 
+  & (.559) & (.179) & (1.335) & (.268) & (.393) & (.134) & (.197) & (.003) \\ 
+  & & & & & & & & \\ 
+ \texttt{LITI} & 27.283$^{***}$ & .069 & 5.079 & $-$.517$^{**}$ & $-$.667$^{*}$ & $-$1.123$^{***}$ & $-$1.641$^{***}$ & .010 \\ 
+  & (6.347) & (.065) & (17.644) & (.259) & (.378) & (.164) & (.241) & (.023) \\ 
+  & & & & & & & & \\ 
+ \texttt{GFS} & .015 & .005 & .002 & .004 & .004 & $-$.001 & $-$.001 & .002 \\ 
+  & (.010) & (.010) & (.010) & (.010) & (.010) & (.010) & (.010) & (.010) \\ 
+  & & & & & & & & \\ 
+ \texttt{FIN} & .009 & .003 & .032$^{***}$ & .027$^{**}$ & .026$^{**}$ & .014 & .011 & .046$^{***}$ \\ 
+  & (.011) & (.011) & (.012) & (.011) & (.011) & (.016) & (.016) & (.014) \\ 
+  & & & & & & & & \\ 
+ \texttt{SIZE} & $-$.184$^{***}$ & $-$.219$^{***}$ & $-$.223$^{***}$ & $-$.222$^{***}$ & $-$.222$^{***}$ & $-$.224$^{***}$ & $-$.223$^{***}$ & $-$.224$^{***}$ \\ 
+  & (.006) & (.005) & (.005) & (.005) & (.005) & (.005) & (.005) & (.005) \\ 
+  & & & & & & & & \\ 
+ \texttt{BTM} & .119$^{***}$ & .126$^{***}$ & .123$^{***}$ & .123$^{***}$ & .123$^{***}$ & .121$^{***}$ & .122$^{***}$ & .122$^{***}$ \\ 
+  & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) \\ 
+  & & & & & & & & \\ 
+ \texttt{TRVOL} & .060$^{***}$ & .069$^{***}$ & .071$^{***}$ & .071$^{***}$ & .071$^{***}$ & .069$^{***}$ & .068$^{***}$ & .071$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) \\ 
+  & & & & & & & & \\ 
+ \texttt{VIX} & .023$^{***}$ & .022$^{***}$ & .022$^{***}$ & .022$^{***}$ & .022$^{***}$ & .022$^{***}$ & .022$^{***}$ & .022$^{***}$ \\ 
+  & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) \\ 
+  & & & & & & & & \\ 
+ \texttt{LEVER} & .474$^{***}$ & .466$^{***}$ & .438$^{***}$ & .445$^{***}$ & .445$^{***}$ & .430$^{***}$ & .431$^{***}$ & .433$^{***}$ \\ 
+  & (.034) & (.034) & (.034) & (.034) & (.034) & (.034) & (.034) & (.034) \\ 
+  & & & & & & & & \\ 
+ Constant & $-$4.187$^{***}$ & $-$3.372$^{***}$ & $-$3.283$^{***}$ & $-$3.262$^{***}$ & $-$3.272$^{***}$ & $-$3.002$^{***}$ & $-$2.972$^{***}$ & $-$3.390$^{***}$ \\ 
+  & (.412) & (.324) & (.328) & (.328) & (.328) & (.347) & (.348) & (.330) \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+Observations & 13,674 & 13,674 & 13,674 & 13,674 & 13,674 & 13,674 & 13,674 & 13,674 \\ 
+R$^{2}$ & .328 & .320 & .318 & .318 & .318 & .320 & .320 & .318 \\ 
+Adjusted R$^{2}$ & .321 & .314 & .311 & .311 & .311 & .314 & .314 & .311 \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\begin{scriptsize} \textit{Notes:} \end{scriptsize} & \multicolumn{8}{p{14cm}}{\begin{scriptsize} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. \texttt{TS\_FC} is the 1-week pre-filing realized volatility. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. Column headers (1) through (8) refer to the weighting schemes in the following order: \texttt{VIBTW}, \texttt{TFIDF}, \texttt{RFIDF}, \texttt{WFIDF\_1PLOG}, \texttt{WFIDF\_LOG1P}, \texttt{WF\_1PLOG}, \texttt{WF\_LOG1P}, \texttt{TFMAX}. Each column is a pooled OLS regression, estimated for the whole out-of-sample period from 2013 to 2017. Weights for the \texttt{VIBTW}, \texttt{TFIDF}, \texttt{RFIDF}, \texttt{WFIDF\_1PLOG}, and \texttt{WFIDF\_LOG1P} are estimated for a fixed training set (1999-2012). \end{scriptsize} } \\ 
+\\[-1.8ex]\hline 	
+\end{tabular}} 
+\end{table} 

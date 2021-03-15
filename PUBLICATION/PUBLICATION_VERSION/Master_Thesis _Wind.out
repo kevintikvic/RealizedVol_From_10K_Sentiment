@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Literature Review and Theoretical Background}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Text Mining and Natural Language Processing in Finance and Accounting}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Readability}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Sentiment Analysis}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Text Analysis Using 10-K Filings Corpora}{subsection.2.1}% 6
+\BOOKMARK [1][-]{section.3}{Term Weighting and Calculation of Sentiment Scores}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Term Counts, Document-Term-Matrix, and Vector Space Model}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Dimensionality of the Document-Term-Matrix}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Transforming Term Counts to Term Weights}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Term Weighting Schemes Using Inverse Document Frequency}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Weight Aggregation, Sentiment Scores, and Volatility-Impact-Based Term Weighting}{subsection.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Measuring Post-Filing Volatility}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Research Framework: Cross-Sectional Volatility Model}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Pre-Filing Realized Volatility as Predictive Variable}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Hypotheses Development: Connecting 10-K* Text to Realized Volatility}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Control Variables}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.4}{Bringing Everything Together: Model Specification}{section.4}% 18
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Linear Regression Model}{subsection.4.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Choice of Training and Test Set}{subsection.4.4}% 20
+\BOOKMARK [1][-]{section.5}{Data and Sample Description}{}% 21
+\BOOKMARK [2][-]{subsection.5.1}{Data Collection, Sample Formation and Matching}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.2}{Sample Composition: Filing Types and Timing}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.3}{Descriptive Statistics About the Corpus}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.4}{Descriptive Statistics About the Variables}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{Results}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Univariate Analysis}{section.6}% 27
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Pre- and Post-Filing Realized Volatility}{subsection.6.1}% 28
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Correlation Analysis}{subsection.6.1}% 29
+\BOOKMARK [2][-]{subsection.6.2}{Multivariate Analysis and Regression Results}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{Robustness Checks and Potential Alternative Designs}{}% 31
+\BOOKMARK [2][-]{subsection.7.1}{Tests Against Conventional Benchmark Term-Weighting Schemes}{section.7}% 32
+\BOOKMARK [2][-]{subsection.7.2}{Alternative Volatility Proxies}{section.7}% 33
+\BOOKMARK [2][-]{subsection.7.3}{Substituting Pre-Filing Realized Volatility with Time-Series Inputs}{section.7}% 34
+\BOOKMARK [2][-]{subsection.7.4}{Adding 10-K* Related Quantitative Control Variables}{section.7}% 35
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 36
+\BOOKMARK [1][-]{section*.6}{References}{}% 37
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 38
+\BOOKMARK [2][-]{subsection.A.1}{LM Word Lists}{appendix.A}% 39

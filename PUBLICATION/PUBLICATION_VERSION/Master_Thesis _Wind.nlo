@@ -1,0 +1,26 @@
+\nomenclatureentry{aUSD@[{USD}]\begingroup US-Dollar\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{aVIX@[{VIX}]\begingroup Chicago Board Options Exchange SPX Volatility Index\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{aXIV@[{XIV}]\begingroup Inverse VIX Short-Term Exchange-Traded Note\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{aSEC@[{SEC}]\begingroup (United States) Securities and Exchange Commission\nomeqref {1.0}|nompageref}{4}
+\nomenclatureentry{aCAR@[{CAR}]\begingroup Cumulative Abnormal Return\nomeqref {2.0}|nompageref}{9}
+\nomenclatureentry{aFRES@[{FRES}]\begingroup Flesch Reading-Ease Score\nomeqref {2.0}|nompageref}{10}
+\nomenclatureentry{aLM (Dictionaries)@[{LM (Dictionaries)}]\begingroup Sentiment Dictionaries developed in \textcite{Loughran2011}\nomeqref {2.0}|nompageref}{11}
+\nomenclatureentry{aMD\&A@[{MD\&A}]\begingroup Management Discussion and Analysis (Section within a 10-K Filing)\nomeqref {2.0}|nompageref}{14}
+\nomenclatureentry{aTDM@[{TDM}]\begingroup Term-Document-Matrix\nomeqref {3.0}|nompageref}{15}
+\nomenclatureentry{aDTM@[{DTM}]\begingroup Document-Term-Matrix\nomeqref {3.0}|nompageref}{15}
+\nomenclatureentry{aBoW@[{BoW}]\begingroup Bag of Words\nomeqref {3.0}|nompageref}{15}
+\nomenclatureentry{aTF@[{TF}]\begingroup Term Frequency\nomeqref {3.1}|nompageref}{16}
+\nomenclatureentry{aOOV@[{OOV}]\begingroup Out-Of-Vocabulary (Word)\nomeqref {3.1}|nompageref}{17}
+\nomenclatureentry{aRegEx@[{RegEx}]\begingroup Regular Expression\nomeqref {3.1}|nompageref}{20}
+\nomenclatureentry{aIDF@[{IDF}]\begingroup Inverse Document Frequency\nomeqref {3.7}|nompageref}{24}
+\nomenclatureentry{aTF-IDF@[{TF-IDF}]\begingroup Term Frequency - Inverse Document Frequency\nomeqref {3.7}|nompageref}{24}
+\nomenclatureentry{aVIBTW@[{VIBTW}]\begingroup Volatility-Impact-Based Term Weighting\nomeqref {3.7}|nompageref}{24}
+\nomenclatureentry{aPFRV@[{PFRV}]\begingroup Post-Filing Realized Volatility\nomeqref {3.7}|nompageref}{24}
+\nomenclatureentry{aOLS@[{OLS}]\begingroup Ordinary Least Squares\nomeqref {3.11}|nompageref}{27}
+\nomenclatureentry{aOHLC@[{OHLC}]\begingroup Open-High-Low-Close\nomeqref {3.11}|nompageref}{27}
+\nomenclatureentry{aMZ Regression@[{MZ Regression}]\begingroup Mincer-Zarnowitz Regression\nomeqref {4.0}|nompageref}{35}
+\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {5.0}|nompageref}{38}
+\nomenclatureentry{aGARCH@[{GARCH}]\begingroup Generalized Auto-Regressive Conditional Heteroskedasticity\nomeqref {A.0}|nompageref}{88}
+\nomenclatureentry{aARCH@[{ARCH}]\begingroup Auto-Regressive Conditional Heteroskedasticity\nomeqref {A.0}|nompageref}{88}
+\nomenclatureentry{aARMA@[{ARMA}]\begingroup Auto-Regressive Moving-Average (Process)\nomeqref {A.0}|nompageref}{88}
+\nomenclatureentry{aGJR-GARCH@[{GJR-GARCH}]\begingroup GARCH-model developed by \textcite{GJR1993}\nomeqref {A.0}|nompageref}{88}

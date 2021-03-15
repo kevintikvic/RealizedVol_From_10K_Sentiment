@@ -1,0 +1,55 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{ARCH}]\begingroup Auto-Regressive Conditional Heteroskedasticity\nomeqref {A.0}
+		\nompageref{88}
+  \item [{ARMA}]\begingroup Auto-Regressive Moving-Average (Process)\nomeqref {A.0}
+		\nompageref{88}
+  \item [{BoW}]\begingroup Bag of Words\nomeqref {3.0}\nompageref{15}
+  \item [{CAR}]\begingroup Cumulative Abnormal Return\nomeqref {2.0}
+		\nompageref{9}
+  \item [{CIK}]\begingroup Central Index Key\nomeqref {5.0}
+		\nompageref{38}
+  \item [{DTM}]\begingroup Document-Term-Matrix\nomeqref {3.0}
+		\nompageref{15}
+  \item [{FRES}]\begingroup Flesch Reading-Ease Score\nomeqref {2.0}
+		\nompageref{10}
+  \item [{GARCH}]\begingroup Generalized Auto-Regressive Conditional Heteroskedasticity\nomeqref {A.0}
+		\nompageref{88}
+  \item [{GJR-GARCH}]\begingroup GARCH-model developed by \textcite{GJR1993}\nomeqref {A.0}
+		\nompageref{88}
+  \item [{IDF}]\begingroup Inverse Document Frequency\nomeqref {3.7}
+		\nompageref{24}
+  \item [{LM (Dictionaries)}]\begingroup Sentiment Dictionaries developed in \textcite{Loughran2011}\nomeqref {2.0}
+		\nompageref{11}
+  \item [{MD\&A}]\begingroup Management Discussion and Analysis (Section within a 10-K Filing)\nomeqref {2.0}
+		\nompageref{14}
+  \item [{MZ Regression}]\begingroup Mincer-Zarnowitz Regression\nomeqref {4.0}
+		\nompageref{35}
+  \item [{OHLC}]\begingroup Open-High-Low-Close\nomeqref {3.11}
+		\nompageref{27}
+  \item [{OLS}]\begingroup Ordinary Least Squares\nomeqref {3.11}
+		\nompageref{27}
+  \item [{OOV}]\begingroup Out-Of-Vocabulary (Word)\nomeqref {3.1}
+		\nompageref{17}
+  \item [{PFRV}]\begingroup Post-Filing Realized Volatility\nomeqref {3.7}
+		\nompageref{24}
+  \item [{RegEx}]\begingroup Regular Expression\nomeqref {3.1}
+		\nompageref{20}
+  \item [{SEC}]\begingroup (United States) Securities and Exchange Commission\nomeqref {1.0}
+		\nompageref{4}
+  \item [{TDM}]\begingroup Term-Document-Matrix\nomeqref {3.0}
+		\nompageref{15}
+  \item [{TF}]\begingroup Term Frequency\nomeqref {3.1}\nompageref{16}
+  \item [{TF-IDF}]\begingroup Term Frequency - Inverse Document Frequency\nomeqref {3.7}
+		\nompageref{24}
+  \item [{USD}]\begingroup US-Dollar\nomeqref {1.0}\nompageref{1}
+  \item [{VIBTW}]\begingroup Volatility-Impact-Based Term Weighting\nomeqref {3.7}
+		\nompageref{24}
+  \item [{VIX}]\begingroup Chicago Board Options Exchange SPX Volatility Index\nomeqref {1.0}
+		\nompageref{2}
+  \item [{XIV}]\begingroup Inverse VIX Short-Term Exchange-Traded Note\nomeqref {1.0}
+		\nompageref{2}
+
+\end{thenomenclature}

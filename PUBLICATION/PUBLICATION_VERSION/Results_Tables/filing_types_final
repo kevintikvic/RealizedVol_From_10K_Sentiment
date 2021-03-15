@@ -1,0 +1,21 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Sample Distribution: Filing Types} 
+  \label{tab: type-composition} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} ccccccc} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+10-K & 10-K-A & 10-K405 & 10-K405-A & 10-KSB & 10-KSB-A & 10-KT \\
+$36,659$ & $6,103$ & $1,872$ & $252$ & $1$ & $1$ & $56$ \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+10-KT-A & 10KSB & 10KSB-A & 10KSB40 & 10KSB40-A & 10KT405 \\
+$16$ & $1,041$ & $381$ & $75$ & $21$ & $5$ \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular} 
+\end{table} 

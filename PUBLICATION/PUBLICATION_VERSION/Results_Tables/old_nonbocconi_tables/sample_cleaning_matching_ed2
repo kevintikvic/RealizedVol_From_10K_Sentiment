@@ -1,0 +1,17 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Sample cleaning and atching procedure} 
+  \label{tab: sample-cleaning} 
+\small 
+\begin{tabular}{@{\extracolsep{0pt}} L{4.5cm} C{2.25cm} C{2.25cm} C{2.25cm} C{2.00cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Description & No. of filings & No. of CIKs & Average no. of filings per CIK & \% of 1st row \\ 
+\\[-1.8ex]\hline \\[-1.8ex] 
+Initial sample of 10-K*'s: & $295,746$ & $40,264$ & $7.3$ & 100\% \\ 
+Ticker is available: & $184,358$ & $12,525$ & $14.7$ & 62.3\% \\ 
+Yahoo Finance price data available (based on ticker): & $77,951$ & $4,934$ & $15.8$ & 26.4\% \\ 
+COMPUSTAT data available (based on ticker): & $64,527$ & $4,125$ & $15.6$ & 21.8\% \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\end{tabular} 
+\end{table} 

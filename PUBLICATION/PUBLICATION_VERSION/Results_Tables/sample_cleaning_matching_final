@@ -1,0 +1,32 @@
+%\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Sample Cleaning and Matching Procedure} 
+  \label{tab: sample-cleaning} 
+\small 
+\begin{tabular}{@{\extracolsep{0pt}} L{4.9cm} C{2.1cm} C{2.1cm} C{2.1cm} C{2.1cm}} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+Description & Number of filings & Number of CIKs & Filings per CIK & Percentage of $1^{st}$ row$^\ddagger$ \\ 
+%Description & \# of filings & \# of CIKs & Average \# of filings per CIK & \% of 1st row \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+Initial sample of 10-K*s: & $295,746$ & $40,264$ & $7.3$ & 100.0\% \\ 
+Ticker available: & $184,358$ & $12,525$ & $14.7$ & 62.3\% \\ 
+Yahoo! Finance data available: & $77,951$ & $4,934$ & $15.8$ & 26.4\% \\ 
+%Yahoo! Finance price data available (based on ticker): & $77,951$ & $4,934$ & $15.8$ & 26.4\% \\ 
+COMPUSTAT data available: & $64,527$ & $4,125$ & $15.6$ & 21.8\% \\ 
+%COMPUSTAT data available (based on ticker): & $64,527$ & $4,125$ & $15.6$ & 21.8\% \\ 
+Data meaningful$^\dagger$:  & $46,483$ & $3,736$ & $12.4$ & 15.7\% \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{5}{p{14.5cm}}{\begin{scriptsize} $^\dagger$: Meaningful refers to a number of criteria:first off, all data points that are filled with the WRDS placeholder \texttt{NA} instead of numbers are excluded. Additionally, for \texttt{PFRV}, \texttt{PreFRV}, \texttt{SIZE}, \texttt{BTM}, and \texttt{TRVOL} only strictly positive values are included in the sample (so as to allow operating in the log-space further on). Finally, all observations with a financial leverage ratio above one (implying negative book value of equity) are dropped. \end{scriptsize}} \\
+\multicolumn{5}{p{14.5cm}}{\begin{scriptsize} $^\ddagger$: The percentage refers to the number of \emph{filings} remaining in the sample, i.e., the second column of this table. \end{scriptsize}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular} 
+\end{table} 
+

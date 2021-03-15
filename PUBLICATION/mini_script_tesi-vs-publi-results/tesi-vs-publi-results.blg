@@ -1,0 +1,5 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'tesi-vs-publi-results.blg'
+[54] biber-darwin:303> INFO - === Tue Sep 24, 2019, 14:09:11
+[238] Utils.pm:180> ERROR - Cannot find control file 'tesi-vs-publi-results.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[238] Biber.pm:113> INFO - ERRORS: 1

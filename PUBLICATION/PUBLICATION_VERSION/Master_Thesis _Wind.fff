@@ -1,0 +1,49 @@
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./Process_graph.pdf}
+\caption{Schematic Representation of a Research Process: Textual Analysis in Finance}
+%\source{Own Representation based on \textcite{LM-meta-2016, Das2014}}
+\label{fig: process_schema}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./timeline_graph}
+\caption{Visualization of the Research Design}
+\label{fig: res_design}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./no_reports_Y_M_D_type.pdf}
+\caption{Sample Composition by Filing Year, Month, Day, and Type}
+\label{fig: no_reports_ymd_typestacked}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./histos_LM_scores.pdf}
+\caption{Distribution of Text-Related Variables}
+\label{fig: histos_sentiscores}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./MZ_scatter_pre_post.pdf}
+\caption{Post- Versus Pre-Filing Realized Volatility : Scatterplot, Univariate MZ-Regression and Marginal Distributions}
+\label{fig: pfrv_vs_tsfc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{./delta_pfrv_vs_prefrv.pdf}
+\caption{Post- Versus Pre-Filing Realized Volatility: Forecast Error Distribution}
+\label{fig: delta_histos_pfrv_vs_tsfc}
+\end{figure}
+\efloatseparator
+ 

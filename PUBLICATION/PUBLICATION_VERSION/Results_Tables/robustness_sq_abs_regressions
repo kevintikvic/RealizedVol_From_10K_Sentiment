@@ -1,0 +1,61 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Robustness Check: Pooled OLS with Alternative Volatility Proxies} 
+  \label{tab: robustness_sq_abs_regressions} 
+\small 
+\begin{tabular}{@{\extracolsep{1pt}}L{2.25cm} C{2.5cm} C{2.5cm} C{2.5cm} C{2.5cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{Squared Returns} & \multicolumn{2}{c}{Absolute Returns} \\ 
+\\[-1.8ex] \cline{2-5} 
+\\[-1.8ex] & GARCH & GJR-GARCH & GARCH & GJR-GARCH\\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+ \texttt{TS\_FC} & .596$^{***}$ & .452$^{***}$ & .586$^{***}$ & .443$^{***}$ \\ 
+  & (.013) & (.011) & (.013) & (.011) \\ 
+  & & & & \\ 
+ \texttt{NEG\_SENT} & 2.744$^{***}$ & 3.420$^{***}$ & 2.649$^{***}$ & 3.317$^{***}$ \\ 
+  & (.954) & (.971) & (.943) & (.960) \\ 
+  & & & & \\ 
+ \texttt{POS\_SENT} & 2.267$^{***}$ & 2.882$^{***}$ & 2.140$^{***}$ & 2.745$^{***}$ \\ 
+  & (.535) & (.544) & (.529) & (.538) \\ 
+  & & & & \\ 
+ \texttt{ASSERT} & $-$.024 & $-$.018 & .048 & .054 \\ 
+  & (.179) & (.183) & (.177) & (.181) \\ 
+  & & & & \\ 
+ \texttt{UNCERT} & .148 & .395 & .062 & .305 \\ 
+  & (.477) & (.486) & (.472) & (.480) \\ 
+  & & & & \\ 
+ \texttt{LITI} & 7.059 & 12.875$^{**}$ & 4.273 & 9.999$^{*}$ \\ 
+  & (5.602) & (5.701) & (5.539) & (5.635) \\ 
+  & & & & \\ 
+ \texttt{GFS} & .007 & .008 & .006 & .007 \\ 
+  & (.009) & (.009) & (.009) & (.009) \\ 
+  & & & & \\ 
+ \texttt{FIN} & .005 & .007 & .010 & .012 \\ 
+  & (.010) & (.010) & (.009) & (.010) \\ 
+  & & & & \\ 
+ \texttt{SIZE} & $-$.088$^{***}$ & $-$.113$^{***}$ & $-$.090$^{***}$ & $-$.115$^{***}$ \\ 
+  & (.006) & (.005) & (.005) & (.005) \\ 
+  & & & & \\ 
+ \texttt{BTM} & .069$^{***}$ & .079$^{***}$ & .071$^{***}$ & .081$^{***}$ \\ 
+  & (.007) & (.007) & (.007) & (.007) \\ 
+  & & & & \\ 
+ \texttt{TRVOL} & .014$^{***}$ & .026$^{***}$ & .028$^{***}$ & .039$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) \\ 
+  & & & & \\ 
+ \texttt{VIX} & .022$^{***}$ & .025$^{***}$ & .023$^{***}$ & .025$^{***}$ \\ 
+  & (.003) & (.003) & (.003) & (.003) \\ 
+  & & & & \\ 
+ \texttt{LEVER} & .236$^{***}$ & .295$^{***}$ & .231$^{***}$ & .289$^{***}$ \\ 
+  & (.031) & (.032) & (.031) & (.031) \\ 
+ Constant & $-$1.468$^{***}$ & $-$1.994$^{***}$ & $-$.939$^{***}$ & $-$1.457$^{***}$ \\ 
+  & (.353) & (.359) & (.349) & (.355) \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+Observations & 13,679 & 13,679 & 13,679 & 13,679 \\ 
+R$^{2}$ & .432 & .410 & .426 & .404 \\ 
+Adjusted R$^{2}$ & .426 & .405 & .420 & .399 \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\begin{scriptsize} \textit{Notes:} \end{scriptsize}  & \multicolumn{4}{p{11cm}}{\begin{scriptsize} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. Textual variable scores were calculated using \texttt{VIBTW}, for which the weights were estimated using all available 10-K* filings from 1999 to 2012. Each column is a pooled OLS regression, estimated for the whole out-of-sample period from 2013 to 2017. Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. \texttt{TS\_FC} is equal to the respective column header (i.e., either GARCH(1-1) or GJR-GARCH(1,1) one-period ahead forecast.)  \end{scriptsize} } \\ 
+ \\[-1.8ex]\hline 
+\end{tabular}
+\end{table} 

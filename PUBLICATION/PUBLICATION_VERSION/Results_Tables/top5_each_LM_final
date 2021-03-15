@@ -1,0 +1,123 @@
+\clearpage
+\begin{table}[!htbp] \centering
+%\begin{longtable}{@{\extracolsep{5pt}} C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}}
+  \caption{Top-5-Words in the Corpus by Sentiment Category} 
+  \label{tab: top5_each_LM} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}C{1.25cm}} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+\multicolumn{2}{c}{\textbf{Full Sample}} & \multicolumn{2}{c}{\textbf{1999-2004}} & \multicolumn{2}{c}{\textbf{2005-2010}} & \multicolumn{2}{c}{\textbf{2011-2017}} \\
+%\cline{1-2} \cline{3-4} \cline{5-6} \cline{7-8}
+%\\[-1.8ex]
+\cline{1-2} \cline{3-4} \cline{5-6} \cline{7-8}\\[-1.8ex]
+count & word & count & word & count & word & count & word \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Negative}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+5.18 & cost & 1.01 & will & 1.70 & cost & 2.55 & cost \\ 
+4.90 & will & 0.94 & cost & 1.57 & will & 2.31 & will \\ 
+3.28 & loss & 0.55 & loss & 1.00 & loss & 1.74 & loss \\ 
+2.51 & subject & 0.51 & termin & 0.76 & subject & 1.28 & subject \\ 
+2.44 & limit & 0.50 & limit & 0.75 & limit & 1.19 & limit \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Positive}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+4.43 & effect & 0.87 & effect & 1.52 & effect & 2.04 & effect \\ 
+3.13 & inform & 0.57 & inform & 1.00 & inform & 1.56 & inform \\ 
+2.75 & benefit & 0.55 & benefit & 0.96 & benefit & 1.24 & benefit \\ 
+1.23 & posit & 0.31 & except & 0.42 & posit & 0.61 & posit \\ 
+1.14 & except & 0.21 & posit & 0.36 & except & 0.47 & except \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Uncertainty}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+7.49 & may & 1.40 & may & 2.26 & may & 3.83 & may \\ 
+2.78 & could & 0.53 & approxim & 0.87 & approxim & 1.68 & could \\ 
+2.63 & condit & 0.46 & condit & 0.81 & condit & 1.35 & condit \\ 
+2.46 & approxim & 0.33 & risk & 0.80 & could & 1.34 & risk \\ 
+2.38 & risk & 0.30 & could & 0.71 & risk & 1.07 & approxim \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Litigious}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+6.45 & shall & 2.36 & shall & 2.02 & shall & 2.31 & will \\ 
+4.90 & will & 1.01 & will & 1.57 & will & 2.08 & shall \\ 
+2.36 & amend & 0.58 & amend & 0.76 & amend & 1.06 & record \\ 
+2.22 & record & 0.51 & termin & 0.76 & record & 1.02 & amend \\ 
+2.02 & contract & 0.45 & law & 0.66 & contract & 1.00 & regul \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Constraining}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+5.47 & requir & 1.04 & requir & 1.73 & requir & 2.70 & requir \\ 
+2.44 & limit & 0.51 & oblig & 0.75 & limit & 1.19 & limit \\ 
+2.18 & oblig & 0.50 & limit & 0.69 & oblig & 0.98 & oblig \\ 
+1.51 & impair & 0.26 & direct & 0.47 & restrict & 0.86 & impair \\ 
+1.51 & restrict & 0.24 & restrict & 0.47 & impair & 0.80 & restrict \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Strong Modal}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+4.90 & will & 1.01 & will & 1.57 & will & 2.31 & will \\ 
+0.60 & must & 0.12 & must & 0.19 & must & 0.29 & must \\ 
+0.44 & definit & 0.10 & definit & 0.13 & definit & 0.21 & definit \\ 
+0.28 & best & 0.06 & best & 0.09 & best & 0.13 & best \\ 
+0.15 & strong & 0.03 & strong & 0.05 & strong & 0.07 & strong \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Modest Modal}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+7.49 & may & 1.40 & may & 2.26 & may & 3.83 & may \\ 
+2.78 & could & 0.30 & could & 0.80 & could & 1.68 & could \\ 
+0.74 & depend & 0.11 & depend & 0.23 & depend & 0.40 & depend \\ 
+0.40 & possibl & 0.07 & possibl & 0.12 & possibl & 0.21 & possibl \\ 
+0.20 & appear & 0.05 & appear & 0.07 & appear & 0.11 & uncertain \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{c}{\emph{Weak Modal}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+2.89 & general & 0.56 & general & 0.93 & general & 1.40 & general \\ 
+1.71 & would & 0.33 & would & 0.54 & would & 0.84 & would \\ 
+1.14 & can & 0.19 & can & 0.36 & can & 0.59 & can \\ 
+0.60 & like & 0.09 & should & 0.20 & like & 0.34 & like \\ 
+0.53 & should & 0.07 & like & 0.17 & should & 0.26 & should \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{8}{p{14.5cm}}{\begin{scriptsize}\textit{Notes}: All numbers are in millions. All counts are based on raw term frequencies. Wherever the counts of the three subperiods do not sum up to the total sample counts, the discrepancies are attributable to rounding. \end{scriptsize}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular} 
+\end{table} 
+%\end{longtable} 
+
+

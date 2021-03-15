@@ -1,0 +1,35 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Summary Statistics: LM Lexica} 
+  \label{tab: LM_lexicon} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} L{2.5cm}L{0.5cm}C{2.5cm}C{2.5cm}C{2.5cm}} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ &  & \multicolumn{3}{c}{Number of words}\\
+%\\[-1.8ex]
+\cline{3-5}
+%\\[-1.8ex]
+LM lexicon & $k$ & original & stemmed & occurring in corpus \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+Constraining & C & 184 & 57 & 56 \\ 
+Litigious & L & 903 & 451 & 442 \\ 
+Modest Modal & MM & 14 & 13 & 13 \\ 
+Negative & N & 2,355 & 884 & 882 \\ 
+Positive & P & 354 & 145 & 145 \\ 
+Strong Modal & SM & 19 & 17 & 17 \\ 
+Uncertain & U & 297 & 129 & 127 \\ 
+Weak Modal & WM & 27 & 18 & 18 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+Total &  & 4,153 & 1,714 & 1,700 \\ 
+Uniques &  & 3,887 & 1,574 & 1,562 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,75 @@
+\clearpage
+\begin{table}[!htbp] \centering
+  \caption{Robustness Check: Substituting Pre-Filing Realized Volatilty with GJR-GARCH Forecasts} 
+  \label{tab: A_MZ_regression_gjr} 
+\small 
+%\footnotesize
+\resizebox{\textwidth}{!}{\begin{tabular}{@{\extracolsep{1pt}}lcccccccc} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ & \multicolumn{8}{c}{Dependent variable: \texttt{PFRV}} \\ 
+%\\[-1.8ex] 
+\cline{2-9} 
+%\\[-1.8ex] 
+& (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8)\\ 
+%\\[-1.8ex] & VIBTW & TFIDF & RFIDF & WFIDF\_1PLOG & WFIDF\_LOG1P & WF\_1PLOG & WF\_LOG1P & TFMAX\\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex] 
+ \texttt{GJR\_GARCH} & .450$^{***}$ & .462$^{***}$ & .467$^{***}$ & .467$^{***}$ & .467$^{***}$ & .463$^{***}$ & .463$^{***}$ & .467$^{***}$ \\ 
+  & (.012) & (.012) & (.011) & (.011) & (.011) & (.012) & (.012) & (.011) \\ 
+  % & & & & & & & & \\ 
+ \texttt{NEG\_SENT} & 3.277$^{***}$ & .159$^{*}$ & $-$.190 & .136 & .206 & $-$.037 & $-$.046 & $-$.003 \\ 
+  & (1.006) & (.088) & (1.876) & (.140) & (.205) & (.167) & (.251) & (.003) \\ 
+  % & & & & & & & & \\ 
+ \texttt{POS\_SENT} & 2.448$^{***}$ & .252$^{***}$ & 5.380 & .165 & .255 & .309$^{**}$ & .492$^{**}$ & .005 \\ 
+  & (.476) & (.083) & (3.305) & (.209) & (.308) & (.145) & (.215) & (.007) \\ 
+  % & & & & & & & & \\ 
+ \texttt{ASSERT} & .021 & .250 & 3.872 & .071 & .103 & .370$^{***}$ & .540$^{***}$ & .057 \\ 
+  & (.185) & (.170) & (7.416) & (.288) & (.426) & (.118) & (.175) & (.045) \\ 
+  % & & & & & & & & \\ 
+ \texttt{UNCERT} & .222 & $-$.011 & .171 & $-$.044 & $-$.083 & $-$.063 & $-$.128 & .001 \\ 
+  & (.533) & (.170) & (1.265) & (.254) & (.373) & (.127) & (.187) & (.003) \\ 
+  % & & & & & & & & \\ 
+ \texttt{LITI} & 15.151$^{**}$ & .077 & 20.858 & $-$.289 & $-$.358 & $-$.755$^{***}$ & $-$1.131$^{***}$ & .013 \\ 
+  & (6.055) & (.061) & (16.716) & (.246) & (.358) & (.156) & (.230) & (.022) \\ 
+  % & & & & & & & & \\ 
+ \texttt{GFS} & .010 & .004 & .004 & .004 & .004 & .002 & .002 & .005 \\ 
+  & (.009) & (.009) & (.009) & (.009) & (.009) & (.009) & (.009) & (.010) \\ 
+  % & & & & & & & & \\ 
+ \texttt{FIN} & .005 & $-$.0001 & .023$^{**}$ & .013 & .013 & .021 & .020 & .031$^{**}$ \\ 
+  & (.010) & (.010) & (.012) & (.010) & (.010) & (.015) & (.015) & (.013) \\ 
+  % & & & & & & & & \\ 
+ \texttt{SIZE} & $-$.114$^{***}$ & $-$.131$^{***}$ & $-$.132$^{***}$ & $-$.131$^{***}$ & $-$.131$^{***}$ & $-$.135$^{***}$ & $-$.135$^{***}$ & $-$.133$^{***}$ \\ 
+  & (.006) & (.005) & (.005) & (.005) & (.005) & (.005) & (.005) & (.005) \\ 
+  % & & & & & & & & \\ 
+ \texttt{BTM} & .073$^{***}$ & .077$^{***}$ & .074$^{***}$ & .074$^{***}$ & .074$^{***}$ & .073$^{***}$ & .073$^{***}$ & .073$^{***}$ \\ 
+  & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) & (.007) \\ 
+  % & & & & & & & & \\ 
+ \texttt{TRVOL} & .023$^{***}$ & .027$^{***}$ & .028$^{***}$ & .028$^{***}$ & .028$^{***}$ & .027$^{***}$ & .027$^{***}$ & .028$^{***}$ \\ 
+  & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) & (.004) \\ 
+  % & & & & & & & & \\ 
+ \texttt{VIX} & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ & .021$^{***}$ \\ 
+  & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) & (.003) \\ 
+  % & & & & & & & & \\ 
+ \texttt{LEVER} & .276$^{***}$ & .268$^{***}$ & .249$^{***}$ & .256$^{***}$ & .256$^{***}$ & .240$^{***}$ & .241$^{***}$ & .244$^{***}$ \\ 
+  & (.033) & (.033) & (.033) & (.033) & (.033) & (.033) & (.033) & (.033) \\ 
+  % & & & & & & & & \\ 
+ \texttt{Constant} & $-$2.780$^{***}$ & $-$2.309$^{***}$ & $-$2.318$^{***}$ & $-$2.260$^{***}$ & $-$2.267$^{***}$ & $-$2.209$^{***}$ & $-$2.195$^{***}$ & $-$2.356$^{***}$ \\ 
+  & (.395) & (.309) & (.312) & (.312) & (.312) & (.330) & (.331) & (.314) \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+Observations & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 & 13,679 \\ 
+R$^{2}$ & .390 & .388 & .387 & .387 & .387 & .388 & .388 & .387 \\ 
+Adjusted R$^{2}$ & .385 & .382 & .381 & .381 & .381 & .383 & .383 & .381 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{9}{p{18cm}}{\begin{scriptsize}\textit{Notes:} ***, **, and * denotes statistical significance at the one-, five- and ten-percent level, respectively. Standard errors are displayed in parentheses. \texttt{GJR\_GARCH} is the 1-week ahead forecast from a GJR-GARCH(1,1) model.  Coefficients for boolean control variables (\texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are not displayed in the table. Column headers (1) through (8) refer to the weighting schemes in the following order: \texttt{VIBTW}, \texttt{TFIDF}, \texttt{RFIDF}, \texttt{WFIDF\_1PLOG}, \texttt{WFIDF\_LOG1P}, \texttt{WF\_1PLOG}, \texttt{WF\_LOG1P}, \texttt{TFMAX}. Each column is a pooled OLS regression, estimated for the whole out-of-sample period from 2013 to 2017. Weights for the \texttt{VIBTW}, \texttt{TFIDF}, \texttt{RFIDF}, \texttt{WFIDF\_1PLOG}, and \texttt{WFIDF\_LOG1P} are estimated from a static training set (1999-2012). \end{scriptsize} } \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular}} 
+\end{table} 

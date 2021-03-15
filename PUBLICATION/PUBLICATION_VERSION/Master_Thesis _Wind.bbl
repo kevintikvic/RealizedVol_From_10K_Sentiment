@@ -1,0 +1,2341 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{Amel-Zadeh_Faasse_2016}{unpublished}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4db764cb37316de2e6c75525d9851229}{%
+           family={Amel-Zadeh},
+           familyi={A\bibinithyphendelim Z\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=1bd77925bc38473afbb3ccd43d0db458}{%
+           family={Faasse},
+           familyi={F\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba6b201d4c54ea6b2419db4f93ae927e}
+      \strng{fullhash}{ba6b201d4c54ea6b2419db4f93ae927e}
+      \strng{authornamehash}{ba6b201d4c54ea6b2419db4f93ae927e}
+      \strng{authorfullhash}{ba6b201d4c54ea6b2419db4f93ae927e}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Working Paper, available under \url{https://www.wiwi.hu-berlin.de/de/professuren/bwl/cofi/seminars/16w/amel-zadeh_2016.pdf} (visited on 05/27/2018)}
+      \field{title}{The Information Content of 10-K Narratives: Comparing MD\&A and Footnotes Disclosures}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Amel-Zadeh_Faasse_2016.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://www.wiwi.hu-berlin.de/de/professuren/bwl/cofi/seminars/16w/amel-zadeh_2016.pdf
+      \endverb
+    \endentry
+    \entry{AntweilerFrank2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7f04093414e2c561e14f297a3df67490}{%
+           family={Antweiler},
+           familyi={A\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=c5bb1b3b22d026e8233581d31e28d647}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Murray\bibnamedelimb Z.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9ca49ce0bbd84ab00052603e779d84b}
+      \strng{fullhash}{a9ca49ce0bbd84ab00052603e779d84b}
+      \strng{authornamehash}{a9ca49ce0bbd84ab00052603e779d84b}
+      \strng{authorfullhash}{a9ca49ce0bbd84ab00052603e779d84b}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{3}
+      \field{title}{Is All That Talk Just Noise? The Information Content of Internet Stock Message Boards}
+      \field{volume}{59}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{1259\bibrangedash 1294}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1111/j.1540-6261.2004.00662.x
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Antweiler2004.pdf:PDF
+      \endverb
+    \endentry
+    \entry{TIME_2012}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a8d3c1cb706947669c53257dd776aef4}{%
+           family={Belsky},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {TIME}%
+      }
+      \strng{namehash}{a8d3c1cb706947669c53257dd776aef4}
+      \strng{fullhash}{a8d3c1cb706947669c53257dd776aef4}
+      \strng{authornamehash}{a8d3c1cb706947669c53257dd776aef4}
+      \strng{authorfullhash}{a8d3c1cb706947669c53257dd776aef4}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{3}
+      \field{title}{Why Text Mining May Be The Next Big Thing}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'TIME_2012'}
+    \endentry
+    \entry{Bollerslev1986}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=39f8f5a428abd62057a0152546172106}{%
+           family={Bollerslev},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{39f8f5a428abd62057a0152546172106}
+      \strng{fullhash}{39f8f5a428abd62057a0152546172106}
+      \strng{authornamehash}{39f8f5a428abd62057a0152546172106}
+      \strng{authorfullhash}{39f8f5a428abd62057a0152546172106}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-4076}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{number}{3}
+      \field{title}{Generalized autoregressive conditional heteroskedasticity}
+      \field{volume}{31}
+      \field{year}{1986}
+      \field{pages}{307\bibrangedash 327}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0304-4076(86)90063-1
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Bollerslev1986.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0304407686900631
+      \endverb
+    \endentry
+    \entry{BrownleesEngleKelly2011}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=6e799e3301a027947a422026ed9840b9}{%
+           family={Brownlees},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=3d1ccec31a4f9080e512f3d0552595eb}{%
+           family={Engle},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=b0cef7b583dff0feaaebb56771961aa3}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Bryan\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{75c879325b81af387a75212a01042e20}
+      \strng{fullhash}{5cfb536620ec3e22535e1c6ea6e7d086}
+      \strng{authornamehash}{75c879325b81af387a75212a01042e20}
+      \strng{authorfullhash}{5cfb536620ec3e22535e1c6ea6e7d086}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Risk}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{A Practical Guide to Volatility Forecasting through Calm and Storm}
+      \field{volume}{14}
+      \field{year}{2011}
+      \field{pages}{3\bibrangedash 22}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.21314/JOR.2012.237
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/BrownleesEngleKelly2011.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Das2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=70817129b16a821bc6a7cdbb08a14d8e}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Sanjiv\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{70817129b16a821bc6a7cdbb08a14d8e}
+      \strng{fullhash}{70817129b16a821bc6a7cdbb08a14d8e}
+      \strng{authornamehash}{70817129b16a821bc6a7cdbb08a14d8e}
+      \strng{authorfullhash}{70817129b16a821bc6a7cdbb08a14d8e}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1567-2395}
+      \field{journaltitle}{Foundations and Trends® in Finance}
+      \field{number}{3}
+      \field{title}{Text and Context: Language Analytics in Finance}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{145\bibrangedash 261}
+      \range{pages}{117}
+      \verb{file}
+      \verb :Das2014.pdf:PDF;:/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Das2014_orig.pdf:PDF
+      \endverb
+    \endentry
+    \entry{DeFranco2015}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=9ac8f984f091197c38f51eacc15e209b}{%
+           family={De\bibnamedelima Franco},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Gus},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=9846e48c5ab7b2596771e56dd997165e}{%
+           family={Hope},
+           familyi={H\bibinitperiod},
+           given={Ole-Kristian},
+           giveni={O\bibinithyphendelim K\bibinitperiod}}}%
+        {{uniquename=0,hash=86a4c8927e5679da809377b948bb3852}{%
+           family={Vyas},
+           familyi={V\bibinitperiod},
+           given={Dushyantkumar},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=b408e446f2f07d36a9eb5b2e7c3a35c1}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yibin},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c66d4eca7787f17ab6b2739a82a156fc}
+      \strng{fullhash}{dcd41d4a0aade3ac31ecbb0114e10ebd}
+      \strng{authornamehash}{c66d4eca7787f17ab6b2739a82a156fc}
+      \strng{authorfullhash}{dcd41d4a0aade3ac31ecbb0114e10ebd}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1911-3846}
+      \field{journaltitle}{Contemporary Accounting Research}
+      \field{number}{1}
+      \field{title}{Analyst Report Readability}
+      \field{volume}{32}
+      \field{year}{2015}
+      \field{pages}{76\bibrangedash 104}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1111/1911-3846.12062
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/DeFranco2015.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/1911-3846.12062
+      \endverb
+    \endentry
+    \entry{Diebold_Book_2017}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b36654a560f83732f007a4f95a4b6e0f}{%
+           family={Diebold},
+           familyi={D\bibinitperiod},
+           given={Francis\bibnamedelima X.},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{b36654a560f83732f007a4f95a4b6e0f}
+      \strng{fullhash}{b36654a560f83732f007a4f95a4b6e0f}
+      \strng{authornamehash}{b36654a560f83732f007a4f95a4b6e0f}
+      \strng{authorfullhash}{b36654a560f83732f007a4f95a4b6e0f}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Department of Economics, University of Pennsylvania. Available under \url{http://www.ssc.upenn.edu/~fdiebold/Textbooks.html} (visited on 07/24/2018)}
+      \field{title}{Forecasting in Economics, Business, Finance and Beyond}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/DIEBOLD_2017.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
+      \endverb
+    \endentry
+    \entry{Engle1982}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3d1ccec31a4f9080e512f3d0552595eb}{%
+           family={Engle},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {[Wiley, Econometric Society]}%
+      }
+      \strng{namehash}{3d1ccec31a4f9080e512f3d0552595eb}
+      \strng{fullhash}{3d1ccec31a4f9080e512f3d0552595eb}
+      \strng{authornamehash}{3d1ccec31a4f9080e512f3d0552595eb}
+      \strng{authorfullhash}{3d1ccec31a4f9080e512f3d0552595eb}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00129682, 14680262}
+      \field{journaltitle}{Econometrica}
+      \field{number}{4}
+      \field{title}{Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation}
+      \field{volume}{50}
+      \field{year}{1982}
+      \field{pages}{987\bibrangedash 1007}
+      \range{pages}{21}
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Engle1982.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1912773
+      \endverb
+    \endentry
+    \entry{EnglePatton_2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3d1ccec31a4f9080e512f3d0552595eb}{%
+           family={Engle},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=78a66ff75516826693bd5527b57e6fa3}{%
+           family={Patton},
+           familyi={P\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c35958a64c4afdc1a6a997df524dd208}
+      \strng{fullhash}{c35958a64c4afdc1a6a997df524dd208}
+      \strng{authornamehash}{c35958a64c4afdc1a6a997df524dd208}
+      \strng{authorfullhash}{c35958a64c4afdc1a6a997df524dd208}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantitative Finance}
+      \field{title}{What good is a volatility model?}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{237\bibrangedash 245}
+      \range{pages}{9}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/EnglePatton_2001.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.stern.nyu.edu/rengle/EnglePattonQF.pdf
+      \endverb
+    \endentry
+    \entry{Feldman_et_al_2010}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=46ff4917bf210d9d64ff78c0c9042df0}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Ronen},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=81b652b55c5c8c4be69544bd1de8ca2e}{%
+           family={Govindaraj},
+           familyi={G\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=4da9292952dadc3b6ef23d4c91a49ec5}{%
+           family={Livnat},
+           familyi={L\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=9e732e1ea9a8aabae5af40d3ca27c0c0}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{76880aea062d7b187053857adb310abc}
+      \strng{fullhash}{10f46535a93fccd260c2924d219aca8b}
+      \strng{authornamehash}{76880aea062d7b187053857adb310abc}
+      \strng{authorfullhash}{10f46535a93fccd260c2924d219aca8b}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-7136}
+      \field{journaltitle}{Review of Accounting Studies}
+      \field{number}{4}
+      \field{title}{Management's tone change, post earnings announcement drift and accruals}
+      \field{volume}{15}
+      \field{year}{2010}
+      \field{pages}{915\bibrangedash 953}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/s11142-009-9111-x
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Feldman_et_al_2010.pdf:PDF;:/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/FeldmanGovindarajLivnatSegal2008.pdf:PDF
+      \endverb
+    \endentry
+    \entry{CNBC2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=32b84ceee5e304f76295278ac85f47fb}{%
+           family={Franck},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {CNBC}%
+      }
+      \strng{namehash}{32b84ceee5e304f76295278ac85f47fb}
+      \strng{fullhash}{32b84ceee5e304f76295278ac85f47fb}
+      \strng{authornamehash}{32b84ceee5e304f76295278ac85f47fb}
+      \strng{authorfullhash}{32b84ceee5e304f76295278ac85f47fb}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Obscure security linked to stock volatility plummets 80\% after hours, sparking worries of bigger market effect}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.cnbc.com/2018/02/05/xiv-exchange-traded-security-linked-to-volatility-plummets-80-percent.html
+      \endverb
+    \endentry
+    \entry{Gries_2009}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0d8f6af8c1ec8820c51c21b6b4692bfd}{%
+           family={Gries},
+           familyi={G\bibinitperiod},
+           given={Stefan\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge (Taylor \& Francis Group)}%
+      }
+      \strng{namehash}{0d8f6af8c1ec8820c51c21b6b4692bfd}
+      \strng{fullhash}{0d8f6af8c1ec8820c51c21b6b4692bfd}
+      \strng{authornamehash}{0d8f6af8c1ec8820c51c21b6b4692bfd}
+      \strng{authorfullhash}{0d8f6af8c1ec8820c51c21b6b4692bfd}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantitative Corpus Linguistics with R: A Practical Introduction}
+      \field{year}{2009}
+    \endentry
+    \entry{GuoShiTu2017}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=cbbe0aee45b05ee2e216204167adfdac}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=20f1235dbaae639ab190cc695022122d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=f941e0c836cc15127c03e60ed33a2b0c}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0687459f77fe9891f696155761551555}
+      \strng{fullhash}{3fd2cd1a4e17748527b4c526933568cf}
+      \strng{authornamehash}{0687459f77fe9891f696155761551555}
+      \strng{authorfullhash}{3fd2cd1a4e17748527b4c526933568cf}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2405-9188}
+      \field{journaltitle}{The Journal of Finance and Data Science}
+      \field{number}{3}
+      \field{title}{Textual analysis and machine leaning: Crack unstructured data in finance and accounting}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{153\bibrangedash 170}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfds.2017.02.001
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/GuoShiTu2017.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2405918816300496
+      \endverb
+      \keyw{Machine learning,Textual analysis,Finance,Accounting,Media news,Sentiment,Information}
+    \endentry
+    \entry{HansenLunde}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b9f64829e4b2baaecb464c01b5197a57}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Peter\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=8d526c5bfbc93e7d59acb3e0d9853324}{%
+           family={Lunde},
+           familyi={L\bibinitperiod},
+           given={Asger},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{30123a95691a9b665c8d4bbd2e2c3cf0}
+      \strng{fullhash}{30123a95691a9b665c8d4bbd2e2c3cf0}
+      \strng{authornamehash}{30123a95691a9b665c8d4bbd2e2c3cf0}
+      \strng{authorfullhash}{30123a95691a9b665c8d4bbd2e2c3cf0}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Econometrics}
+      \field{number}{7}
+      \field{title}{A forecast comparison of volatility models: does anything beat a GARCH(1,1)?}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{volume}{20}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{873\bibrangedash 889}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/jae.800
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/HansenLunde_2005.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.800
+      \endverb
+    \endentry
+    \entry{HeidariFelden_Footnotes_2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9a199419177d606908bd83f37cc0c647}{%
+           family={Heidari},
+           familyi={H\bibinitperiod},
+           given={Maryam},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=10299eb09316a3e0bac93f696b938983}{%
+           family={Felden},
+           familyi={F\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=9fd7923b52060671e8ee0a3210e45793}{%
+           family={Donnellan},
+           familyi={D\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=759e8d46629a4fa5853b866b39d2b622}{%
+           family={Helfert},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a303ddaf1b7c31f10453e42f1070d215}{%
+           family={Kenneally},
+           familyi={K\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d4139eba7be7c6124c3a594ee35effbe}{%
+           family={VanderMeer},
+           familyi={V\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a4791738f4bdec6d6798801bd8681cab}{%
+           family={Rothenberger},
+           familyi={R\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=db42b731ed3fdfd3220dae321db5dc08}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{482ff21563ae9574058b97d7a855d58e}
+      \strng{fullhash}{482ff21563ae9574058b97d7a855d58e}
+      \strng{authornamehash}{482ff21563ae9574058b97d7a855d58e}
+      \strng{authorfullhash}{482ff21563ae9574058b97d7a855d58e}
+      \strng{editornamehash}{c1871553188f4084dcbba7e3758b4fc9}
+      \strng{editorfullhash}{a6600d67c306a20b3ab45b14d9765b83}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Horizons in Design Science: Broadening the Research Agenda}
+      \field{isbn}{978-3-319-18714-3}
+      \field{title}{Impact of Text Mining Application on Financial Footnotes Analysis}
+      \field{year}{2015}
+      \field{pages}{463\bibrangedash 470}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/HeidariFelden.pdf:PDF
+      \endverb
+    \endentry
+    \entry{RMM_2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c6885f993672872d2db7cea38e121916}{%
+           family={Heires},
+           familyi={H\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Risk Management Magazine}%
+      }
+      \strng{namehash}{c6885f993672872d2db7cea38e121916}
+      \strng{fullhash}{c6885f993672872d2db7cea38e121916}
+      \strng{authornamehash}{c6885f993672872d2db7cea38e121916}
+      \strng{authorfullhash}{c6885f993672872d2db7cea38e121916}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{12}
+      \field{title}{Sentiment Analysis: Are You Feeling Risky?}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.rmmagazine.com/2015/12/01/sentiment-analysis-are-you-feeling-risky/
+      \endverb
+    \endentry
+    \entry{HsiehHuiZhang2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=bc0b1cfe28c36c6829a04837b8cb5925}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Chia\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{uniquename=0,hash=b880505463b430cb2259deae3b72d964}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Kai\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=047f7de07364289ade5035d665f1c939}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yao},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4c1092e17beed84b0adeb5be32ceccb}
+      \strng{fullhash}{1f786a3e482aff9783f2296c78fdb5fc}
+      \strng{authornamehash}{a4c1092e17beed84b0adeb5be32ceccb}
+      \strng{authorfullhash}{1f786a3e482aff9783f2296c78fdb5fc}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Journal of Business Finance \& Accounting}
+      \field{title}{Analyst Report Readability, Earnings Uncertainty and Stock Returns}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{volume}{43}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{98\bibrangedash 130}
+      \range{pages}{33}
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/HsiehHuiZhang2016.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2139/ssrn.2182422
+      \endverb
+      \keyw{Readability,Analyst Report,Earnings Uncertainty,Stock Returns}
+    \endentry
+    \entry{HuangZangZheng14}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=1,hash=0e75b4676d87a50719b514cae6c4c8a0}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Allen\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=ad8e70f51aaa40a8c78bf77b048cbf1b}{%
+           family={Zang},
+           familyi={Z\bibinitperiod},
+           given={Amy\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{uniquename=0,hash=35b3f90242a41addc7c07c488a3cbee8}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Rong},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c27ccc29fe9f74f2f2ded0b2eded081}
+      \strng{fullhash}{615279a158d58df24fca440b5d34e69a}
+      \strng{authornamehash}{4c27ccc29fe9f74f2f2ded0b2eded081}
+      \strng{authorfullhash}{615279a158d58df24fca440b5d34e69a}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Accounting Review}
+      \field{number}{6}
+      \field{title}{Evidence on the Information Content of Text in Analyst Reports}
+      \field{volume}{89}
+      \field{year}{2014}
+      \field{pages}{2151\bibrangedash 2180}
+      \range{pages}{30}
+      \verb{file}
+      \verb :C\:\\Users\\User\\Dropbox\\Master_Thesis\\Text_mining_literature\\HuangZangZheng.pdf:PDF
+      \endverb
+    \endentry
+    \entry{HuangLi2011}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=1627881f5a4b4df0d42dbe9d9dba23c7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ke-Wei},
+           giveni={K\bibinithyphendelim W\bibinitperiod}}}%
+        {{uniquename=1,hash=c090e482a6941f7138c7dda38b80d422}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhuolun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aedfe0498026e9c630fcaa87f9815bf}
+      \strng{fullhash}{7aedfe0498026e9c630fcaa87f9815bf}
+      \strng{authornamehash}{7aedfe0498026e9c630fcaa87f9815bf}
+      \strng{authorfullhash}{7aedfe0498026e9c630fcaa87f9815bf}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2158-656X}
+      \field{journaltitle}{ACM Transactions on Management Information Systems (TMIS)}
+      \field{number}{3}
+      \field{title}{A Multilabel Text Classification Algorithm for Labeling Risk Factors in SEC Form 10-K}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{18:1\bibrangedash 18:19}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2019618.2019624
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/HuangLi2011.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2019618.2019624
+      \endverb
+      \keyw{Text classification,annual reports,multilabel classification,risk factors,text mining}
+    \endentry
+    \entry{Jegadeesh2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=425b7ee57b586395fc3a1bec6511c1c8}{%
+           family={Jegadeesh},
+           familyi={J\bibinitperiod},
+           given={Narasimhan},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=65027af5f4f54f2e6c7bb140253872e2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7847540f001dc2b3198266dd374a12da}
+      \strng{fullhash}{7847540f001dc2b3198266dd374a12da}
+      \strng{authornamehash}{7847540f001dc2b3198266dd374a12da}
+      \strng{authorfullhash}{7847540f001dc2b3198266dd374a12da}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-405X}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{note}{Accepted Manuscript, available under \url{https://www.sciencedirect.com/science/article/pii/S0304405X13002328} (visited on 05/21/2018)}
+      \field{number}{3}
+      \field{title}{Word power: A new approach for content analysis}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{volume}{110}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{712\bibrangedash 729}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfineco.2013.08.018
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Jegadeesh2013.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0304405X13002328
+      \endverb
+      \keyw{Content analysis,Lexicons,Term weighting}
+    \endentry
+    \entry{JonesKaulLipson_1994}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=897025dc00c603d4fc1d8d51580b8002}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Charles\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=e256fb1dac07b4e8ffdf41e7ca079fdd}{%
+           family={Kaul},
+           familyi={K\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=11eee4676ee273b397422882fb605158}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Marc\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c3aa3697c20ddc7c2b276354aa02acd}
+      \strng{fullhash}{514be20fbd8f362f34490ce0a2da4241}
+      \strng{authornamehash}{3c3aa3697c20ddc7c2b276354aa02acd}
+      \strng{authorfullhash}{514be20fbd8f362f34490ce0a2da4241}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Financial Studies}
+      \field{number}{4}
+      \field{title}{Transactions, Volume, and Volatility}
+      \field{volume}{7}
+      \field{year}{1994}
+      \field{pages}{631\bibrangedash 651}
+      \range{pages}{21}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/JonesKaulLipson_1994.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Jurafsky_Draft_2017}{unpublished}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3147296c99a3f829087becd1a4eaec08}{%
+           family={Jurafsky},
+           familyi={J\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=f3a4f9a8d1680ae3a58cf8e47b015b7f}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a44924f81290ad5ac383415b9d573fb0}
+      \strng{fullhash}{a44924f81290ad5ac383415b9d573fb0}
+      \strng{authornamehash}{a44924f81290ad5ac383415b9d573fb0}
+      \strng{authorfullhash}{a44924f81290ad5ac383415b9d573fb0}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Draft of the 3rd edition - preprint as of 08/28/2017, available under \url{https://web.stanford.edu/~jurafsky/slp3/} (visited on 05/11/2018)}
+      \field{subtitle}{An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition}
+      \field{title}{Speech and Language Processing}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Jurafsky_BOOK.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://web.stanford.edu/~jurafsky/slp3/
+      \endverb
+    \endentry
+    \entry{KearneyLiu2014}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=99a5e9bc5d397f326e54dc87346372a1}{%
+           family={Kearney},
+           familyi={K\bibinitperiod},
+           given={Colm},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=f56045cb3b27465cc474c956947be650}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Sha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d24c650b0942d224906b5a891374021b}
+      \strng{fullhash}{d24c650b0942d224906b5a891374021b}
+      \strng{authornamehash}{d24c650b0942d224906b5a891374021b}
+      \strng{authorfullhash}{d24c650b0942d224906b5a891374021b}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of Financial Analysis}
+      \field{title}{Textual sentiment in finance: A survey of methods and models}
+      \field{volume}{33}
+      \field{year}{2014}
+      \field{pages}{171\bibrangedash 185}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.irfa.2014.02.006
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/KearneyLiu2014.pdf:PDF
+      \endverb
+      \keyw{Behavioral finance,Textual sentiment,Internet messages,News,Market efficiency}
+    \endentry
+    \entry{Kogan2009_1}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=bc26f95378d8428f95c1a35d0ab79b49}{%
+           family={Kogan},
+           familyi={K\bibinitperiod},
+           given={Shimon},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=670d8a17abe9160f422e68f8bcfef530}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Dimitry},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c641e7f02980de541e62be18c51403cc}{%
+           family={Routledge},
+           familyi={R\bibinitperiod},
+           given={Bryan\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=efe703c69b6a4d48026f38fed3a886f9}{%
+           family={Sagi},
+           familyi={S\bibinitperiod},
+           given={Jacob\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=a0c460aba9a2d1a450d5df136652f4db}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Noah\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stroudsburg, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{093cd11c94943e7a23dd46f0fb272552}
+      \strng{fullhash}{f6c2a5554e6fa37acb757ecd5b70f8b8}
+      \strng{authornamehash}{093cd11c94943e7a23dd46f0fb272552}
+      \strng{authorfullhash}{f6c2a5554e6fa37acb757ecd5b70f8b8}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics}
+      \field{title}{Predicting Risk from Financial Reports with Regression}
+      \field{year}{2009}
+      \field{pages}{272\bibrangedash 280}
+      \range{pages}{9}
+      \verb{file}
+      \verb :C\:\\Users\\User\\Dropbox\\Master_Thesis\\Text_mining_literature\\KoganLevinRoutledgeSagiSmith.pdf:PDF
+      \endverb
+    \endentry
+    \entry{KothariLiShort_2009}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=978bfa73c861fa70fdbf676a793da7f5}{%
+           family={Kothari},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{uniquename=0,hash=a93782691326c94093b6bede1a5b9913}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{uniquename=0,hash=f4f450b867260941c6038f627cde390b}{%
+           family={Short},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Accounting Association}%
+      }
+      \strng{namehash}{143b03bf2f77dc2b88b9786ab20d75f4}
+      \strng{fullhash}{8512c220707287eeae67874cd7c79673}
+      \strng{authornamehash}{143b03bf2f77dc2b88b9786ab20d75f4}
+      \strng{authorfullhash}{8512c220707287eeae67874cd7c79673}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00014826}
+      \field{journaltitle}{The Accounting Review}
+      \field{number}{5}
+      \field{title}{The Effect of Disclosures by Management, Analysts, and Business Press on Cost of Capital, Return Volatility, and Analyst Forecasts: A Study Using Content Analysis}
+      \field{volume}{84}
+      \field{year}{2009}
+      \field{pages}{1639\bibrangedash 1670}
+      \range{pages}{32}
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/KothariLiShort_2009.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/27784235
+      \endverb
+    \endentry
+    \entry{McKinsey_2013}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=133619c0fc3d3787dbf9911562d200ed}{%
+           family={Kremer},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=6570d10f65a543f6e493d3ea9a23d41b}{%
+           family={Strobel},
+           familyi={S\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=7530aa46237e6e0a661ec8bbba6affb6}{%
+           family={Malzkorn},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {McKinsey \& Company}%
+      }
+      \strng{namehash}{842b8ffeee5e4273894f505b7b9d0454}
+      \strng{fullhash}{5e87376d056561a75518d7ffbebd0697}
+      \strng{authornamehash}{842b8ffeee5e4273894f505b7b9d0454}
+      \strng{authorfullhash}{5e87376d056561a75518d7ffbebd0697}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ratings revisited: Textual analysis for better risk management}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.mckinsey.com/business-functions/risk/our-insights/ratings-revisited-textual-analysis-for-better-risk-management
+      \endverb
+    \endentry
+    \entry{KumarRavi2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=09fd33ceafaa2c719707876e182ee52c}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Shravan},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=dc28b75bdf389a89251bb9a705deb6ab}{%
+           family={Ravi},
+           familyi={R\bibinitperiod},
+           given={Vadlamani},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{435ef2054f60d60c42979f815f7bcf1d}
+      \strng{fullhash}{435ef2054f60d60c42979f815f7bcf1d}
+      \strng{authornamehash}{435ef2054f60d60c42979f815f7bcf1d}
+      \strng{authorfullhash}{435ef2054f60d60c42979f815f7bcf1d}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0950-7051}
+      \field{journaltitle}{Knowledge-Based Systems}
+      \field{title}{A survey of the applications of text mining in financial domain}
+      \field{volume}{114}
+      \field{year}{2016}
+      \field{pages}{128\bibrangedash 147}
+      \range{pages}{20}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.knosys.2016.10.003
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/KumarRavi2016.pdf:PDF
+      \endverb
+      \keyw{Text mining,Financial applications,FOREX rate prediction,Stock market prediction,Customer relationship management,Cyber security}
+    \endentry
+    \entry{LehavyLiMerkley2011}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=612294f59d5d82a082dc144ad319c331}{%
+           family={Lehavy},
+           familyi={L\bibinitperiod},
+           given={Reuven},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=c011489a601976a461b6d739d817b682}{%
+           family={Merkley},
+           familyi={M\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18dd626677640752468fc04c3b4e5f9}
+      \strng{fullhash}{1150c2f3f1a878bcaf3dd39463f491d2}
+      \strng{authornamehash}{b18dd626677640752468fc04c3b4e5f9}
+      \strng{authorfullhash}{1150c2f3f1a878bcaf3dd39463f491d2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Accounting Review}
+      \field{number}{3}
+      \field{title}{The Effect of Annual Report Readability on Analyst Following and the Properties of Their Earnings Forecasts}
+      \field{volume}{86}
+      \field{year}{2011}
+      \field{pages}{1087\bibrangedash 1115}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.2308/accr.00000043
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/LehavyLiMerkley2011.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Li2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{fullhash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{authornamehash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{authorfullhash}{89b23cce0bb40099f7b69f6577f665fe}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0165-4101}
+      \field{journaltitle}{Journal of Accounting and Economics}
+      \field{number}{2}
+      \field{title}{Annual report readability, current earnings, and earnings persistence}
+      \field{volume}{45}
+      \field{year}{2008}
+      \field{pages}{221\bibrangedash 247}
+      \range{pages}{27}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jacceco.2008.02.003
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Li2008.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0165410108000141
+      \endverb
+      \keyw{Disclosure,Annual report readability,Profitability,Earnings persistence}
+    \endentry
+    \entry{Li2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{fullhash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{authornamehash}{89b23cce0bb40099f7b69f6577f665fe}
+      \strng{authorfullhash}{89b23cce0bb40099f7b69f6577f665fe}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1475-679X}
+      \field{journaltitle}{Journal of Accounting Research}
+      \field{number}{5}
+      \field{title}{The Information Content of Forward-Looking Statements in Corporate Filings—A Naïve Bayesian Machine Learning Approach}
+      \field{volume}{48}
+      \field{year}{2010}
+      \field{pages}{1049\bibrangedash 1102}
+      \range{pages}{54}
+      \verb{file}
+      \verb :C\:\\Users\\User\\Dropbox\\Master_Thesis\\Text_mining_literature\\Li2010.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Loughran2011}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e29b48c3b17cf53e834d55eac5dbef23}{%
+           family={Loughran},
+           familyi={L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=43057d4d67299a36b7bff8107c6cb71d}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{fullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authornamehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authorfullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{1}
+      \field{title}{When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10‐Ks}
+      \field{volume}{66}
+      \field{year}{2011}
+      \field{pages}{35\bibrangedash 65}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1111/j.1540-6261.2010.01625.x
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Loughran2011.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01625.x
+      \endverb
+    \endentry
+    \entry{Loughran2014}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e29b48c3b17cf53e834d55eac5dbef23}{%
+           family={Loughran},
+           familyi={L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=43057d4d67299a36b7bff8107c6cb71d}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{fullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authornamehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authorfullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1540-6261}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{4}
+      \field{title}{Measuring Readability in Financial Disclosures}
+      \field{volume}{69}
+      \field{year}{2014}
+      \field{pages}{1643\bibrangedash 1671}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1111/jofi.12162
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Loughran2014.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/jofi.12162
+      \endverb
+    \endentry
+    \entry{LM-meta-2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e29b48c3b17cf53e834d55eac5dbef23}{%
+           family={Loughran},
+           familyi={L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=43057d4d67299a36b7bff8107c6cb71d}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{fullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authornamehash}{07b6082ec1f45421d1ee53b762c257d0}
+      \strng{authorfullhash}{07b6082ec1f45421d1ee53b762c257d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Accounting Research}
+      \field{number}{4}
+      \field{title}{Textual Analysis in Accounting and Finance: A Survey}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{volume}{54}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{1187\bibrangedash 1230}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1111/1475-679X.12123
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Loughran2016.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-679X.12123
+      \endverb
+      \keyw{D82,D83,G14,G18,G30,M40,M41,textual analysis,sentiment analysis,bag of words,readability,word lists,Zipf's law,cosine similarity,Naïve Bayes}
+    \endentry
+    \entry{ManningSchutze_IR_2008}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=016fc1e04b3b878ce0ba16c74854c0f6}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{uniquename=0,hash=68f523934985e2f967ab2b15f4ded07c}{%
+           family={Raghavan},
+           familyi={R\bibinitperiod},
+           given={Prabhakar},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=9a80de0e5ec6df57363aaf321a5d05be}{%
+           family={Schütze},
+           familyi={S\bibinitperiod},
+           given={Hinrich},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{640650c7f273b211fc6ee91a77a5368b}
+      \strng{fullhash}{8386fb4c9fe30ff867c3eaf749f4aeeb}
+      \strng{authornamehash}{640650c7f273b211fc6ee91a77a5368b}
+      \strng{authorfullhash}{8386fb4c9fe30ff867c3eaf749f4aeeb}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0521865719, 9780521865715}
+      \field{title}{Introduction to Information Retrieval}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Manning_Raghavan_Schuetze_IR_2009.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://nlp.stanford.edu/IR-book/
+      \endverb
+    \endentry
+    \entry{Markowitz1952}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bdfa1c8585b5a4ae901315043a00f2f2}{%
+           family={Markowitz},
+           familyi={M\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{bdfa1c8585b5a4ae901315043a00f2f2}
+      \strng{fullhash}{bdfa1c8585b5a4ae901315043a00f2f2}
+      \strng{authornamehash}{bdfa1c8585b5a4ae901315043a00f2f2}
+      \strng{authorfullhash}{bdfa1c8585b5a4ae901315043a00f2f2}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1540-6261}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{1}
+      \field{title}{Portfolio Selection}
+      \field{volume}{7}
+      \field{year}{1952}
+      \field{pages}{77\bibrangedash 91}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1540-6261.1952.tb01525.x
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Markowitz1952.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1540-6261.1952.tb01525.x
+      \endverb
+    \endentry
+    \entry{MittnikRobinzonovSpindler_2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=56c1886856871ea9b74df241679d024d}{%
+           family={Mittnik},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=2c5568818030399376cd428adadcf87d}{%
+           family={Robinzonov},
+           familyi={R\bibinitperiod},
+           given={Nikolay},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=d8b1ae9734f477eac207fdb4e76b4b4d}{%
+           family={Spindler},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{810699209cb129da1b1f9bad2263b45e}
+      \strng{fullhash}{fb4dfa412308b2f116db386c3a7f7bea}
+      \strng{authornamehash}{810699209cb129da1b1f9bad2263b45e}
+      \strng{authorfullhash}{fb4dfa412308b2f116db386c3a7f7bea}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0378-4266}
+      \field{journaltitle}{Journal of Banking \& Finance}
+      \field{title}{Stock market volatility: Identifying major drivers and the nature of their impact}
+      \field{volume}{58}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jbankfin.2015.04.003
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/MittnikRobinzonovSpindler_2015.pdf:PDF
+      \endverb
+      \keyw{Componentwise boosting,Financial market risk,Forecasting,GARCH,Exponential GARCH,Variable selection}
+    \endentry
+    \entry{Nizer_BovespaVola_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f9d96d6ac35ad9a94b92f463ffbefe39}{%
+           family={Nizer},
+           familyi={N\bibinitperiod},
+           given={Philippe\bibnamedelima S.M.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=eb2470766c140a3ebad31c41678fa06e}{%
+           family={Nievola},
+           familyi={N\bibinitperiod},
+           given={Julio\bibnamedelima Cesar},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f504885fc22d96cc08f161c83436f28}
+      \strng{fullhash}{7f504885fc22d96cc08f161c83436f28}
+      \strng{authornamehash}{7f504885fc22d96cc08f161c83436f28}
+      \strng{authorfullhash}{7f504885fc22d96cc08f161c83436f28}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0957-4174}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{number}{12}
+      \field{title}{Predicting published news effect in the Brazilian stock market}
+      \field{volume}{39}
+      \field{year}{2012}
+      \field{pages}{10674\bibrangedash 10680}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.eswa.2012.02.162
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/NizerNievola2012.pdf:PDF
+      \endverb
+      \keyw{Text mining,Volatility forecast,Stock market,News effect}
+    \endentry
+    \entry{PattonSheppard2009}{inbook}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=78a66ff75516826693bd5527b57e6fa3}{%
+           family={Patton},
+           familyi={P\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=22fcbc93c38819e962968aad3e3cba7f}{%
+           family={Sheppard},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=48ccd2a7477afd13776060380f483d57}{%
+           family={Mikosch},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a3ebbdad242a1b1080198dcc1bb737b6}{%
+           family={Krei{ß}},
+           familyi={K\bibinitperiod},
+           given={Jens-Peter},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=56c5e9a92c8745466eb7b5a988e198a4}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=063d112f6e7a04156695abf49c475802}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Torben\bibnamedelima Gustav},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{f9262935611b6067ea38bc0d041bde0f}
+      \strng{fullhash}{f9262935611b6067ea38bc0d041bde0f}
+      \strng{authornamehash}{f9262935611b6067ea38bc0d041bde0f}
+      \strng{authorfullhash}{f9262935611b6067ea38bc0d041bde0f}
+      \strng{editornamehash}{a898ba7f29049bc4b5adc2d6113f0545}
+      \strng{editorfullhash}{f8286e470480cd0eb4022c90d30c6a80}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Financial Time Series}
+      \field{isbn}{978-3-540-71297-8}
+      \field{title}{Evaluating Volatility and Correlation Forecasts}
+      \field{year}{2009}
+      \field{pages}{801\bibrangedash 838}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1007/978-3-540-71297-8_36
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/PattonSheppard2009.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Paye_VolaMacro_2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e471aad8086fa79a8d5560d32464af2d}{%
+           family={Paye},
+           familyi={P\bibinitperiod},
+           given={Bradley\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e471aad8086fa79a8d5560d32464af2d}
+      \strng{fullhash}{e471aad8086fa79a8d5560d32464af2d}
+      \strng{authornamehash}{e471aad8086fa79a8d5560d32464af2d}
+      \strng{authorfullhash}{e471aad8086fa79a8d5560d32464af2d}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-405X}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{number}{3}
+      \field{title}{‘Déjà vol’: Predictive regressions for aggregate stock market volatility using macroeconomic variables}
+      \field{volume}{106}
+      \field{year}{2012}
+      \field{pages}{527\bibrangedash 546}
+      \range{pages}{20}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfineco.2012.06.005
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Paye2012.pdf:PDF
+      \endverb
+      \keyw{Conditional volatility,Realized volatility,Granger causality,Forecast evaluation,Forecast combination}
+    \endentry
+    \entry{Pulliza2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2c20dea0b0525a6e87d68c84ed106cf2}{%
+           family={Pulliza},
+           familyi={P\bibinitperiod},
+           given={Jonathan\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of North Carolina at Chapel Hill}%
+      }
+      \strng{namehash}{2c20dea0b0525a6e87d68c84ed106cf2}
+      \strng{fullhash}{2c20dea0b0525a6e87d68c84ed106cf2}
+      \strng{authornamehash}{2c20dea0b0525a6e87d68c84ed106cf2}
+      \strng{authorfullhash}{2c20dea0b0525a6e87d68c84ed106cf2}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Analysis of Speculative Language in SEC 10-K Filings}
+      \field{type}{mathesis}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/Pulliza_MastersThesis.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://cdr.lib.unc.edu/indexablecontent/uuid:c01f358b-cfb0-46ce-9b5b-cf4f10b18438
+      \endverb
+    \endentry
+    \entry{Qiu07}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2bcb59e170bd4710ebd69eac65ff1984}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Xin\bibnamedelima Ying},
+           giveni={X\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Iowa}%
+      }
+      \strng{namehash}{2bcb59e170bd4710ebd69eac65ff1984}
+      \strng{fullhash}{2bcb59e170bd4710ebd69eac65ff1984}
+      \strng{authornamehash}{2bcb59e170bd4710ebd69eac65ff1984}
+      \strng{authorfullhash}{2bcb59e170bd4710ebd69eac65ff1984}
+      \field{sortinit}{Q}
+      \field{sortinithash}{605f5784956f0b01c606746ceb816bf5}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On building predictive models with company annual reports}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb :C\:\\Users\\User\\Dropbox\\Master_Thesis\\Text_mining_literature\\Qiu_PhDThesis.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Raviv_online}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a6ef133f40e3533ccc0e242ad8bbeb9b}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Eran},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6ef133f40e3533ccc0e242ad8bbeb9b}
+      \strng{fullhash}{a6ef133f40e3533ccc0e242ad8bbeb9b}
+      \strng{authornamehash}{a6ef133f40e3533ccc0e242ad8bbeb9b}
+      \strng{authorfullhash}{a6ef133f40e3533ccc0e242ad8bbeb9b}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{9}
+      \field{title}{Intraday volatility measures}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://eranraviv.com/intraday-volatility-measures/
+      \endverb
+    \endentry
+    \entry{Rekabsaz2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=3cf70ceab6d52726092dd10bb16449bc}{%
+           family={Rekabsaz},
+           familyi={R\bibinitperiod},
+           given={Navid},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=98332f3dc022cbee44e34715fb5262f5}{%
+           family={Lupu},
+           familyi={L\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=984194a03721ec9773004c12247f6ffe}{%
+           family={Baklanov},
+           familyi={B\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=4fd671afc1ea168300875315d4a028d9}{%
+           family={Hanbury},
+           familyi={H\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=3044a1407eed793eef4567c362a111e4}{%
+           family={Duer},
+           familyi={D\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=d2ef7851417b815ea70162bcd2cff33e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, Canada}%
+      }
+      \strng{namehash}{aa75e840fb6413062caa6d54761e5ea5}
+      \strng{fullhash}{bfab795b32a7a3574235d6e16a0c0929}
+      \strng{authornamehash}{aa75e840fb6413062caa6d54761e5ea5}
+      \strng{authorfullhash}{bfab795b32a7a3574235d6e16a0c0929}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2017)}
+      \field{title}{Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models}
+      \field{year}{2017}
+      \field{pages}{1712\bibrangedash 1721}
+      \range{pages}{10}
+      \verb{file}
+      \verb :C\:\\Users\\User\\Dropbox\\Master_Thesis\\Text_mining_literature\\Rekabsaz-Volatility_Prediction_using_Financial_Disclosures_.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Schutte2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=cfdc930b955a0856a6eb516d8a59d7b3}{%
+           family={Schutte},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{uniquename=0,hash=7b854cf2d25b5f3dee1df79836333391}{%
+           family={Unlu},
+           familyi={U\bibinitperiod},
+           given={Emre},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3f9bcaf71a7b85b116d55d98fd08437}
+      \strng{fullhash}{d3f9bcaf71a7b85b116d55d98fd08437}
+      \strng{authornamehash}{d3f9bcaf71a7b85b116d55d98fd08437}
+      \strng{authorfullhash}{d3f9bcaf71a7b85b116d55d98fd08437}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Financial Analyst Journal}
+      \field{title}{The Effect of Analyst Coverage on Firm-Specific Volatility: Less Information or Less Noise?}
+      \field{year}{2007}
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Schutte2007.pdf:PDF
+      \endverb
+      \keyw{Noise; Analysts; Idiosyncratic Volatility}
+    \endentry
+    \entry{Tetlock2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=43e620292c04ccd0b1bb834cc476d39f}{%
+           family={Tetlock},
+           familyi={T\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{43e620292c04ccd0b1bb834cc476d39f}
+      \strng{fullhash}{43e620292c04ccd0b1bb834cc476d39f}
+      \strng{authornamehash}{43e620292c04ccd0b1bb834cc476d39f}
+      \strng{authorfullhash}{43e620292c04ccd0b1bb834cc476d39f}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{3}
+      \field{title}{Giving Content to Investor Sentiment: The Role of Media in the Stock Market}
+      \field{volume}{62}
+      \field{year}{2007}
+      \field{pages}{1139\bibrangedash 1168}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1111/j.1540-6261.2007.01232.x
+      \endverb
+      \verb{file}
+      \verb :/Users/kevintikvic/Dropbox/Master_Thesis/Text_mining_literature/Tetlock2007.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2007.01232.x
+      \endverb
+    \endentry
+    \entry{ThinggaardJeppersenMadsen2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=18b4f443f67f4ef4e136843d98df4ff4}{%
+           family={Thinggaard},
+           familyi={T\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=5156176539fcfe83a3b7fe93dfcab3a7}{%
+           family={{S{ø}nderby Jeppesen}},
+           familyi={S\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=ddad570720bc9c40fe89dd2884c926ae}{%
+           family={Madsen},
+           familyi={M\bibinitperiod},
+           given={Kasper},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {DJ{Ø}F forlag}%
+      }
+      \strng{namehash}{6ddd9fc7fce2cfa1ada160340fdc50bf}
+      \strng{fullhash}{f2b567083fb37a79050457e6dd2ae4c3}
+      \strng{authornamehash}{6ddd9fc7fce2cfa1ada160340fdc50bf}
+      \strng{authorfullhash}{f2b567083fb37a79050457e6dd2ae4c3}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0902-3704}
+      \field{journaltitle}{Ledelse \& Erhvervsoekonomi}
+      \field{number}{4}
+      \field{title}{The Information Content of Note Disclosures and MD\&A Information in the Financial Report – A Study of Market Reactions in Denmark}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{volume}{79}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{25\bibrangedash 42}
+      \range{pages}{18}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/ThinggaardJeppersenMadsen2016.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb https://www.djoef-forlag.dk/services/djm/ledelsedocs/2015/2015_4/DJoMB_vol79_no4_3.pdf
+      \endverb
+      \keyw{disclosures,notes,management commentary,financial report,information content,event study}
+    \endentry
+    \entry{TsaiWang2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d87eed1e99f9572900110a92ec5777c2}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Ming-Feng},
+           giveni={M\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mumbai, India}%
+      }
+      \list{publisher}{1}{%
+        {International Conference on Computational Linguistics (COLING)}%
+      }
+      \strng{namehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{fullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authornamehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authorfullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 24th International Conference on Computational Linguistics (COLING 2012)}
+      \field{title}{Visualization on Financial Terms via Risk Ranking from Financial Reports}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{447\bibrangedash 452}
+      \range{pages}{6}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWang2012.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.aclweb.org/anthology/C12-3056
+      \endverb
+    \endentry
+    \entry{TsaiWang2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d87eed1e99f9572900110a92ec5777c2}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Ming-Feng},
+           giveni={M\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \name{editor}{8}{}{%
+        {{hash=c411538c1813fa1c3c8ba3b8132f24a6}{%
+           family={Serdyukov},
+           familyi={S\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=158e845f57db213fcd9ecd3daba1cbee}{%
+           family={Braslavski},
+           familyi={B\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b73104e65b758e736d2d70d58a5f3a71}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={Sergei\bibnamedelima O.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=fb9dd99d7f40e6a4ac31adc141a95a2c}{%
+           family={Kamps},
+           familyi={K\bibinitperiod},
+           given={Jaap},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e07b288b462619ff3529e8a4a01a3761}{%
+           family={Rüger},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe8015d14586e9b47ee6a9b45faf20ab}{%
+           family={Agichtein},
+           familyi={A\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3f44e82aa1d7abe9906a76a8720ad199}{%
+           family={Segalovich},
+           familyi={S\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+        {{hash=127768a6d795f3c224a762902b215f38}{%
+           family={Yilmaz},
+           familyi={Y\bibinitperiod},
+           given={Emine},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Moscow, Russia}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{fullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authornamehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authorfullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{editornamehash}{e6ab4b6081a211196a46a26064d9e75e}
+      \strng{editorfullhash}{a6a11ab6219b2558e77fbff1a8294bc2}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 35th European Conference on Advances in Information Retrieval (ECIR) - LNCS7814}
+      \field{isbn}{978-3-642-36972-8}
+      \field{title}{Risk Ranking from Financial Reports}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{804\bibrangedash 807}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/978-3-642-36973-5_89
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWang2013.pdf:PDF;:/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/ECIR_2013_proceedings.pdf:PDF;:/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWang2013_onepager.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-642-36973-5_89
+      \endverb
+    \endentry
+    \entry{TsaiWang2014}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d87eed1e99f9572900110a92ec5777c2}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Ming-Feng},
+           giveni={M\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Doha, Qatar}%
+      }
+      \strng{namehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{fullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authornamehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authorfullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)}
+      \field{title}{Financial Keyword Expansion via Continuous Word Vector Representations}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3115/v1/D14-1152
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWang2014.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.aclweb.org/anthology/D14-1152
+      \endverb
+    \endentry
+    \entry{TsaiWang2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d87eed1e99f9572900110a92ec5777c2}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Ming-Feng},
+           giveni={M\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{fullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authornamehash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \strng{authorfullhash}{e84b67f57abe3d7b04b05b8d2f204cb4}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{On the Risk Prediction and Analysis of Soft Information in Finance Reports}
+      \field{volume}{257}
+      \field{year}{2016}
+      \field{pages}{243\bibrangedash 250}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWang2016.pdf:PDF
+      \endverb
+    \endentry
+    \entry{TsaiWangChien2016}{article}{}
+      \name{author}{3}{uniquelist=3}{%
+        {{uniquename=0,hash=d87eed1e99f9572900110a92ec5777c2}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Ming-Feng},
+           giveni={M\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=c856ea0448bb2913a6e7778d33576d86}{%
+           family={Chien},
+           familyi={C\bibinitperiod},
+           given={Po-Chuan},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dad49feefb9c4c9b88ffd22060f0daf2}
+      \strng{fullhash}{dad49feefb9c4c9b88ffd22060f0daf2}
+      \strng{authornamehash}{dad49feefb9c4c9b88ffd22060f0daf2}
+      \strng{authorfullhash}{dad49feefb9c4c9b88ffd22060f0daf2}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Management Information Systems}
+      \field{number}{3}
+      \field{title}{Discovering Finance Keywords via Continuous-Space Language Models}
+      \field{volume}{7}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1145/2948072
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/TsaiWangChien2016.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1145/2948072
+      \endverb
+    \endentry
+    \entry{Varian-NYT-2004}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb36ebbb1c30434c890df331faa61953}{%
+           family={Varian},
+           familyi={V\bibinitperiod},
+           given={Hal\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The New York Times}%
+      }
+      \strng{namehash}{cb36ebbb1c30434c890df331faa61953}
+      \strng{fullhash}{cb36ebbb1c30434c890df331faa61953}
+      \strng{authornamehash}{cb36ebbb1c30434c890df331faa61953}
+      \strng{authorfullhash}{cb36ebbb1c30434c890df331faa61953}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{9}
+      \field{title}{Good Stock Advice or Online Noise?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.nytimes.com/2004/09/23/business/good-stock-advice-or-online-noise.html
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Varian-NYT-2004'}
+    \endentry
+    \entry{ViolanteLaurent2012}{inbook}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=38fbff4c51150bec7a87a55253dcd933}{%
+           family={Violante},
+           familyi={V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=75f7b0739e9cd6c037e87bed8f36c143}{%
+           family={Laurent},
+           familyi={L\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{2450a1d8e92f3797221ae40aba2327a2}
+      \strng{fullhash}{2450a1d8e92f3797221ae40aba2327a2}
+      \strng{authornamehash}{2450a1d8e92f3797221ae40aba2327a2}
+      \strng{authorfullhash}{2450a1d8e92f3797221ae40aba2327a2}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Volatility Models and Their Applications}
+      \field{chapter}{Nineteen}
+      \field{isbn}{9781118272039}
+      \field{title}{Volatility Forecasts Evaluation and Comparison}
+      \field{year}{2012}
+      \field{pages}{465\bibrangedash 486}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1002/9781118272039.ch19
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/ViolanteLaurent2012.pdf:PDF
+      \endverb
+      \keyw{volatility forecasts,evaluation and comparison,loss functions,latent variable problems,consistency of ordering,inference on forecast performances}
+    \endentry
+    \entry{WangTsaiLiuChang2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=891e5e79adf250d7424b5eae66888710}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chuan-Ju},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=dce7e830dbe9bb042387def9757bcdcb}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Tse},
+           giveni={T\bibinitperiod},
+           suffix={Ming-Fengand\bibnamedelima Liu},
+           suffixi={M\bibinithyphendelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=51d7b69e3c972e26f880653dabd96c36}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chin-Ting},
+           giveni={C\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Nagoya, Japan}%
+      }
+      \strng{namehash}{c53f549bc4c568a2303309f6519aa578}
+      \strng{fullhash}{a4649ba9b9af104695f0c1e2c39131ea}
+      \strng{authornamehash}{c53f549bc4c568a2303309f6519aa578}
+      \strng{authorfullhash}{a4649ba9b9af104695f0c1e2c39131ea}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Joint Conference on Natural Language Processing (IJCNLP)}
+      \field{title}{Financial Sentiment Analysis for Risk Prediction}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{802\bibrangedash 808}
+      \range{pages}{7}
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/WangTsaiLiuChang2013.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://www.aclweb.org/anthology/I13-1097
+      \endverb
+    \endentry
+    \entry{YukselturkTucker2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b09d04dbcd8fb0a8b70558a2c3276e76}{%
+           family={Yukselturk},
+           familyi={Y\bibinitperiod},
+           given={Osman},
+           giveni={O\bibinitperiod}}}%
+        {{uniquename=0,hash=533e9f5e7e6f41c0898518573a13024d}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{df2a63a80b0f718ad9b9f1d17b892d9a}
+      \strng{fullhash}{df2a63a80b0f718ad9b9f1d17b892d9a}
+      \strng{authornamehash}{df2a63a80b0f718ad9b9f1d17b892d9a}
+      \strng{authorfullhash}{df2a63a80b0f718ad9b9f1d17b892d9a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{f86c10978eb0c0879609ce6a4f43da7b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accounting and Business Research}
+      \field{month}{11}
+      \field{title}{The impact of analyst sentiment on UK stock recommendations and target prices}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{869\bibrangedash 904}
+      \range{pages}{36}
+      \verb{file}
+      \verb :C\:/Users/User/Dropbox/Master_Thesis/Text_mining_literature/YukselturkTucker2015.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ZobelMoffat_termweights_1998}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=fec3a08fc98ee9b65f31e424408ed08f}{%
+           family={Zobel},
+           familyi={Z\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=dc1cf83963f638e9f5a9b0d9470c3e09}{%
+           family={Moffat},
+           familyi={M\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7298261a0df16c8b5090d65f0a1ff822}
+      \strng{fullhash}{7298261a0df16c8b5090d65f0a1ff822}
+      \strng{authornamehash}{7298261a0df16c8b5090d65f0a1ff822}
+      \strng{authorfullhash}{7298261a0df16c8b5090d65f0a1ff822}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0163-5840}
+      \field{journaltitle}{ACM SIGIR Forum}
+      \field{number}{1}
+      \field{title}{Exploring the Similarity Space}
+      \field{volume}{32}
+      \field{year}{1998}
+      \field{pages}{18\bibrangedash 34}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1145/281250.281256
+      \endverb
+      \verb{file}
+      \verb :/Users/kevin/Dropbox/Master_Thesis/Text_mining_literature/ZobelMoffat_termweights_1998.pdf:PDF
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/281250.281256
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{cancelling out}
+\endrefsection
+\endinput
+

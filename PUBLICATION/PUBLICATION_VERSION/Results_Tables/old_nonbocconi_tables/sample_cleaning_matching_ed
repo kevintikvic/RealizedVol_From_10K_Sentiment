@@ -1,0 +1,18 @@
+
+% Table created by stargazer v.5.2.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: So, Jun 17, 2018 - 16:48:15
+\begin{table}[!htbp] \centering
+  \caption{Sample Cleaning and Matching Procedure} 
+  \label{tab: sample_cleaning}
+\begin{tabular}{@{\extracolsep{0pt}} L{4.5cm} C{2.25cm} C{2.25cm} C{2.25cm} C{2.00cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Description & No. of Filings & No. of Companies & Average No. of Filings per Company & Percentage of Row Above \\ 
+\hline \\[-1.8ex] 
+Initial sample of 10-K*'s: & $295,746$ & $40,264$ & $7.3$ & n.a. \\ 
+Ticker is available: & $184,358$ & $12,525$ & $14.7$ & 62.3\% \\ 
+Yahoo Finance price data available (based on ticker): & $77,951$ & $4,934$ & $15.8$ & 42.3\% \\ 
+COMPUSTAT data available (based on ticker): & $67,730$ & $4,212$ & $16.1$ & 86.9\% \\ 
+\hline \\[-1.8ex] 
+\end{tabular}
+\end{table}

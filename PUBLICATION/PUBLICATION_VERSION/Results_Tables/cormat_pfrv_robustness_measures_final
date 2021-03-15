@@ -1,0 +1,18 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Correlation Matrix: Realized Volatility and Alternative Proxies} 
+  \label{tab: pfrv_measures} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} L{3.25cm} C{3.25cm} C{3.25cm} C{3.25cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Realized Volatility & Squared Returns & Absolute Returns \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+Realized Volatility & $1.00$ & $1.00$ & $.99$ \\ 
+Squared Returns & $.98$ & $1.00$ & $.99$ \\ 
+Absolute Returns & $.97$ & $.99$ & $1.00$ \\ 
+\\[-1.8ex] \hline \\[-1.8ex] 
+\multicolumn{4}{p{14.5cm}}{\begin{scriptsize} Note: Sample Size = 46,483. Pearson correlation coefficients are displayed. The upper triangular part of the matrix is for the original values of PFRV measures; the lower triangular part represents the correlation coefficients for the log-versions of the PFRV variables (natural logarithm). \end{scriptsize}} \\
+\\[-1.8ex]\hline 
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,21 @@
+[1] Config.pm:354> INFO - This is Biber 2.7
+[11] Config.pm:357> INFO - Logfile is 'Master_Thesis _Wind.blg'
+[123] biber-darwin:303> INFO - === Sun Oct 27, 2019, 19:43:59
+[167] Biber.pm:359> INFO - Reading 'Master_Thesis _Wind.bcf'
+[342] Biber.pm:835> INFO - Found 58 citekeys in bib section 0
+[367] Biber.pm:3670> INFO - Processing section 0
+[423] Biber.pm:3840> INFO - Looking for bibtex format file './bibliography_database_raw.bib' for section 0
+[452] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[509] bibtex.pm:1292> INFO - Found BibTeX data source './bibliography_database_raw.bib'
+[582] Utils.pm:164> WARN - Overwriting field 'year' with year value from field 'date' for entry 'Varian-NYT-2004'
+[593] Utils.pm:164> WARN - Overwriting field 'year' with year value from field 'date' for entry 'TIME_2012'
+[749] Utils.pm:164> WARN - ISBN '0521865719, 9780521865715' in entry 'ManningSchutze_IR_2008' is invalid - run biber with '--validate_datamodel' for details.
+[755] Utils.pm:164> WARN - month field 'Aug' in entry 'BrownleesEngleKelly2011' is not an integer - this will probably not sort properly.
+[787] Utils.pm:164> WARN - I didn't find a database entry for 'cancelling out' (section 0)
+[941] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[941] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[941] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[941] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1009] bbl.pm:608> INFO - Writing 'Master_Thesis _Wind.bbl' with encoding 'UTF-8'
+[1020] bbl.pm:712> INFO - Output to Master_Thesis _Wind.bbl
+[1020] Biber.pm:109> INFO - WARNINGS: 5

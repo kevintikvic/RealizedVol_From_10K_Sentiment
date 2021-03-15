@@ -1,0 +1,81 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Literature Review and Theoretical Background}{6}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Text Mining and Natural Language Processing in Finance and Accounting}{6}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1}Readability}{8}{subsubsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2}Sentiment Analysis}{10}{subsubsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.3}Text Analysis Using 10-K Filings Corpora}{12}{subsubsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Term Weighting and Calculation of Sentiment Scores}{15}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Term Counts, Document-Term-Matrix, and Vector Space Model}{15}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Dimensionality of the Document-Term-Matrix}{17}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Transforming Term Counts to Term Weights}{21}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}Term Weighting Schemes Using Inverse Document Frequency}{23}{subsubsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}Weight Aggregation, Sentiment Scores, and Volatility-Impact-Based Term Weighting}{24}{subsubsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Measuring Post-Filing Volatility}{27}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Research Framework: Cross-Sectional Volatility Model}{29}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Pre-Filing Realized Volatility as Predictive Variable}{29}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Hypotheses Development: Connecting 10-K* Text to Realized Volatility}{30}{subsection.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Control Variables}{33}{subsection.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Bringing Everything Together: Model Specification}{34}{subsection.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1}Linear Regression Model}{34}{subsubsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2}Choice of Training and Test Set}{36}{subsubsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Data and Sample Description}{38}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Data Collection, Sample Formation and Matching}{38}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Sample Composition: Filing Types and Timing}{39}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Descriptive Statistics About the Corpus}{39}{subsection.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Descriptive Statistics About the Variables}{40}{subsection.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Results}{42}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Univariate Analysis}{42}{subsection.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.1}Pre- and Post-Filing Realized Volatility}{42}{subsubsection.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.2}Correlation Analysis}{43}{subsubsection.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Multivariate Analysis and Regression Results}{44}{subsection.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Robustness Checks and Potential Alternative Designs}{47}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Tests Against Conventional Benchmark Term-Weighting Schemes}{47}{subsection.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Alternative Volatility Proxies}{48}{subsection.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}Substituting Pre-Filing Realized Volatility with Time-Series Inputs}{49}{subsection.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}Adding 10-K* Related Quantitative Control Variables}{50}{subsection.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Conclusions}{53}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{56}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix}{100}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1}LM Word Lists}{100}{subsection.A.1}

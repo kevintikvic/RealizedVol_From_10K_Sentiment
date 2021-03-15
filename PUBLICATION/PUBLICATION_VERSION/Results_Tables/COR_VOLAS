@@ -1,0 +1,28 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Correlation Matrix: Volatility-Related Measures} 
+  \label{tab: COR_VOLAS} 
+\small
+\begin{tabular}{@{\extracolsep{0pt}} L{1.75cm} C{1.75cm} C{1.75cm} C{1.75cm} C{1.75cm} C{1.75cm} C{1.75cm}}
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+ & \texttt{PFRV} & \texttt{PreFRV} & \texttt{GARCH} & \texttt{GJR} & \texttt{PFSqR} & \texttt{PFAbsR} \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\texttt{PFRV} & $1.00$ & $.00$ & $.00$ & $.00$ & $.00$ & $.00$ \\ 
+\texttt{PreFRV} & $.58$ & $1.00$ & $.00$ & $.00$ & $.00$ & $.00$ \\ 
+\texttt{GARCH} & $.65$ & $.68$ & $1.00$ & $.00$ & $.00$ & $.00$ \\ 
+\texttt{GJR\_GARCH} & $.60$ & $.65$ & $.90$ & $1.00$ & $.00$ & $.00$ \\ 
+\texttt{PFSqR} & $.98$ & $.60$ & $.66$ & $.62$ & $1.00$ & $.00$ \\ 
+\texttt{PFAbsR} & $.97$ & $.59$ & $.65$ & $.61$ & $.99$ & $1.00$ \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{7}{p{14.5cm}}{\begin{scriptsize} \textit{Notes}: Sample Size = 46,483. Pearson correlation coefficients are displayed in the lower triangular part (including the main diagonal) of the matrix; the upper triangular part represents the corresponding p-values for the correlation coefficients. All correlation coefficients as well as p-values are based on volatility-related variables in their logarithmic form. \texttt{PFRV} represents post-filing realized volatility. \texttt{PreFRV} represents pre-filing realized volatility. \texttt{GARCH} and \texttt{GJR\_GARCH} represent the 1-week ahead volatility forecast from a GARCH(1,1) and a GJR-GARCH(1,1) model, respectively (cf. robustness checks on time-series models, section \ref{ssec: robust_prefiling}). \texttt{PFSqR} and \texttt{PFAbsR} represent post-filing squared returns and post-filing absolute returns, respectively (cf. robustness checks on alternative volatility proxies, section \ref{ssec: robust_alternative-vola-proxies}). \end{scriptsize}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular} 
+\end{table}

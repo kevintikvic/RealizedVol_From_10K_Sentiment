@@ -1,0 +1,18 @@
+
+\begin{table}[!htbp] \centering 
+  \caption{Correlation Matrix: Realized Volatility and Time-Series Forecasts} 
+  \label{tab: pfrv_tsfc} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}} L{3.25cm} C{3.25cm} C{3.25cm} C{3.25cm}} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \texttt{PFRV} & \texttt{GARCH} & \texttt{GJR} \\ 
+\hline \\[-1.8ex] 
+\texttt{PFRV} & $1$ & $.753$ & $.741$ \\ 
+\texttt{GARCH} & $.646$ & $1$ & $.933$ \\ 
+\texttt{GJR} & $.602$ & $.901$ & $1$ \\ 
+\\[-1.8ex]\hline \\[-1.8ex]
+\multicolumn{4}{p{14.5cm}}{\begin{scriptsize} Note: Sample Size = 46,483. Pearson correlation coefficients are displayed. The upper triangular part of the matrix is for the original values of volatility measures; the lower triangular part represents the correlation coefficients for the log-versions of the volatility variables (natural logarithm). \texttt{GARCH} and \texttt{GJR} refer to the two possible variants applied for variable \texttt{TS\_FC} (cf. section \ref{ssec: volamodel_timeseries}).\end{scriptsize}} \\
+\\[-1.8ex]\hline 
+\end{tabular} 
+\end{table} 

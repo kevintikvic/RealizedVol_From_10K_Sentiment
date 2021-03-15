@@ -1,0 +1,113 @@
+%%%-----------------------%%%
+%%%--------PREAMBLE-------%%%
+%%%-----------------------%%%
+
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+% Package to write abstract (centered, larger left/right margin, etc.)
+\usepackage{abstract}
+
+% Define the line spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% Define the page margins
+\usepackage[a4paper, total={6in, 9in}]{geometry}
+
+% Package for english language correction and hyphenation
+\usepackage[english]{babel}
+
+% Package for mathematic
+\usepackage{amsmath}
+
+% Package for hyperlinks and URLs
+\usepackage{hyperref}
+
+% Package to optimize the positioning / float of figures and tables
+\usepackage{float}
+
+% Package to define the style of footnotes - with option bottom we place them at the bottom of each page
+\usepackage[bottom]{footmisc}
+
+%\restylefloat{table, figure}
+
+% Package for graphs, especially for subfigures 
+\usepackage{graphicx}
+\usepackage{subfig}
+
+% Package to insert "random" text
+\usepackage{blindtext}
+
+% Package to "shadow" cols/rows of tables
+\usepackage[table]{xcolor}
+\definecolor{light_gray}{gray}{0.7775}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{3mm plus1mm minus1mm}
+
+% Caption Package: define the caption of tables to be a bit further down and not "stick" to the table's last row
+\usepackage{caption} 
+\captionsetup[table]{skip=10pt}
+
+% Define the path were graphs and images will be loaded
+\graphicspath{ {/Users/kevintikvic/Dropbox/Master_Thesis/LaTeX_File/Images/} }, {../Results_Images/}}, {../Results_Tables/}}
+
+% Define the header line
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{Using Text Sentiment of Analyst Reports to Forecast Volatility}
+
+% Define chapter-wise numbering of figures & tables
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+
+% BibLaTex: load package + define the path to the bibliography "database"
+\usepackage[style = authoryear, sorting = ynt, backend = biber, doi = false, isbn = false, url = false]{biblatex}
+
+\addbibresource{/Users/kevintikvic/Dropbox/Master_Thesis/LaTeX_File/bibliography_database.bib}
+
+\begin{document}
+\input{./00_Titlepage}
+
+%%%------------------------%%%
+%%%-------INTRO PART-------%%%
+%%%------------------------%%%
+
+% Seitenzahlen formatieren: im Intro part mit römischen, danach mit arabischen Zahlen
+\pagenumbering{Roman}
+\input{./00_Authorship}
+\input{./00_Abstract}
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+%%%-----------------------%%%
+%%%-------PART TEXT-------%%%
+%%%-----------------------%%%
+
+\input{./01_Introduction}
+%\label{sec: introduction}
+\input{./02_Literature_Review}
+%\label{sec: lit_rev}
+\input{./03_Sentiment_Calculation}
+%\label{sec: sentiment_calcs}
+\input{./04_Vola_Model}
+%\label{sec: volamodel}
+\input{./05_Data}
+%\label{sec: data_sample}
+\input{./06_Results}
+%\label{sec: results}
+\input{./07_Conclusion}
+%\label{sec: conclusion}
+\input{./08_Bibliography}
+
+\end{document}

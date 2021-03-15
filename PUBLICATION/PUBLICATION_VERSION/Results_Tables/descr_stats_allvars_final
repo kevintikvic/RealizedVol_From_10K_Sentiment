@@ -1,0 +1,36 @@
+\clearpage
+\begin{table}[!htbp] \centering 
+  \caption{Sample Summary: Variable Descriptive Statistics} 
+  \label{tab: descr_stats_allvars} 
+\small 
+\begin{tabular}{@{\extracolsep{5pt}}l ccc ccc cc} 
+\\[-4.8ex]
+\\ \hline \hline
+%\\[-1.8ex] 
+Statistic & \multicolumn{1}{c}{N} & \multicolumn{1}{c}{Mean} & \multicolumn{1}{c}{St. Dev.} & \multicolumn{1}{c}{Min} & \multicolumn{1}{c}{Pctl(25)} & \multicolumn{1}{c}{Median} & \multicolumn{1}{c}{Pctl(75)} & \multicolumn{1}{c}{Max} \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\texttt{PFRV} & 46,483 & $-$3.82 & .86 & $-$8.76 & $-$4.38 & $-$3.86 & $-$3.30 & 2.39 \\ 
+\texttt{PreFRV} & 46,483 & $-$3.87 & .85 & $-$8.73 & $-$4.41 & $-$3.90 & $-$3.37 & 1.97 \\
+\texttt{NEG\_SENT} & 46,483 & .01 & .01 & $-$.01 & .01 & .01 & .02 & .06 \\ 
+\texttt{POS\_SENT} & 46,483 & $-$.11 & .02 & $-$.22 & $-$.13 & $-$.11 & $-$.10 & .03 \\ 
+\texttt{ASSERT} & 46,483 & $-$.16 & .02 & $-$.36 & $-$.17 & $-$.16 & $-$.15 & .24 \\ 
+\texttt{UNCERT} & 46,483 & $-$.02 & .01 & $-$.10 & $-$.03 & $-$.02 & $-$.01 & .17 \\ 
+\texttt{LITI} & 46,483 & .03 & .001 & .02 & .03 & .03 & .03 & .04 \\ 
+\texttt{GFS} & 46,483 & 14.55 & 1.77 & 7.14 & 13.29 & 14.46 & 16.11 & 19.89 \\ 
+\texttt{FIN} & 46,483 & 5.87 & 1.11 & 0.00 & 5.67 & 6.11 & 6.48 & 8.12 \\ 
+\texttt{SIZE} & 46,483 & 6.40 & 2.32 & $-$6.91 & 4.85 & 6.51 & 7.93 & 14.73 \\ 
+\texttt{BTM} & 46,483 & $-$.82 & .96 & $-$10.68 & $-$1.27 & $-$.71 & $-$.23 & 8.30 \\ 
+\texttt{TRVOL} & 46,483 & 11.60 & 2.58 & 0.00 & 9.90 & 11.89 & 13.44 & 20.05 \\ 
+\texttt{VIX} & 46,483 & 19.68 & 8.37 & 9.43 & 13.84 & 17.86 & 23.18 & 72.67 \\ 
+\texttt{LEVER} & 46,483 & .52 & .25 & 0.00 & .32 & .52 & .72 & 1.00 \\ 
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\multicolumn{9}{p{14.5cm}}{\begin{scriptsize} \textit{Notes}: As indicated in the description of the variable construction (sections \ref{ssec: senti_LHS}, \ref{ssec: volamodel_vola+senti}, and \ref{ssec: volamodel_controls}, respectively), the variables \texttt{PFRV}, \texttt{PreFRV}, \texttt{GFS}, \texttt{FIN}, \texttt{SIZE}, \texttt{BTM}, and \texttt{TRVOL} are expressed in logarithmic form. All one-hot encoded boolean variables (i.e., \texttt{YRDUMMY}, \texttt{MTHDUMMY}, \texttt{WEEKDAYDUMMY}, \texttt{MONTHDAYDUMMY}, \texttt{SECTORDUMMY}, and \texttt{10KDUMMY}) are omitted from this table. \end{scriptsize}} \\
+%\\[-1.8ex] 
+\hline 
+%\\[-1.8ex]
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,238 @@
+%%%-----------------------%%%
+%%%--------PREAMBLE-------%%%
+%%%-----------------------%%%
+
+\documentclass[11pt, a4paper]{article}
+
+% Define input coding to UTF8
+\usepackage[utf8]{inputenc}
+
+% Package to have abstract environment with correct format (i.e., centered, larger left/right margin, etc.)
+\usepackage{abstract}
+
+% Define 1.5pt line spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% Define the page margins
+\usepackage[a4paper, total={6in,9in}]{geometry}
+
+% Package for english language correction and hyphenation
+\usepackage[english]{babel}
+
+% Package for "correct" quotation marks
+\usepackage{csquotes}
+
+% Package for mathematics
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Define capitalized versions for table alignment -- this allows line breaks yet still positions centered/left/right
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % linksbündig mit Breitenangabe
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}} % zentriert mit Breitenangabe
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}} % rechtsbündig mit Breitenangabe
+
+% packages for rotating tables
+\usepackage{adjustbox}
+\usepackage{ctable}
+\usepackage{rotating}
+\usepackage{pbox}
+
+% Define a colorbox for highlighting terms in math mode
+\newcommand{\highlight}[1]{
+  \colorbox{light_gray}{$\displaystyle#1$}}
+
+% Package for mathematical macros
+\usepackage{mathtools}
+
+% Define the expected value and conditional expectation operators
+\newcommand{\expect}{\operatorname{E}\expectarg}
+\DeclarePairedDelimiterX{\expectarg}[1]{[}{]}{%
+  \ifnum\currentgrouptype=16 \else\begingroup\fi
+  \activatebar#1
+  \ifnum\currentgrouptype=16 \else\endgroup\fi
+}
+
+\newcommand{\innermid}{\nonscript\;\delimsize\vert\nonscript\;}
+\newcommand{\activatebar}{%
+  \begingroup\lccode`\~=`\|
+  \lowercase{\endgroup\let~}\innermid 
+  \mathcode`|=\string"8000
+}
+
+% define numbering command for (last / specific) line of math arrays
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+
+% Package to optimize the positioning / float of figures and tables
+\usepackage{float}
+
+% Package to have the possibility of modifying the appearance of numbered lists
+\usepackage{enumerate}
+
+% Package to define the style of footnotes - with option bottom we place them at the bottom of each page
+\usepackage[bottom, hang]{footmisc}
+
+%\restylefloat{table, figure}
+
+% Package for graphs, especially for subfigures 
+\usepackage{graphicx}
+\usepackage{subfig}
+
+% Package to insert "random" text a la "lorem ipsum"
+%%\usepackage{blindtext}
+
+% Package to "shadow" cols/rows of tables and create colored boxes
+\usepackage{xcolor}
+
+\newcommand{\cbox}[2][gray]{%
+  \colorbox{#1}{\parbox{\dimexpr\linewidth-2\fboxsep}{\strut #2\strut}}%
+}
+\definecolor{light_gray}{gray}{0.85}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{3mm plus1mm minus1mm}
+
+% Caption Package: define the caption of tables to be a bit further down and not "stick" to the table's last row
+%%\usepackage{caption} 
+%%\captionsetup[table, longtable]{skip = 6pt}
+
+% long tables across multiple pages
+\usepackage{longtable}
+
+% format for captions: boldfaced, left-aligned
+\captionsetup{labelfont = {bf}, justification = raggedright, singlelinecheck = false, format = hang}
+\newcommand{\source}[1]{\caption*{\textbf{Source:} {#1}} }
+
+% Define the paths were graphs and images will be loaded
+\graphicspath{{./Images/}{./Results_Images/}{./Results_Tables/}}
+
+% Define the header line
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+%\cfoot{\thepage}
+%\chead{{\small \textit{Using Text Sentiment of Company Filings to Forecast Volatility}}}
+\chead{\thepage}
+%\lhead{Forecasting Realized Equity Volatility From Text Sentiment Revealed by Company Filings}
+
+% Define chapter-wise numbering of figures & tables
+\usepackage{chngcntr}
+%%\counterwithin{figure}{section}
+%%\counterwithin{table}{section}
+\counterwithin{equation}{section}
+
+% Package for appendices
+\usepackage[toc, page]{appendix}
+
+\usepackage{pdflscape}
+
+
+% BibLaTex: load package
+\usepackage[style=authoryear, date=year, backend=biber, maxbibnames=10, backref=true, backrefstyle=two, doi=false, isbn=false, url=false, maxcitenames=2, dashed=false]{biblatex}
+% Note that block = par prints each element (i.e., author name, paper name, journal name, etc.) of the bib entries in a separate line
+
+% Let Biblatex ignore the abstract part of the entries
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{
+      \step[fieldset=abstract, null]
+    }
+  }
+}
+
+% put some space between the entries in the bibliography 
+\setlength\bibitemsep{0.5\baselineskip}
+
+% Remove quotation marks around titles in the bibliogaphy and remove the italic font 
+\DeclareFieldFormat[article, book, inbook, incollection, inproceedings, misc, thesis, unpublished]{title}{#1}
+
+% Remove the "in" before the Journal Name
+\renewbibmacro{in:}{}
+
+% Package for hyperlinks and URLs
+%\usepackage[colorlinks=true, allcolors=magenta]{hyperref} % for colored links
+\usepackage{hyperref} % for uncolored = black links
+
+% Set a high penalty for URLs outside the page margins so as to force a line break in the bibliography
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+
+% Avoid hyphenation in general
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=7000
+\hbadness=7000
+
+% Place all tables and figures at the end of the paper
+%%\usepackage[nolists, tabhead, fighead, tablesfirst, heads]{endfloat}
+%%\DeclareDelayedFloatFlavor{sidewaystable}{table}
+
+% Auto-generate a list of abbreviations
+\usepackage[norefpage]{nomencl}
+% Rename the title of the nomenclature to "list of abbrevations"
+%%\renewcommand{\nomname}{List of Abbreviations}
+% print the abbreviations in bold
+%%\def\nomlabel#1{\textbf{#1}\hfil}
+
+% Add .bib database containing all my literature
+\addbibresource{./bibliography_database_raw.bib}
+
+\begin{document}
+% \input{./00_Titlepage}
+
+%%%---------------------------%%%
+%%%-------INTRO PART-------       %%%
+%%%---------------------------%%%
+
+% format page numbering (intro part with Roman letters, rest of thesis with Arabic letters)
+\input{./00_Abstract}
+\pagenumbering{Roman}
+\setcounter{page}{1}
+\tableofcontents
+\clearpage
+%%\listoffigures
+%%\clearpage
+%%\listoftables
+%%\clearpage
+%%\makenomenclature
+%%\printnomenclature[1.4in]
+%%\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+%%%-----------------------%%%
+%%%-------PART TEXT-------%%%
+%%%-----------------------%%%
+
+\input{./01_Introduction}
+%\label{sec: introduction}
+\input{./02_Literature_Review}
+%\label{sec: lit_rev}
+\input{./03_Sentiment_Calculation}
+%\label{sec: sentiment_calcs}
+\input{./04_Vola_Model}
+%\label{sec: volamodel}
+\input{./05_Data}
+%\label{sec: data_sample}
+\input{./06_Results}
+%\label{sec: results}
+\input{./07_Robustness}
+%\label{sec: robustness}
+\input{./08_Conclusion}
+%\label{sec: conclusion}
+\input{./00_Bibliography}
+
+\input{./00_Tables_and_Graphs}
+
+%%\processdelayedfloats
+
+%%\makeatletter
+%%\efloat@restorefloats
+%%\makeatother
+
+\input{./00_Appendix}
+
+%\input{./00_Authorship}
+
+\end{document}
