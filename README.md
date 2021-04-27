@@ -53,8 +53,3 @@ Finally, for the out-of sample years, a regression is estimated in order to test
 * Conventional term weighting schemes, such as the TF-IDF, were used as benchmark models against the volatility-based weighting method.
 * Potential mismeasurement of the volatility proxy was tested by using two common alternative proxies (absolute returns and squared returns).
 * `𝑃𝑟𝑒𝐹𝑅𝑉` was replaced by two more «powerful» predictors, namely the 1-week ahead volatility forecasts from a GARCH and GJR-GARCH model, respectively. 
-
-
-## Full Thesis / Executive Summary
-
-If allowed - I will attach here the (a) full thesis PDF, and (b) the summary presentation PDF I used in the thesis defense in Milano. 
